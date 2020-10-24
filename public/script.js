@@ -125,7 +125,7 @@ function addRowPoke(poke, lastpoke){
 	var place = row.insertCell(2);
 	place.innerHTML = poke.place;
 	if(poke.method == "Stone"){
-		place.innerHTML += ' <img src=\"stones/' + poke.place.substring(6) + '.png\" style="vertical-align:middle">'
+		place.innerHTML += ' <img src=\"stones/' + poke.subloc + '.png\" style="vertical-align:middle">'
 	}
 
 	var game = row.insertCell(3);
