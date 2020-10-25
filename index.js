@@ -2,20 +2,36 @@ const express = require('express')
 const path = require('path');
 const Database = require('better-sqlite3');
 const session = require('express-session');
+const bcrypt = require('bcrypt');
+const saltRounds = 10;
+const nunjucks = require('nunjucks');
 
 const app = express()
 const port = 3000
 
+// Configure Nunjucks
+var _templates = process.env.NODE_PATH ? process.env.NODE_PATH + '/templates' : 'templates' ;
+nunjucks.configure( _templates, {
+    autoescape: true,
+    cache: false,
+    express: app
+} ) ;
+
+app.engine('html', nunjucks.render)
+app.set('view engine', 'html');
+
 var bodyParser = require('body-parser');
 app.use(bodyParser.json());
+app.use(bodyParser.urlencoded({ extended: false }));
 
 
-const db = new Database('gen4dex_db.sqlite3', { verbose: console.log });
+const db = new Database('gen4dex_db.sqlite3');
 
 app.use(express.static('public'));
 
 app.get('/', (req, res) => {
-	res.sendFile(path.join(__dirname + '/html/index.html'));
+	//res.sendFile(path.join(__dirname + '/html/index.html'));
+	res.render('index', {islogged: true, username: "USERNAMEE"})
 })
 
 app.post('/post', (req, res) => {
@@ -57,26 +73,35 @@ app.post('/post', (req, res) => {
 		filtro = " and dex >= " + data.poke;
 	}
 
-	console.log(data);
-
 	let sql = 'select * from alldata where 1 = 1' + filtro + games + groupby + ' order by dex limit ' + limit;
-	console.log(sql)
 	let rows = db.prepare(sql).all({games:games});
 	res.json(rows);
 })
 
 app.get('/login', (req, res) => {
-	res.sendFile(path.join(__dirname + '/html/login.html'));
+	res.render('login', {error: false});
 })
 
 app.post('/login', (req, res) => {
-	var username = request.body.username;
-	var password = request.body.password;
-
+	var username = req.body.username;
+	var password = req.body.password;
 	if(username && password){
-		db.prepare('select * from users where username = ? and password_sha = ?') //WIP
+		let row = db.prepare('select * from users where username = ?').get(username);
+		if(row === undefined){
+			console.log("UNDEFINED")
+			res.render('login', {error: true});
+		}else{
+			var db_password = row.password
+			bcrypt.compare(password, db_password, (err, result) => {
+				if(result){
+					//YAY
+					res.redirect('/');
+				}else{
+					res.render('login', {error: true});
+				}
+			});
+		}
 	}
-	res.redirect('/');
 })
 
 

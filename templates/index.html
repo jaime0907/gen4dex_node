@@ -21,22 +21,22 @@
 		
 		<div id="menubar">
 			<div class="dropdown">
-			  <button class="dropbtn" id="locationbot" onclick="dropdownSelector()">Show Location
-			  </button>
-			  <div class="dropdown-content" id="myDropdown">
-			    <a href="#" onclick="allLocations()">Show all locations</a>
-			    <a href="#" onclick="mostProbable()">Show only most probable</a>
-			  </div>
+				<button class="dropbtn" id="locationbot" onclick="dropdownSelector()">Show Location
+				</button>
+				<div class="dropdown-content" id="myDropdown">
+					<a href="#" onclick="allLocations()">Show all locations</a>
+					<a href="#" onclick="mostProbable()">Show only most probable</a>
+				</div>
 			</div>
 
 			<div class="dropdown">
-			  <button class="dropbtn" id="numbot" onclick="dropdownNum()">Nº Results
-			  </button>
-			  <div class="dropdown-content" id="myDropdownNum">
-			    <a href="#" onclick="limit10()">Show 10 results</a>
-			    <a href="#" onclick="limit50()">Show 50 results</a>
-			    <a href="#" onclick="limit100()">Show 100 results</a>
-			  </div>
+				<button class="dropbtn" id="numbot" onclick="dropdownNum()">Nº Results
+				</button>
+				<div class="dropdown-content" id="myDropdownNum">
+					<a href="#" onclick="limit10()">Show 10 results</a>
+					<a href="#" onclick="limit50()">Show 50 results</a>
+					<a href="#" onclick="limit100()">Show 100 results</a>
+				</div>
 			</div>
 
 			<div id="hg">
@@ -63,8 +63,8 @@
 				<input type="checkbox" id="gameevo" onchange="getPoke()" checked="true" class="chk-btn">
 				<label for="gameevo" class="menubaritem">Evo</label>
 			</div>
-			{% if user.is_authenticated %}
-				<a href="/profile" class="menubaritem">{{user.username}}</a>
+			{% if islogged %}
+				<a href="/profile" class="menubaritem">{{username}}</a>
 				<a href="/logout" class="menubaritem">Logout</a>
 			{% else %}
 				<a href="/login" class="menubaritem">Login</a>
