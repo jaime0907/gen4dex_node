@@ -1,7 +1,7 @@
 const express = require('express')
 const path = require('path');
 const Database = require('better-sqlite3');
-
+const session = require('express-session');
 
 const app = express()
 const port = 3000
@@ -50,12 +50,35 @@ app.post('/post', (req, res) => {
 		limit = data.limit
 	}
 
+	filtro = ""
+	if(isNaN(data.poke)){
+		filtro = " and name like '" + data.poke + "%'";
+	}else if(data.poke != ""){
+		filtro = " and dex >= " + data.poke;
+	}
+
 	console.log(data);
 
-	let sql = 'select * from alldata where 1 = 1' + games + groupby + ' order by dex limit ' + limit;
+	let sql = 'select * from alldata where 1 = 1' + filtro + games + groupby + ' order by dex limit ' + limit;
+	console.log(sql)
 	let rows = db.prepare(sql).all({games:games});
 	res.json(rows);
 })
+
+app.get('/login', (req, res) => {
+	res.sendFile(path.join(__dirname + '/html/login.html'));
+})
+
+app.post('/login', (req, res) => {
+	var username = request.body.username;
+	var password = request.body.password;
+
+	if(username && password){
+		db.prepare('select * from users where username = ? and password_sha = ?') //WIP
+	}
+	res.redirect('/');
+})
+
 
 app.listen(port, () => {
 	console.log(`Example app listening at http://localhost:${port}`)
