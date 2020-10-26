@@ -141,6 +141,14 @@ function addRowPoke(poke, lastpoke){
 		game.innerHTML = 'Evo';
 		game.style.background = "#239641";
 		game.style.color = "white"
+	}else if(poke.egg == 1){
+		game.innerHTML = 'Egg';
+		game.style.background = "#e8e0a0";
+		game.style.color = "black"
+	}else if(poke.event == 1){
+		game.innerHTML = 'Event';
+		game.style.background = "#5bf7ef";
+		game.style.color = "black"
 	}
 	if(poke.d == 1){
 		game.innerHTML = game.innerHTML.concat('D');
@@ -178,6 +186,15 @@ function addRowPoke(poke, lastpoke){
 	}
 	if(poke.method == "Stone"){
 		method.innerHTML += ' <img src=\"stones/' + poke.subloc + '.png\" style="vertical-align:middle">'
+	}
+	if(poke.method == "Egg"){
+		method.innerHTML = ' <img src=\"egg/Egg.png\" style="vertical-align:middle">'
+		if(poke.subloc != ""){
+			method.innerHTML += '+ <img src=\"egg/' + poke.subloc + '.png\" style="vertical-align:middle">'
+		}
+	}
+	if(poke.method == "EggM"){
+		method.innerHTML = ' <img src=\"egg/EggM.png\" style="vertical-align:middle">'
 	}
 
 	var level = row.insertCell(5);
@@ -274,6 +291,8 @@ function getPoke(){
 		pe: document.getElementById("gamepe").checked,
 		pt: document.getElementById("gamept").checked,
 		evo: document.getElementById("gameevo").checked,
+		egg: document.getElementById("gameegg").checked,
+		event: document.getElementById("gameevent").checked,
 		limit: document.getElementById("limit").value,
 		selector: document.getElementById("groupselector").value
 	}));

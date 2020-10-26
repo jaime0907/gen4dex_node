@@ -3152,6 +3152,7 @@ input.chk-btn + label {
 #p input.chk-btn:not(:checked) + label:hover {
     background-color: #724478;
 }
+
 #pt input.chk-btn + label:active,
 #pt input.chk-btn:checked + label {
   background: rgb(74, 0, 0);
@@ -3160,6 +3161,7 @@ input.chk-btn + label {
 #pt input.chk-btn:not(:checked) + label:hover {
     background-color: #4a2c2c;
 }
+
 #evo input.chk-btn + label:active,
 #evo input.chk-btn:checked + label {
   background: rgb(35, 150, 65);
@@ -3168,9 +3170,29 @@ input.chk-btn + label {
 #evo input.chk-btn:not(:checked) + label:hover {
     background-color: #6f967a;
 }
-#hg, #ss, #d, #p, #pt, #evo {
+
+#egg input.chk-btn + label:active,
+#egg input.chk-btn:checked + label {
+  background: rgb(232, 224, 160);
+    color: #000;
+}
+#egg input.chk-btn:not(:checked) + label:hover {
+    background-color: rgb(131, 126, 90);
+}
+
+
+#event input.chk-btn + label:active,
+#event input.chk-btn:checked + label {
+  background: rgb(91, 247, 239);
+    color: #000;
+}
+#event input.chk-btn:not(:checked) + label:hover {
+    background-color: rgb(56, 141, 137);
+}
+
+#hg, #ss, #d, #p, #pt, #evo, #egg, #event{
     display: inline-block;
-    width:44px;
+    min-width:44px;
 }
 #hg {
     grid-area: hg;
@@ -3189,6 +3211,12 @@ input.chk-btn + label {
 }
 #evo {
     grid-area: evo;
+}
+#egg{
+    grid-area: egg;
+}
+#event{
+    grid-area: event;
 }
 #pokename, #groupselector, #limit {
 

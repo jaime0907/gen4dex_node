@@ -68,6 +68,12 @@ app.post('/post', (req, res) => {
 	if(data.evo){
 		games += " or evo = 1"
 	}
+	if(data.egg){
+		games += " or egg = 1"
+	}
+	if(data.event){
+		games += " or event = 1"
+	}
 	games += ")"
 
 	groupby = ""
@@ -98,7 +104,7 @@ app.post('/post', (req, res) => {
 		}
 	}
 
-	let sql = 'select * from alldata where 1 = 1' + filtro + catched + games + groupby + ' order by dex limit ' + limit;
+	let sql = 'select * from (select *, max(coalesce(probdawn,0), coalesce(probday,0), coalesce(probnight,0)) as maxprob from alldata where 1 = 1' + filtro + catched + games + ' order by dex, maxprob desc) ' + groupby + " limit " + limit;
 	let rows = db.prepare(sql).all({games:games});
 
 	res.json(rows);

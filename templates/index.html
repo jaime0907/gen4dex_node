@@ -58,6 +58,14 @@
 			<input type="checkbox" id="gameevo" onchange="getPoke()" checked="true" class="chk-btn">
 			<label for="gameevo" class="menubaritem">Evo</label>
 		</div>
+		<div id="egg">
+			<input type="checkbox" id="gameegg" onchange="getPoke()" checked="true" class="chk-btn">
+			<label for="gameegg" class="menubaritem">Egg</label>
+		</div>
+		<div id="event">
+			<input type="checkbox" id="gameevent" onchange="getPoke()" checked="true" class="chk-btn">
+			<label for="gameevent" class="menubaritem">Event</label>
+		</div>
 		{% if islogged %}
 			<a href="/profile" class="menubaritem">{{username}}</a>
 			<a href="/logout" class="menubaritem">Logout</a>
