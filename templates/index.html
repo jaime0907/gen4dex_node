@@ -14,9 +14,9 @@
 </head>
 
 {% block content %}
-	<div id="menubar">
+	<div id="menubar_main" class="menubar">
 		<div class="dropdown">
-			<button class="dropbtn" id="locationbot" onclick="dropdownSelector()">Show Location
+			<button class="dropbtn menubar_bot" id="locationbot" onclick="dropdownSelector()">Show Location
 			</button>
 			<div class="dropdown-content" id="myDropdown">
 				<a href="#" onclick="allLocations()">Show all locations</a>
@@ -25,13 +25,17 @@
 		</div>
 
 		<div class="dropdown">
-			<button class="dropbtn" id="numbot" onclick="dropdownNum()">Nº Results
+			<button class="dropbtn menubar_bot" id="numbot" onclick="dropdownNum()">Nº Results
 			</button>
 			<div class="dropdown-content" id="myDropdownNum">
 				<a href="#" onclick="limit10()">Show 10 results</a>
 				<a href="#" onclick="limit50()">Show 50 results</a>
 				<a href="#" onclick="limit100()">Show 100 results</a>
 			</div>
+		</div>
+
+		<div class="dropdown">
+			<button class="dropbtn menubar_bot" id="methods_bot" onclick="showMethods()">Show methods</button>
 		</div>
 
 		<div id="hg">
@@ -80,6 +84,38 @@
 		<a id="demo" style="display:none;">In Game Hour:</a>
 	</div>
 
+	<div id="menubar_methods" class="menubar menubar_methods">
+		<div id="wild">
+			<input type="checkbox" id="method-wild" onchange="getPoke()" checked="true" class="chk-btn">
+			<label for="method-wild" class="menubaritem">Wild</label>
+		</div>
+		<div id="headbutt">
+			<input type="checkbox" id="method-headbutt" onchange="getPoke()" checked="true" class="chk-btn">
+			<label for="method-headbutt" class="menubaritem">Headbutt</label>
+		</div>
+		<div id="hoenn">
+			<input type="checkbox" id="method-hoenn" onchange="getPoke()" checked="true" class="chk-btn">
+			<label for="method-hoenn" class="menubaritem">Hoenn</label>
+		</div>
+		<div id="sinnoh">
+			<input type="checkbox" id="method-sinnoh" onchange="getPoke()" checked="true" class="chk-btn">
+			<label for="method-sinnoh" class="menubaritem">Sinnoh</label>
+		</div>
+		<div id="radar">
+			<input type="checkbox" id="method-radar" onchange="getPoke()" checked="true" class="chk-btn">
+			<label for="method-radar" class="menubaritem">Poké Radar</label>
+		</div>
+		<div id="swarm">
+			<input type="checkbox" id="method-swarm" onchange="getPoke()" checked="true" class="chk-btn">
+			<label for="method-swarm" class="menubaritem">Swarm</label>
+		</div>
+		<div id="other">
+			<input type="checkbox" id="method-other" onchange="getPoke()" checked="true" class="chk-btn">
+			<label for="method-other" class="menubaritem">Other</label>
+		</div>
+
+	</div>
+
 	<div id="centergrid">
 		<div id="filter" style="text-align:right; float:left;margin: 4px; display:none;">
 			<div id="location" style="margin: 4px;">
@@ -122,6 +158,15 @@
 <script src="https://code.jquery.com/jquery-3.1.0.min.js"></script>
 <script src="script.js"></script>
 <script>
+
+	function showMethods(){
+		document.getElementById("menubar_methods").classList.toggle("show");
+		if(document.getElementById("menubar_methods").classList.contains("show")){
+			document.getElementById("methods_bot").innerHTML = "Hide methods";
+		}else{
+			document.getElementById("methods_bot").innerHTML = "Show methods";
+		}
+	}
 
 	function dropdownSelector() {
 		document.getElementById("myDropdown").classList.toggle("show");

@@ -2968,8 +2968,6 @@
 }
 
 
-</style>
-<style type="text/css">
 #tablepoke {
     font-family: "Quicksand", Arial, Helvetica, sans-serif;
     border-collapse: collapse;
@@ -3027,7 +3025,7 @@
     text-shadow: 3px 2px 5px rgba(0,0,0,0.3);
 }
 
-#menubar {
+.menubar {
     grid-area: menubar;
     background-color: #363636;
     color: #FFF;
@@ -3190,7 +3188,70 @@ input.chk-btn + label {
     background-color: rgb(56, 141, 137);
 }
 
-#hg, #ss, #d, #p, #pt, #evo, #egg, #event{
+#wild input.chk-btn + label:active,
+#wild input.chk-btn:checked + label {
+  background: rgb(8, 138, 36);
+    color: #FFF;
+}
+#wild input.chk-btn:not(:checked) + label:hover {
+    background-color: rgb(58, 109, 69);
+}
+
+#headbutt input.chk-btn + label:active,
+#headbutt input.chk-btn:checked + label {
+  background: rgb(102, 68, 5);
+    color: #FFF;
+}
+#headbutt input.chk-btn:not(:checked) + label:hover {
+    background-color:  rgb(95, 80, 53);
+}
+
+#hoenn input.chk-btn + label:active,
+#hoenn input.chk-btn:checked + label {
+  background: rgb(14, 43, 209);
+    color: #FFF;
+}
+#hoenn input.chk-btn:not(:checked) + label:hover {
+    background-color: rgb(34, 43, 95);
+}
+
+#sinnoh input.chk-btn + label:active,
+#sinnoh input.chk-btn:checked + label {
+  background: rgb(110, 6, 151);
+    color: #FFF;
+}
+#sinnoh input.chk-btn:not(:checked) + label:hover {
+    background-color: rgb(62, 40, 70);
+}
+
+#radar input.chk-btn + label:active,
+#radar input.chk-btn:checked + label {
+  background: rgb(117, 15, 15);
+    color: #FFF;
+}
+#radar input.chk-btn:not(:checked) + label:hover {
+    background-color: rgb(104, 62, 62);
+}
+
+#swarm input.chk-btn + label:active,
+#swarm input.chk-btn:checked + label {
+  background: rgb(201, 4, 119);
+    color: #FFF;
+}
+#swarm input.chk-btn:not(:checked) + label:hover {
+    background-color: rgb(148, 72, 116);
+}
+
+#other input.chk-btn + label:active,
+#other input.chk-btn:checked + label {
+  background: rgb(12, 128, 93);
+    color: #FFF;
+}
+#other input.chk-btn:not(:checked) + label:hover {
+    background-color: rgb(50, 82, 72);
+}
+
+#hg, #ss, #d, #p, #pt, #evo, #egg, #event, #wild, #headbutt, #hoenn, #sinnoh, #radar, #swarm, #other{
     display: inline-block;
     min-width:44px;
 }
@@ -3245,23 +3306,15 @@ input.chk-btn + label {
     border: solid grey;
     border-width:  0px 1px 0px 1px;
 }
-#locationbot {
+.menubar_bot {
   background-color: inherit;
 }
 
-#locationbot:hover {
+.menubar_bot:hover {
   background-color: #991515;
     transition: all .1s ease-in-out;
 }
 
-#numbot {
-  background-color: inherit;
-}
-
-#numbot:hover {
-  background-color: #991515;
-    transition: all .1s ease-in-out;
-}
 
 .dropdown-content {
   display: none;
@@ -3284,6 +3337,11 @@ input.chk-btn + label {
 
 .dropdown-content a:hover {
   background-color: #ddd;
+}
+
+
+.menubar_methods {
+    display: none;
 }
 
 .show {
