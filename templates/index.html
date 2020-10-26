@@ -1,3 +1,4 @@
+{% extends "base.html" %}
 <!DOCTYPE html>
 <html>
 <head>
@@ -12,109 +13,104 @@
 	<link rel="stylesheet" href="style.css"/>
 </head>
 
-<body id="body1" style="background-color: #1c1c1c">
-	<div id="wrapper">
-		<div id="header">
-			<a href="/" id="title">GEN 4 DEX</a>
-			<p>A location guide por Pokémon D/P/Pt and HG/SS games.
-		</div>
-		
-		<div id="menubar">
-			<div class="dropdown">
-				<button class="dropbtn" id="locationbot" onclick="dropdownSelector()">Show Location
-				</button>
-				<div class="dropdown-content" id="myDropdown">
-					<a href="#" onclick="allLocations()">Show all locations</a>
-					<a href="#" onclick="mostProbable()">Show only most probable</a>
-				</div>
+{% block content %}
+	<div id="menubar">
+		<div class="dropdown">
+			<button class="dropbtn" id="locationbot" onclick="dropdownSelector()">Show Location
+			</button>
+			<div class="dropdown-content" id="myDropdown">
+				<a href="#" onclick="allLocations()">Show all locations</a>
+				<a href="#" onclick="mostProbable()">Show only most probable</a>
 			</div>
-
-			<div class="dropdown">
-				<button class="dropbtn" id="numbot" onclick="dropdownNum()">Nº Results
-				</button>
-				<div class="dropdown-content" id="myDropdownNum">
-					<a href="#" onclick="limit10()">Show 10 results</a>
-					<a href="#" onclick="limit50()">Show 50 results</a>
-					<a href="#" onclick="limit100()">Show 100 results</a>
-				</div>
-			</div>
-
-			<div id="hg">
-				<input type="checkbox" id="gamehg" onchange="getPoke()" checked="true" class="chk-btn">
-				<label for="gamehg" class="menubaritem">HG</label>
-			</div>
-			<div id="ss">
-				<input type="checkbox" id="gamess" onchange="getPoke()" checked="true" class="chk-btn">
-				<label for="gamess" class="menubaritem">SS</label>
-			</div>
-			<div id="d">
-				<input type="checkbox" id="gamed" onchange="getPoke()" checked="true" class="chk-btn">
-				<label for="gamed" class="menubaritem">D</label>
-			</div>
-			<div id="p">
-				<input type="checkbox" id="gamepe" onchange="getPoke()" checked="true" class="chk-btn">
-				<label for="gamepe" class="menubaritem">P</label>
-			</div>
-			<div id="pt">
-				<input type="checkbox" id="gamept" onchange="getPoke()" checked="true" class="chk-btn">
-				<label for="gamept" class="menubaritem">Pt</label>
-			</div>
-			<div id="evo">
-				<input type="checkbox" id="gameevo" onchange="getPoke()" checked="true" class="chk-btn">
-				<label for="gameevo" class="menubaritem">Evo</label>
-			</div>
-			{% if islogged %}
-				<a href="/profile" class="menubaritem">{{username}}</a>
-				<a href="/logout" class="menubaritem">Logout</a>
-			{% else %}
-				<a href="/login" class="menubaritem">Login</a>
-				<a href="/register" class="menubaritem">Register</a>
-			{% endif %}
-			<a href="/help" class="menubaritem">Help</a>
-
-
-
-			<a id="demo" style="display:none;">In Game Hour:</a>
 		</div>
 
-		<div id="centergrid">
-			<div id="filter" style="text-align:right; float:left;margin: 4px; display:none;">
-				<div id="location" style="margin: 4px;">
-					Show location:
-					<select id="groupselector"  onchange="getPoke()">
-						<option value=1>Most probable</option>
-						<option value=0>All of them</option>
-					</select>
-				</div>
+		<div class="dropdown">
+			<button class="dropbtn" id="numbot" onclick="dropdownNum()">Nº Results
+			</button>
+			<div class="dropdown-content" id="myDropdownNum">
+				<a href="#" onclick="limit10()">Show 10 results</a>
+				<a href="#" onclick="limit50()">Show 50 results</a>
+				<a href="#" onclick="limit100()">Show 100 results</a>
+			</div>
+		</div>
 
-				<div id="nresults" style="margin: 4px; display:none;">
-					Number of results:
-					<input id="limit" name="limit" type="text" value="50" size="1" onkeyup="getPoke()">
-				</div>
+		<div id="hg">
+			<input type="checkbox" id="gamehg" onchange="getPoke()" checked="true" class="chk-btn">
+			<label for="gamehg" class="menubaritem">HG</label>
+		</div>
+		<div id="ss">
+			<input type="checkbox" id="gamess" onchange="getPoke()" checked="true" class="chk-btn">
+			<label for="gamess" class="menubaritem">SS</label>
+		</div>
+		<div id="d">
+			<input type="checkbox" id="gamed" onchange="getPoke()" checked="true" class="chk-btn">
+			<label for="gamed" class="menubaritem">D</label>
+		</div>
+		<div id="p">
+			<input type="checkbox" id="gamepe" onchange="getPoke()" checked="true" class="chk-btn">
+			<label for="gamepe" class="menubaritem">P</label>
+		</div>
+		<div id="pt">
+			<input type="checkbox" id="gamept" onchange="getPoke()" checked="true" class="chk-btn">
+			<label for="gamept" class="menubaritem">Pt</label>
+		</div>
+		<div id="evo">
+			<input type="checkbox" id="gameevo" onchange="getPoke()" checked="true" class="chk-btn">
+			<label for="gameevo" class="menubaritem">Evo</label>
+		</div>
+		{% if islogged %}
+			<a href="/profile" class="menubaritem">{{username}}</a>
+			<a href="/logout" class="menubaritem">Logout</a>
+		{% else %}
+			<a href="/login" class="menubaritem">Login</a>
+			<a href="/register" class="menubaritem">Register</a>
+		{% endif %}
+		<a href="/help" class="menubaritem">Help</a>
+
+
+
+		<a id="demo" style="display:none;">In Game Hour:</a>
+	</div>
+
+	<div id="centergrid">
+		<div id="filter" style="text-align:right; float:left;margin: 4px; display:none;">
+			<div id="location" style="margin: 4px;">
+				Show location:
+				<select id="groupselector"  onchange="getPoke()">
+					<option value=1>Most probable</option>
+					<option value=0>All of them</option>
+				</select>
 			</div>
 
-			<div id="searchbox">
-				<input id="pokename" name="pokename" type="text" placeholder="Filter by name or dex number..." autofocus onkeyup="getPoke()">
+			<div id="nresults" style="margin: 4px; display:none;">
+				Number of results:
+				<input id="limit" name="limit" type="text" value="50" size="1" onkeyup="getPoke()">
 			</div>
+		</div>
 
-			<div id="main">
-				<table id="tablepoke" align="center">
-					<tr>
-						<th>Dex</th>
-						<th>Pokémon</th>
-						<th>Location</th>
-						<th>Game</th>
-						<th>Method</th>
-						<th>Level</th>
-						<th>Mor</th>
-						<th>Day</th>
-						<th>Nig</th>
-					</tr>
-				</table>
-			</div>
+		<div id="searchbox">
+			<input id="pokename" name="pokename" type="text" placeholder="Filter by name or dex number..." autofocus onkeyup="getPoke()">
+		</div>
+
+		<div id="main">
+			<table id="tablepoke" align="center">
+				<tr>
+					<th>Dex</th>
+					<th>Pokémon</th>
+					<th>Location</th>
+					<th>Game</th>
+					<th>Method</th>
+					<th>Level</th>
+					<th>Mor</th>
+					<th>Day</th>
+					<th>Nig</th>
+				</tr>
+			</table>
 		</div>
 	</div>
-</body>
+{% endblock %}
+
+{% block scripts %}
 <script src="https://code.jquery.com/jquery-3.1.0.min.js"></script>
 <script src="script.js"></script>
 <script>
@@ -184,4 +180,4 @@
 		}
 	}
 </script>
-</html>
+{%endblock%}

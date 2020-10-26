@@ -31,7 +31,7 @@ app.use(express.static('public'));
 
 app.get('/', (req, res) => {
 	//res.sendFile(path.join(__dirname + '/html/index.html'));
-	res.render('index', {islogged: true, username: "USERNAMEE"})
+	res.render('index', {islogged: false, username: "USERNAMEE"})
 })
 
 app.post('/post', (req, res) => {
@@ -88,7 +88,6 @@ app.post('/login', (req, res) => {
 	if(username && password){
 		let row = db.prepare('select * from users where username = ?').get(username);
 		if(row === undefined){
-			console.log("UNDEFINED")
 			res.render('login', {error: true});
 		}else{
 			var db_password = row.password
@@ -101,6 +100,33 @@ app.post('/login', (req, res) => {
 				}
 			});
 		}
+	}
+})
+
+app.get('/register', (req, res) => {
+	res.render('register', {error: false});
+})
+
+app.post('/register', (req, res) => {
+	var username = req.body.username;
+	var password = req.body.password;
+	var password2 = req.body.password2;
+	if(username && password && password2){
+		if(password == password2){
+			let row = db.prepare('select * from users where username = ?').get(username);
+			if(row === undefined){
+				bcrypt.hash(password, saltRounds, (err, hash) => {
+					db.prepare('insert into users (username, password) values (?,?)').run(username, hash);
+				})
+				res.render('index');
+			}else{
+				res.render('register', {error: true, msg:"Username " + username + " is already taken."});
+			}
+		}else{
+			res.render('register', {error: true, msg:"Passwords doesn't match."});
+		}
+	}else{
+		res.render('register', {error:true, msg:"Please, select an username and a password to register."})
 	}
 })
 
