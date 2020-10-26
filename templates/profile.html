@@ -1,0 +1,154 @@
+{% extends "base.html" %}
+
+{% block head %}
+<style type="text/css">
+  #tabledex {
+    font-family: "Quicksand", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    transition: all .1s ease-in-out;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top:16px;
+  }
+  #tabledex td, #tabledex th {
+    border: 1px solid #666;
+    padding: 3px;
+    text-align: center;
+    vertical-align: middle;
+  }
+  #tabledex tr:nth-child(even){background-color: #f2f2f2;}
+  #tabledex tr:nth-child(odd){background-color: #ffffff;}
+  #tabledex tr:hover {
+    background-color: #ddd;
+    transition: all .1s ease-in-out;
+  }
+  #tabledex th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    background-color: #991515;
+    color: white;
+  }
+  #tabledex td {
+    color: black;
+  }
+  .greyed {
+    filter: grayscale(100%) brightness(50%);
+  }
+  .dexentry {
+    cursor: pointer;
+  }
+  .hidetext{
+    display:none;
+  }
+</style>
+{% endblock %}
+
+
+
+{%block content%}
+  <h1>{{user.username}}</h1>
+  <div id="profile_text" class="hidetext" style="margin: 0 auto; width:500px">
+    <p>
+    If you want to quickly insert your current dex, for each Pokémon type 1 if you have it, and 0 if you don't.
+    For example, 111000000100... means that you have Bulbasaur, Ivysaur, Venusaur and Caterpie, and nothing else.<br>
+    If you get to your last catched Pokémon and you still have a long way until #493, you don't have to fill all the remaining zeros.
+    <br>(For example, let's say your last catched Pokémon is Wailmer, which is #320. You'd still have to put more than 170 zeros. You don't have to. Just put the 1 in the 320 position and hit Submit)
+    </p>
+  </div>
+  
+  <form action="/profile" method="POST">
+    <input type="text" name="poketext" value="">
+    <input type="submit" value="Submit">
+    <input type="button" value="Show Info" onclick="showInfo(this)">
+  </form>
+  {{msg}}
+  <div id="profile_text_2" class="hidetext" style="margin: 0 auto; width:500px">
+    <p>
+      In the table below you can click the Pokémon to register or unregister them from your Pokédex in a quick way.<br>
+      If you just registered and have an empty Pokédex, it is recommended to use the above "ones and zeros" method, to enter
+      quickly all of your Pokémon, and then check in the table for any errors.
+    </p>
+  </div>
+  <p>Current Pokédex:</p>
+  <table id='tabledex'>
+    {% for pcinco in pokes %}
+      <tr>
+        {% for p in pcinco %}          
+          {% if p.catch == 0 %}
+          <td class='dexentry greyed' onmouseover="hoverDexEntry(this)" onmouseleave="unhoverDexEntry(this)" onclick="clickDexEntry({{p.dex}}, this)">
+            <div class="sprite sprite-{{p.zerodex}}MS" style="vertical-align:middle"></div>
+          </td>
+          {% elif p.catch == 1 %}
+          <td class='dexentry' onmouseover="hoverDexEntry(this)" onmouseleave="unhoverDexEntry(this)" onclick="clickDexEntry({{p.dex}}, this)">
+            <div class="sprite sprite-{{p.zerodex}}MS" style="vertical-align:middle"></div>
+          </td>
+          {% endif %}
+        {% endfor %}
+      </tr>
+    {% endfor %}
+  </table>
+  
+{% endblock %}
+
+
+
+{% block scripts %}
+<script>
+  function getCookie(name) {
+   var cookieValue = null;
+   if (document.cookie && document.cookie != '') {
+       var cookies = document.cookie.split(';');
+       for (var i = 0; i < cookies.length; i++) {
+           var cookie = jQuery.trim(cookies[i]);
+           // Does this cookie string begin with the name we want?
+           if (cookie.substring(0, name.length + 1) == (name + '=')) {
+               cookieValue = decodeURIComponent(cookie.substring(name.length + 1));
+               break;
+           }
+       }
+   }
+	 return cookieValue;
+}
+	function hoverDexEntry(x){
+		x.style.background = "#e3a90b";
+  }
+  function unhoverDexEntry(x){
+		x.style.background = '';
+	}
+  function clickDexEntry(dex, x){
+    
+    var xhr = new XMLHttpRequest();
+    if(dex > 493){
+      return;
+    }
+    if(x.classList.contains("greyed")){
+      xhr.open("POST", "/catchpoke", true);
+      x.classList.remove('greyed');
+    }else{
+      xhr.open("POST", "/uncatchpoke", true);
+      x.classList.add('greyed');
+    }
+    xhr.setRequestHeader('Content-Type', 'application/json');
+    xhr.setRequestHeader("X-CSRFToken", getCookie('csrftoken'));
+    xhr.send(JSON.stringify({
+      dex: parseInt(dex)
+    }));
+  };
+
+  function showInfo(but){
+    if(document.getElementById("profile_text").classList.contains("hidetext")){
+      document.getElementById("profile_text").classList.remove("hidetext");
+      document.getElementById("profile_text_2").classList.remove("hidetext");
+      but.value = "Hide info";
+    }else{
+      document.getElementById("profile_text").classList.add("hidetext");
+      document.getElementById("profile_text_2").classList.add("hidetext");
+      but.value = "Show info";
+    }
+    
+  }
+</script>
+
+
+{% endblock %}

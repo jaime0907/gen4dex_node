@@ -124,9 +124,7 @@ function addRowPoke(poke, lastpoke){
 
 	var place = row.insertCell(2);
 	place.innerHTML = poke.place;
-	if(poke.method == "Stone"){
-		place.innerHTML += ' <img src=\"stones/' + poke.subloc + '.png\" style="vertical-align:middle">'
-	}
+	
 
 	var game = row.insertCell(3);
 	game.innerHTML = '';
@@ -177,6 +175,9 @@ function addRowPoke(poke, lastpoke){
 	method.innerHTML = poke.method;
 	if(poke.method == "R" || poke.method == "S" || poke.method == "FR" || poke.method == "LG" || poke.method == "E" || poke.method == "FRLGE" || poke.method == "Any"){
 		method.innerHTML = ' <img src=\"gba/' + poke.method + '.png\" style="vertical-align:middle"> Slot 2'
+	}
+	if(poke.method == "Stone"){
+		method.innerHTML += ' <img src=\"stones/' + poke.subloc + '.png\" style="vertical-align:middle">'
 	}
 
 	var level = row.insertCell(5);
