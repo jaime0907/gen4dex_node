@@ -100,6 +100,10 @@ function FormatNumberLength(num, length) {
     return r;
 }
 
+function getSprite(classname){
+	return '<div class="bg-' + classname.replaceAll(" ", "_") + '" style="vertical-align:middle; display:inline-block; margin: 0px 4px;"></div>';
+}
+
 function addRowPoke(poke, lastpoke){
 	var table = document.getElementById("tablepoke");
 	var rows = 1;
@@ -179,24 +183,50 @@ function addRowPoke(poke, lastpoke){
 			break;
 	}
 
-	var method = row.insertCell(4);
-	method.innerHTML = '<img src=\"method/' + poke.method + '.png\" style="vertical-align:middle"> ' + poke.method
+	var methodrow = row.insertCell(4);
+	var method = document.createElement('div');
+	method.className = 'outer';
+	methodrow.appendChild(method)
+
+	method.innerHTML = getSprite(poke.method) + ' ' + poke.method
 	if(poke.method == "R" || poke.method == "S" || poke.method == "FR" || poke.method == "LG" || poke.method == "E" || poke.method == "FRLGE" || poke.method == "Any"){
-		method.innerHTML = ' <img src=\"gba/' + poke.method + '.png\" style="vertical-align:middle"> Slot 2'
+		method.innerHTML = getSprite(poke.method) + ' Slot 2';
 	}
 	if(poke.method == "Stone"){
-		method.innerHTML = '<img src=\"stones/' + poke.subloc + '.png\" style="vertical-align:middle"> ' + poke.subloc;
+		//method.innerHTML = '<img src=\"stones/' + poke.subloc + '.png\" style="vertical-align:middle"> ' + poke.subloc;
+		method.innerHTML = getSprite(poke.subloc) + ' ' + poke.subloc;
 	}
 	if(poke.method == "Egg"){
-		method.innerHTML = '<img src=\"egg/Egg1.png\" style="vertical-align:middle">'
+		method.innerHTML = getSprite("Egg")
 		if(poke.subloc != ""){
-			method.innerHTML += '+ <img src=\"egg/' + poke.subloc + '.png\" style="vertical-align:middle">'
+			method.innerHTML += getSprite(poke.subloc) + " Hatching";
 		}else{
 			method.innerHTML += 'Hatching'
 		}
 	}
 	if(poke.method == "EggM"){
-		method.innerHTML = '<img src=\"egg/EggM.png\" style="vertical-align:middle">Hatching'
+		method.innerHTML = getSprite("EggM") + 'Hatching'
+	}
+	if(poke.method == "Mr. Backlot"){
+		method.innerHTML = getSprite("Backlot") + 'Mr. Backlot'
+	}
+	if(poke.method == "Starter"){
+		method.innerHTML = getSprite("Gift") + ' Starter'
+	}
+	if(poke.method == "Trade" && poke.subloc != ""){
+		method.innerHTML = getSprite("Trade") + getSprite(poke.subloc.replace("'", "")) + 'Trade';
+	}
+	if(poke.method == "One level"){
+		method.innerHTML = getSprite("Level") + poke.method
+	}
+	if(poke.method == "In-game trade"){
+		method.innerHTML = getSprite(poke.subloc) + '<div class=\"sprite sprite-' + FormatNumberLength(poke.specialprob, 3) + 'MS\" style="vertical-align:middle"></div>' + poke.method
+	}
+	if(poke.method == "Event" && poke.subloc != ""){
+		method.innerHTML = getSprite(poke.subloc) + poke.method
+	}
+	if(poke.method == "Fossil" && poke.subloc != ""){
+		method.innerHTML = getSprite(poke.subloc) + poke.subloc
 	}
 	
 
@@ -208,21 +238,21 @@ function addRowPoke(poke, lastpoke){
 	}
 
 	var prob1 = row.insertCell(6);
-	if(poke.probdawn <= 0){
+	if(poke.probdawn <= 0 || poke.probdawn > 100){
 		prob1.innerHTML = '';
 	}else{
 		prob1.innerHTML = poke.probdawn + '%';
 	}
 
 	var prob2 = row.insertCell(7);
-	if(poke.probday <= 0){
+	if(poke.probday <= 0 || poke.probday > 100){
 		prob2.innerHTML = '';
 	}else{
 		prob2.innerHTML = poke.probday + '%';
 	}
 
 	var prob3 = row.insertCell(8);
-	if(poke.probnight <= 0){
+	if(poke.probnight <= 0 || poke.probnight > 100){
 		prob3.innerHTML = '';
 	}else{
 		prob3.innerHTML = poke.probnight + '%';

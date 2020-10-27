@@ -1,0 +1,429 @@
+.bg-Dawn_Stone {
+    width: 24px; height: 24px;
+    background: url('item_spritesheet.png') -166px -227px;
+}
+
+.bg-Dusk_Stone {
+    width: 24px; height: 24px;
+    background: url('item_spritesheet.png') -210px -227px;
+}
+
+.bg-Fire_Stone {
+    width: 24px; height: 24px;
+    background: url('item_spritesheet.png') -254px -227px;
+}
+
+.bg-Leaf_Stone {
+    width: 24px; height: 24px;
+    background: url('item_spritesheet.png') -60px -276px;
+}
+
+.bg-Moon_Stone {
+    width: 24px; height: 24px;
+    background: url('item_spritesheet.png') -104px -276px;
+}
+
+.bg-Shiny_Stone {
+    width: 24px; height: 24px;
+    background: url('item_spritesheet.png') -148px -276px;
+}
+
+.bg-Sun_Stone {
+    width: 24px; height: 24px;
+    background: url('item_spritesheet.png') -192px -276px;
+}
+
+.bg-Thunder_Stone {
+    width: 24px; height: 24px;
+    background: url('item_spritesheet.png') -236px -276px;
+}
+
+.bg-Water_Stone {
+    width: 24px; height: 24px;
+    background: url('item_spritesheet.png') -280px -276px;
+}
+
+.bg-Azure_Flute {
+    width: 24px; height: 24px;
+    background: url('item_spritesheet.png') -327px -10px;
+}
+
+.bg-Backlot {
+    width: 32px; height: 32px;
+    background: url('item_spritesheet.png') -10px -71px;
+}
+
+.bg-Building {
+    width: 30px; height: 30px;
+    background: url('item_spritesheet.png') -10px -276px;
+}
+
+.bg-Cave {
+    width: 35px; height: 33px;
+    background: url('item_spritesheet.png') -66px -10px;
+}
+
+.bg-Enigma_Stone {
+    width: 24px; height: 24px;
+    background: url('item_spritesheet.png') -327px -54px;
+}
+
+.bg-Event {
+    width: 24px; height: 24px;
+    background: url('item_spritesheet.png') -327px -98px;
+}
+
+.bg-Friendship {
+    width: 24px; height: 24px;
+    background: url('item_spritesheet.png') -327px -142px;
+}
+
+.bg-Gift {
+    width: 24px; height: 24px;
+    background: url('item_spritesheet.png') -327px -186px;
+}
+
+.bg-Good_Rod {
+    width: 24px; height: 24px;
+    background: url('item_spritesheet.png') -327px -230px;
+}
+
+.bg-Grass {
+    width: 24px; height: 21px;
+    background: url('item_spritesheet.png') -54px -414px;
+}
+
+.bg-Headbutt {
+    width: 36px; height: 41px;
+    background: url('item_spritesheet.png') -10px -10px;
+}
+
+.bg-Hoenn_Sound {
+    width: 14px; height: 21px;
+    background: url('item_spritesheet.png') -459px -53px;
+}
+
+.bg-Level {
+    width: 24px; height: 24px;
+    background: url('item_spritesheet.png') -327px -274px;
+}
+
+.bg-Member_Card {
+    width: 24px; height: 24px;
+    background: url('item_spritesheet.png') -10px -326px;
+}
+
+.bg-Oak_Letter {
+    width: 24px; height: 24px;
+    background: url('item_spritesheet.png') -54px -326px;
+}
+
+.bg-Old_Rod {
+    width: 24px; height: 24px;
+    background: url('item_spritesheet.png') -98px -326px;
+}
+
+.bg-Poké_Radar {
+    width: 24px; height: 24px;
+    background: url('item_spritesheet.png') -142px -326px;
+}
+
+.bg-Rock_Smash {
+    width: 16px; height: 16px;
+    background: url('item_spritesheet.png') -459px -94px;
+}
+
+.bg-Sinnoh_Sound {
+    width: 17px; height: 23px;
+    background: url('item_spritesheet.png') -459px -10px;
+}
+
+.bg-Special {
+    width: 24px; height: 24px;
+    background: url('item_spritesheet.png') -186px -326px;
+}
+
+.bg-Super_Rod {
+    width: 24px; height: 24px;
+    background: url('item_spritesheet.png') -230px -326px;
+}
+
+.bg-Surf {
+    width: 30px; height: 38px;
+    background: url('item_spritesheet.png') -121px -10px;
+}
+
+.bg-Swarm {
+    width: 32px; height: 29px;
+    background: url('item_spritesheet.png') -218px -175px;
+}
+
+.bg-Trade {
+    width: 16px; height: 16px;
+    background: url('item_spritesheet.png') -459px -130px;
+}
+
+.bg-Ayana {
+    width: 32px; height: 32px;
+    background: url('item_spritesheet.png') -62px -71px;
+}
+
+.bg-Brock {
+    width: 32px; height: 32px;
+    background: url('item_spritesheet.png') -114px -71px;
+}
+
+.bg-Hilary {
+    width: 32px; height: 32px;
+    background: url('item_spritesheet.png') -171px -10px;
+}
+
+.bg-Jasmine {
+    width: 32px; height: 32px;
+    background: url('item_spritesheet.png') -171px -62px;
+}
+
+.bg-Jose {
+    width: 32px; height: 32px;
+    background: url('item_spritesheet.png') -10px -123px;
+}
+
+.bg-Lorenzo {
+    width: 32px; height: 32px;
+    background: url('item_spritesheet.png') -62px -123px;
+}
+
+.bg-Meister {
+    width: 32px; height: 32px;
+    background: url('item_spritesheet.png') -114px -123px;
+}
+
+.bg-Mindy {
+    width: 32px; height: 32px;
+    background: url('item_spritesheet.png') -166px -123px;
+}
+
+.bg-Mondo {
+    width: 32px; height: 32px;
+    background: url('item_spritesheet.png') -223px -10px;
+}
+
+.bg-Norton {
+    width: 32px; height: 32px;
+    background: url('item_spritesheet.png') -223px -62px;
+}
+
+.bg-Richard {
+    width: 32px; height: 32px;
+    background: url('item_spritesheet.png') -223px -114px;
+}
+
+.bg-Rudy {
+    width: 32px; height: 32px;
+    background: url('item_spritesheet.png') -10px -175px;
+}
+
+.bg-Steven {
+    width: 32px; height: 32px;
+    background: url('item_spritesheet.png') -62px -175px;
+}
+
+.bg-Surge {
+    width: 32px; height: 32px;
+    background: url('item_spritesheet.png') -114px -175px;
+}
+
+.bg-Any {
+    width: 32px; height: 29px;
+    background: url('item_spritesheet.png') -275px -10px;
+}
+
+.bg-E {
+    width: 32px; height: 29px;
+    background: url('item_spritesheet.png') -275px -59px;
+}
+
+.bg-FR {
+    width: 32px; height: 29px;
+    background: url('item_spritesheet.png') -275px -108px;
+}
+
+.bg-FRLGE {
+    width: 32px; height: 29px;
+    background: url('item_spritesheet.png') -275px -157px;
+}
+
+.bg-LG {
+    width: 32px; height: 29px;
+    background: url('item_spritesheet.png') -10px -227px;
+}
+
+.bg-R {
+    width: 32px; height: 29px;
+    background: url('item_spritesheet.png') -62px -227px;
+}
+
+.bg-S {
+    width: 32px; height: 29px;
+    background: url('item_spritesheet.png') -114px -227px;
+}
+
+.bg-Armor_Fossil {
+    width: 24px; height: 24px;
+    background: url('item_spritesheet.png') -274px -326px;
+}
+
+.bg-Claw_Fossil {
+    width: 24px; height: 24px;
+    background: url('item_spritesheet.png') -318px -326px;
+}
+
+.bg-Dome_Fossil {
+    width: 24px; height: 24px;
+    background: url('item_spritesheet.png') -371px -10px;
+}
+
+.bg-Helix_Fossil {
+    width: 24px; height: 24px;
+    background: url('item_spritesheet.png') -371px -54px;
+}
+
+.bg-Old_Amber {
+    width: 24px; height: 24px;
+    background: url('item_spritesheet.png') -371px -98px;
+}
+
+.bg-Root_Fossil {
+    width: 24px; height: 24px;
+    background: url('item_spritesheet.png') -371px -142px;
+}
+
+.bg-Skull_Fossil {
+    width: 24px; height: 24px;
+    background: url('item_spritesheet.png') -371px -186px;
+}
+
+.bg-Deep_Sea_Scale {
+    width: 24px; height: 24px;
+    background: url('item_spritesheet.png') -371px -230px;
+}
+
+.bg-Deep_Sea_Tooth {
+    width: 24px; height: 24px;
+    background: url('item_spritesheet.png') -371px -274px;
+}
+
+.bg-Dragon_Scale {
+    width: 24px; height: 24px;
+    background: url('item_spritesheet.png') -371px -318px;
+}
+
+.bg-Dubious_Disc {
+    width: 24px; height: 24px;
+    background: url('item_spritesheet.png') -10px -370px;
+}
+
+.bg-Electirizer {
+    width: 24px; height: 24px;
+    background: url('item_spritesheet.png') -54px -370px;
+}
+
+.bg-Kings_Rock {
+    width: 24px; height: 24px;
+    background: url('item_spritesheet.png') -98px -370px;
+}
+
+.bg-Magmarizer {
+    width: 24px; height: 24px;
+    background: url('item_spritesheet.png') -142px -370px;
+}
+
+.bg-Metal_Coat {
+    width: 24px; height: 24px;
+    background: url('item_spritesheet.png') -186px -370px;
+}
+
+.bg-Oval_Stone {
+    width: 24px; height: 24px;
+    background: url('item_spritesheet.png') -230px -370px;
+}
+
+.bg-Protector {
+    width: 24px; height: 24px;
+    background: url('item_spritesheet.png') -274px -370px;
+}
+
+.bg-Razor_Claw {
+    width: 24px; height: 24px;
+    background: url('item_spritesheet.png') -318px -370px;
+}
+
+.bg-Razor_Fang {
+    width: 24px; height: 24px;
+    background: url('item_spritesheet.png') -362px -370px;
+}
+
+.bg-Reaper_Cloth {
+    width: 24px; height: 24px;
+    background: url('item_spritesheet.png') -415px -10px;
+}
+
+.bg-Upgrade {
+    width: 32px; height: 32px;
+    background: url('item_spritesheet.png') -166px -175px;
+}
+
+.bg-Pure_Incense {
+    width: 24px; height: 24px;
+    background: url('item_spritesheet.png') -415px -54px;
+}
+
+.bg-Rock_Incense {
+    width: 24px; height: 24px;
+    background: url('item_spritesheet.png') -415px -98px;
+}
+
+.bg-Rose_Incense {
+    width: 24px; height: 24px;
+    background: url('item_spritesheet.png') -415px -142px;
+}
+
+.bg-Sea_Incense {
+    width: 24px; height: 24px;
+    background: url('item_spritesheet.png') -415px -186px;
+}
+
+.bg-Wave_Incense {
+    width: 24px; height: 24px;
+    background: url('item_spritesheet.png') -415px -230px;
+}
+
+.bg-Egg {
+    width: 16px; height: 16px;
+    background: url('item_spritesheet.png') -459px -166px;
+}
+
+.bg-EggM {
+    width: 16px; height: 16px;
+    background: url('item_spritesheet.png') -459px -202px;
+}
+
+.bg-Full_Incense {
+    width: 24px; height: 24px;
+    background: url('item_spritesheet.png') -415px -274px;
+}
+
+.bg-Lax_Incense {
+    width: 24px; height: 24px;
+    background: url('item_spritesheet.png') -415px -318px;
+}
+
+.bg-Luck_Incense {
+    width: 24px; height: 24px;
+    background: url('item_spritesheet.png') -415px -362px;
+}
+
+.bg-Odd_Incense {
+    width: 24px; height: 24px;
+    background: url('item_spritesheet.png') -10px -414px;
+}
