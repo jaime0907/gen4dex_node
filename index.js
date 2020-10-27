@@ -8,7 +8,7 @@ const saltRounds = 10;
 const nunjucks = require('nunjucks');
 
 const app = express()
-const port = 3000
+const port = process.env.PORT || 3000;
 
 // Configure Nunjucks
 var _templates = process.env.NODE_PATH ? process.env.NODE_PATH + '/templates' : 'templates' ;
