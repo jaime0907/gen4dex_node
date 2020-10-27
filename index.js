@@ -76,6 +76,34 @@ app.post('/post', (req, res) => {
 	}
 	games += ")"
 
+	method = " and (1 = 0"
+	if(data.wild){
+		method += " or method = 'Grass' or method = 'Cave' or method = 'Super Rod' or method = 'Surf' or method = 'Good Rod' or method = 'OldRod' or method = 'Building' "
+	}
+	if(data.headbutt){
+		method += " or method = 'Headbutt'"
+	}
+	if(data.hoenn){
+		method += " or method = 'Hoenn Sound'"
+	}
+	if(data.sinnoh){
+		method += " or method = 'Sinnoh Sound'"
+	}
+	if(data.radar){
+		method += " or method = 'Poké Radar'"
+	}
+	if(data.swarm){
+		method += " or method = 'Swarm'"
+	}
+	if(data.slot){
+		method += " or method = 'E' or method = 'S' or method = 'R' or method = 'FR' or method = 'LG' or method = 'FRLGE' or method = 'Any'"
+	}
+	if(data.other){
+		method += " or (method like '%' and method != 'E' and method != 'S' and method != 'R' and method != 'FR' and method != 'LG' and method != 'FRLGE' and method != 'Any' and method != 'Swarm'  and method != 'Poké Radar' and method != 'Sinnoh Sound' and method != 'Hoenn Sound' and method != 'Headbutt' and method != 'Grass' and method != 'Cave' and method != 'Super Rod' and method != 'Surf' and method != 'Good Rod' and method != 'OldRod' and method != 'Building' )"
+	}
+	method += ")"
+
+
 	groupby = ""
 	if(data.selector == "1"){
 		groupby = " group by dex"
@@ -104,7 +132,7 @@ app.post('/post', (req, res) => {
 		}
 	}
 
-	let sql = 'select * from (select *, max(coalesce(probdawn,0), coalesce(probday,0), coalesce(probnight,0)) as maxprob from alldata where 1 = 1' + filtro + catched + games + ' order by dex, maxprob desc) ' + groupby + " limit " + limit;
+	let sql = 'select * from (select *, max(coalesce(probdawn,0), coalesce(probday,0), coalesce(probnight,0)) as maxprob from alldata where 1 = 1' + filtro + catched + games + method + ' order by dex, maxprob desc) ' + groupby + " limit " + limit;
 	let rows = db.prepare(sql).all({games:games});
 
 	res.json(rows);

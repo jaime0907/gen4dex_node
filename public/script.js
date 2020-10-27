@@ -180,22 +180,25 @@ function addRowPoke(poke, lastpoke){
 	}
 
 	var method = row.insertCell(4);
-	method.innerHTML = poke.method;
+	method.innerHTML = '<img src=\"method/' + poke.method + '.png\" style="vertical-align:middle"> ' + poke.method
 	if(poke.method == "R" || poke.method == "S" || poke.method == "FR" || poke.method == "LG" || poke.method == "E" || poke.method == "FRLGE" || poke.method == "Any"){
 		method.innerHTML = ' <img src=\"gba/' + poke.method + '.png\" style="vertical-align:middle"> Slot 2'
 	}
 	if(poke.method == "Stone"){
-		method.innerHTML += ' <img src=\"stones/' + poke.subloc + '.png\" style="vertical-align:middle">'
+		method.innerHTML = '<img src=\"stones/' + poke.subloc + '.png\" style="vertical-align:middle"> ' + poke.subloc;
 	}
 	if(poke.method == "Egg"){
-		method.innerHTML = ' <img src=\"egg/Egg.png\" style="vertical-align:middle">'
+		method.innerHTML = '<img src=\"egg/Egg1.png\" style="vertical-align:middle">'
 		if(poke.subloc != ""){
 			method.innerHTML += '+ <img src=\"egg/' + poke.subloc + '.png\" style="vertical-align:middle">'
+		}else{
+			method.innerHTML += 'Hatching'
 		}
 	}
 	if(poke.method == "EggM"){
-		method.innerHTML = ' <img src=\"egg/EggM.png\" style="vertical-align:middle">'
+		method.innerHTML = '<img src=\"egg/EggM.png\" style="vertical-align:middle">Hatching'
 	}
+	
 
 	var level = row.insertCell(5);
 	if(poke.levelmax == poke.levelmin){
@@ -294,7 +297,15 @@ function getPoke(){
 		egg: document.getElementById("gameegg").checked,
 		event: document.getElementById("gameevent").checked,
 		limit: document.getElementById("limit").value,
-		selector: document.getElementById("groupselector").value
+		selector: document.getElementById("groupselector").value,
+		wild: document.getElementById("method-wild").checked,
+		headbutt: document.getElementById("method-headbutt").checked,
+		slot: document.getElementById("method-slot").checked,
+		hoenn: document.getElementById("method-hoenn").checked,
+		sinnoh: document.getElementById("method-sinnoh").checked,
+		radar: document.getElementById("method-radar").checked,
+		swarm: document.getElementById("method-swarm").checked,
+		other: document.getElementById("method-other").checked
 	}));
 }
 

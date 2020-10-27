@@ -3206,6 +3206,15 @@ input.chk-btn + label {
     background-color:  rgb(95, 80, 53);
 }
 
+#slot input.chk-btn + label:active,
+#slot input.chk-btn:checked + label {
+  background: rgb(96, 175, 5);
+    color: #FFF;
+}
+#slot input.chk-btn:not(:checked) + label:hover {
+    background-color: rgb(85, 107, 59);
+}
+
 #hoenn input.chk-btn + label:active,
 #hoenn input.chk-btn:checked + label {
   background: rgb(14, 43, 209);
@@ -3251,7 +3260,7 @@ input.chk-btn + label {
     background-color: rgb(50, 82, 72);
 }
 
-#hg, #ss, #d, #p, #pt, #evo, #egg, #event, #wild, #headbutt, #hoenn, #sinnoh, #radar, #swarm, #other{
+#hg, #ss, #d, #p, #pt, #evo, #egg, #event, #wild, #headbutt, #slot, #hoenn, #sinnoh, #radar, #swarm, #other{
     display: inline-block;
     min-width:44px;
 }
@@ -3342,6 +3351,10 @@ input.chk-btn + label {
 
 .menubar_methods {
     display: none;
+
+    grid-area: menubar;
+    color: #FFF;
+    font-size: 0;
 }
 
 .show {
