@@ -64,7 +64,7 @@ function getHora(){
 		remain += 'Morning';
 	}
 	remain += ')';
-	document.getElementById("demo").innerHTML = 'Current time: ' + FormatNumberLength(d.getHours(), 2) + ':' + FormatNumberLength(d.getMinutes(), 2) + ' ('+ ht + ', ' + remain;
+	document.getElementById("timediv").innerHTML = 'Current time: ' + FormatNumberLength(d.getHours(), 2) + ':' + FormatNumberLength(d.getMinutes(), 2) + ' ('+ ht + ', ' + remain;
 }
 
 function catchPoke(dex){
@@ -217,7 +217,11 @@ function addRowPoke(poke, lastpoke){
 		method.innerHTML = getSprite("Trade") + getSprite(poke.subloc.replace("'", "")) + 'Trade';
 	}
 	if(poke.method == "One level"){
-		method.innerHTML = getSprite("Level") + poke.method
+		if(poke.subloc != ""){
+			method.innerHTML = getSprite(poke.subloc) + poke.method
+		}else{
+			method.innerHTML = getSprite("Level") + poke.method
+		}
 	}
 	if(poke.method == "In-game trade"){
 		method.innerHTML = getSprite(poke.subloc) + '<div class=\"sprite sprite-' + FormatNumberLength(poke.specialprob, 3) + 'MS\" style="vertical-align:middle"></div>' + poke.method
@@ -232,7 +236,9 @@ function addRowPoke(poke, lastpoke){
 
 	var level = row.insertCell(5);
 	if(poke.levelmax == poke.levelmin){
-		level.innerHTML = poke.levelmax;
+		if(poke.levelmax >= 0){
+			level.innerHTML = poke.levelmax;
+		}
 	}else{
 		level.innerHTML = poke.levelmin + '-' + poke.levelmax;
 	}
@@ -293,6 +299,7 @@ function getCookie(name) {
 	 return cookieValue;
 }
 function getPoke(){
+	getHora();
 	var xhr = new XMLHttpRequest();
 	xhr.onload = function(){
 		var lastpoke = 0;
@@ -342,8 +349,38 @@ function getPoke(){
 
 
 function startScripts(){
-	getHora();
-	getPoke();
+	var xhr = new XMLHttpRequest();
+	xhr.onload = function(){
+		var data = JSON.parse(xhr.responseText); // Returned data, e.g., an HTML document.
+		console.log(data)
+		if(data.islogged){
+			var sel = data.data;
+			document.getElementById("gamehg").checked = sel.hg
+			document.getElementById("gamess").checked = sel.ss
+			document.getElementById("gamed").checked = sel.d
+			document.getElementById("gamepe").checked = sel.pe
+			document.getElementById("gamept").checked = sel.pt
+			document.getElementById("gameevo").checked = sel.evo
+			document.getElementById("gameegg").checked = sel.egg
+			document.getElementById("gameevent").checked = sel.event
+
+			document.getElementById("method-wild").checked = sel.wild
+			document.getElementById("method-headbutt").checked = sel.headbutt
+			document.getElementById("method-slot").checked = sel.slot
+			document.getElementById("method-hoenn").checked = sel.hoenn
+			document.getElementById("method-sinnoh").checked = sel.sinnoh
+			document.getElementById("method-radar").checked = sel.radar
+			document.getElementById("method-swarm").checked = sel.swarm
+			document.getElementById("method-other").checked = sel.other
+		}
+		
+		getPoke();
+	}
+
+	xhr.open("POST", "/selectorinfo", true);
+	xhr.setRequestHeader('Content-Type', 'application/json');
+	xhr.setRequestHeader("X-CSRFToken", getCookie('csrftoken'));
+	xhr.send();
 }
 
-window.onload = startScripts;
+window.onload = startScripts();

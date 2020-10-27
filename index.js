@@ -47,8 +47,27 @@ app.get('/', (req, res) => {
 	res.render('index', {islogged: islogged, username: req.session.username})
 })
 
+app.post('/selectorinfo', (req,res) => {
+	var username = req.session.username;
+	if(username){
+		var row = db.prepare('select hg, ss, d, pe, pt, evo, egg, event, wild, headbutt, hoenn, sinnoh, radar, swarm, slot, other from users where username = ?').get(username)
+		res.json({islogged: true, data: row})
+	}else{
+		res.json({islogged: false})
+	}
+	
+	
+})
+
 app.post('/post', (req, res) => {
 	let data = req.body;
+
+	var username = req.session.username;
+	if(username){
+		let sql = db.prepare('update users set hg = ' + data.hg + ', ss = ' + data.ss + ', d = ' + data.d + ', pe = ' + data.pe + ', pt = ' + data.pt + ', evo = ' + data.evo + ', egg = ' + data.egg + ', event = ' + data.event + ', wild = ' + data.wild + ', headbutt = ' + data.headbutt + ', hoenn = ' + data.hoenn + ', sinnoh = ' + data.sinnoh + ', radar = ' + data.radar + ', swarm = ' + data.swarm + ', slot = ' + data.slot + ', other = ' + data.other + ' where username = ?')
+		sql.run(username)
+	}
+
 	var games = " and (1 = 0"
 	if(data.hg){
 		games += " or hg = 1"
@@ -259,11 +278,12 @@ app.post('/profile', (req, res) => {
 app.post('/catchpoke', (req,res) => {
 	var dex = req.body.dex;
 	var username = req.session.username;
-	
-	var row = db.prepare('select * from users where username = ?').get(username);
-	var pokedex = row.pokedex;
-	var newdex = pokedex.substr(0, dex-1) + "1" + pokedex.substr(dex);
-	db.prepare('update users set pokedex = ? where username = ?').run(newdex, username);
+	if(username){
+		var row = db.prepare('select * from users where username = ?').get(username);
+		var pokedex = row.pokedex;
+		var newdex = pokedex.substr(0, dex-1) + "1" + pokedex.substr(dex);
+		db.prepare('update users set pokedex = ? where username = ?').run(newdex, username);
+	}
 	res.sendStatus(200);
 })
 
@@ -276,6 +296,14 @@ app.post('/uncatchpoke', (req,res) => {
 	var newdex = pokedex.substr(0, dex-1) + "0" + pokedex.substr(dex);
 	db.prepare('update users set pokedex = ? where username = ?').run(newdex, username);
 	res.sendStatus(200);
+})
+
+app.get('/help', (req, res) => {
+	res.render('help');
+})
+
+app.get('*', (req,res) => {
+	res.status(404).render('errorpage')
 })
 
 app.listen(port, () => {

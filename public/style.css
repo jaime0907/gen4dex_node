@@ -44,8 +44,9 @@
     display: grid;
     grid-template-columns: 50% 50%;
     grid-template-rows: auto auto;
-    grid-template-areas: "searchbox searchbox"
-                                             "main main"
+    grid-template-areas: "time time"
+                        "searchbox searchbox"
+                        "main main"
 }
 #header {
     grid-area: header;
@@ -102,6 +103,10 @@ a.menubaritem:hover {
     grid-area: selector;
     margin: 4px 0;
     width:200px;
+}
+#timediv {
+    grid-area: time;
+    margin:14px 14px 0 14px;
 }
 #searchbox {
     grid-area: searchbox;

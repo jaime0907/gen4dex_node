@@ -122,12 +122,14 @@
 			</div>
 		</div>
 
+		<div id="timediv"></div>
+
 		<div id="searchbox">
-			<input id="pokename" name="pokename" type="text" placeholder="Filter by name or dex number..." autofocus onkeyup="getPoke()">
+			<input id="pokename" name="pokename" type="text" placeholder="Filter by name or dex number..." autofocus onkeyup="getPoke()" autocomplete="off">
 		</div>
 
 		<div id="main">
-			<table id="tablepoke" align="center">
+			<table id="tablepoke" style="margin:0 auto">
 				<tr>
 					<th>Dex</th>
 					<th>Pokémon</th>
