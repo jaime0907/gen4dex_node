@@ -36,6 +36,7 @@ const db = new Database('gen4dex_db.sqlite3');
 //const db_users = new Database('users_db.sqlite3');
 
 const pool = new Pool()
+console.log(pool)
 
 app.use(express.static('public'));
 
