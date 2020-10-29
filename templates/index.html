@@ -257,17 +257,17 @@
 		{
 			remain += hourst + ' {{l.hour}}';
 		}
-		if(hourst != 1)
+		if(hourst > 1)
 		{
 			remain += 's';
 		}
 
-		if(hourst != 0) remain += ' {{l.and}} ';
+		if(hourst != 0 && mint != 0) remain += ' {{l.and}} ';
 		if(mint != 0)
 		{
 			remain += mint + ' {{l.minute}}';
 		}
-		if(mint != 1)
+		if(mint > 1)
 		{
 			remain += 's';
 		}
