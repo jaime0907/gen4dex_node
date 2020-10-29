@@ -75,6 +75,7 @@ app.post('/selectorinfo', (req,res) => {
 	var username = req.session.username;
 	if(username){
 		pool.query('select hg, ss, d, pe, pt, evo, egg, event, wild, headbutt, hoenn, sinnoh, radar, swarm, slot, other from users where username = $1', [username], (err, result) => {
+			if(err) throw err;
 			res.json({islogged: true, data: result.rows[0]})
 		})
 		//var row = db_users.prepare('select hg, ss, d, pe, pt, evo, egg, event, wild, headbutt, hoenn, sinnoh, radar, swarm, slot, other from users where username = ?').get(username)
@@ -216,6 +217,7 @@ app.post('/login', (req, res) => {
 	var password = req.body.password;
 	if(username && password){
 		pool.query('select * from users where username = $1', [username], (err, result) => {
+			if(err) throw err;
 			if(result.rows.length === 0){
 				res.render('login', {error: true, l: lang_dict[lang]});
 			}else{
@@ -259,6 +261,7 @@ app.post('/register', (req, res) => {
 	if(username && password && password2){
 		if(password == password2){
 			pool.query('select * from users where username = $1',[username],(err, result) => {
+				if(err) throw err;
 				if(result.rows.length === 0){
 					bcrypt.hash(password, saltRounds, (err, hash) => {
 						var emptydex = ""
@@ -293,6 +296,7 @@ app.get('/logout', (req,res) => {
 function getPokesProfile(db, username){
 	var pokes = []
 	pool.query('select * from users where username = $1', [username], (err, result) => {
+		if(err) throw err;
 		var row = result.rows[0]
 		for(let i = 0; i < 493; i++){
 			if(i % 5 == 0){
@@ -318,6 +322,7 @@ app.get('/profile', (req, res) => {
 	var username = req.session.username
 
 	pool.query('select * from users where username = $1', [username], (err, result) => {
+		if(err) throw err;
 		var row = result.rows[0]
 		var pokes = []
 		for(let i = 0; i < 493; i++){
@@ -346,6 +351,7 @@ app.post('/profile', (req, res) => {
 	var username = req.session.username
 	var text = req.body.poketext;
 	pool.query('select * from users where username = $1', [username], (err, result) => {
+		if(err) throw err;
 		var row = result.rows[0]
 		var pokes = []
 		for(let i = 0; i < 493; i++){
@@ -376,7 +382,9 @@ app.post('/profile', (req, res) => {
 				}
 			}
 			pool.query('update users set pokedex = $1 where username = $2', [pokedex, req.session.username], (err, result) => {
+				if(err) throw err;
 				pool.query('select * from users where username = $1', [username], (err, result) => {
+					if(err) throw err;
 					var row = result.rows[0]
 					var pokes = []
 					for(let i = 0; i < 493; i++){
@@ -409,10 +417,12 @@ app.post('/catchpoke', (req,res) => {
 	var username = req.session.username;
 	if(username){
 		pool.query('select * from users where username = $1', [username], (err, result) => {
+			if(err) throw err;
 			var row = result.rows[0]
 			var pokedex = row.pokedex;
 			var newdex = pokedex.substr(0, dex-1) + "1" + pokedex.substr(dex);
 			pool.query('update users set pokedex = $1 where username = $2', [newdex, username], (err, result) => {
+				if(err) throw err;
 				res.sendStatus(200);
 			});
 		});
@@ -424,10 +434,12 @@ app.post('/uncatchpoke', (req,res) => {
 	var username = req.session.username;
 	if(username){
 		pool.query('select * from users where username = $1', [username], (err, result) => {
+			if(err) throw err;
 			var row = result.rows[0]
 			var pokedex = row.pokedex;
 			var newdex = pokedex.substr(0, dex-1) + "0" + pokedex.substr(dex);
 			pool.query('update users set pokedex = $1 where username = $2', [newdex, username], (err, result) => {
+				if(err) throw err;
 				res.sendStatus(200);
 			});
 		});
