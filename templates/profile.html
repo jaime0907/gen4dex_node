@@ -48,29 +48,28 @@
 
 {%block content%}
   <h1>{{user.username}}</h1>
-  <div id="profile_text" class="hidetext" style="margin: 0 auto; width:500px">
+  <div id="profile_text" class="hidetext" style="margin: 0 auto; max-width:700px; text-align: justify;">
     <p>
-    If you want to quickly insert your current dex, for each Pokémon type 1 if you have it, and 0 if you don't.
-    For example, 111000000100... means that you have Bulbasaur, Ivysaur, Venusaur and Caterpie, and nothing else.<br>
-    If you get to your last catched Pokémon and you still have a long way until #493, you don't have to fill all the remaining zeros.
-    <br>(For example, let's say your last catched Pokémon is Wailmer, which is #320. You'd still have to put more than 170 zeros. You don't have to. Just put the 1 in the 320 position and hit Submit)
+    {{l.profile_text_1}}<br>
+    {{l.profile_text_2}}<br>
+    {{l.profile_text_3}}
     </p>
   </div>
   
   <form action="/profile" method="POST">
     <input type="text" name="poketext" value="">
-    <input type="submit" value="Submit">
-    <input type="button" value="Show Info" onclick="showInfo(this)">
+    <input type="submit" value="{{l.submit}}">
+    <input type="button" value="{{l.show_info}}" onclick="showInfo(this)">
   </form>
   {{msg}}
-  <div id="profile_text_2" class="hidetext" style="margin: 0 auto; width:500px">
+  <div id="profile_text_2" class="hidetext" style="margin: 0 auto; max-width:700px; text-align: justify;">
     <p>
-      In the table below you can click the Pokémon to register or unregister them from your Pokédex in a quick way.<br>
-      If you just registered and have an empty Pokédex, it is recommended to use the above "ones and zeros" method, to enter
-      quickly all of your Pokémon, and then check in the table for any errors.
+      {{l.profile_text_4}}<br>
+      {{l.profile_text_5}}
     </p>
   </div>
-  <p>Current Pokédex:</p>
+  <br>
+  <p>{{l.current_pokedex}}:</p>
   <table id='tabledex'>
     {% for pcinco in pokes %}
       <tr>
@@ -140,11 +139,11 @@
     if(document.getElementById("profile_text").classList.contains("hidetext")){
       document.getElementById("profile_text").classList.remove("hidetext");
       document.getElementById("profile_text_2").classList.remove("hidetext");
-      but.value = "Hide info";
+      but.value = "{{l.hide_info}}";
     }else{
       document.getElementById("profile_text").classList.add("hidetext");
       document.getElementById("profile_text_2").classList.add("hidetext");
-      but.value = "Show info";
+      but.value = "{{l.show_info}}";
     }
     
   }

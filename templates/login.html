@@ -12,15 +12,15 @@
             <form class="form-signin" method="post" action="/login">
                 <div class="form-label-group">
                 <input type="text" name="username" id="inputEmail" class="form-control" placeholder="Email address" required autofocus>
-                <label for="inputEmail">Username</label>
+                <label for="inputEmail">{{l.username}}</label>
                 </div>
 
                 <div class="form-label-group">
                 <input type="password" name="password" id="inputPassword" class="form-control" placeholder="Password" required>
-                <label for="inputPassword">Password</label>
+                <label for="inputPassword">{{l.password}}</label>
                 </div>
 
-                <button class="btn btn-lg btn-primary btn-block text-uppercase" type="submit">Login</button>
+                <button class="btn btn-lg btn-primary btn-block text-uppercase" type="submit">{{l.login}}</button>
                 <input type="hidden" name="next" value="{{ next }}" />
             </form>
             </div>
@@ -29,6 +29,6 @@
     </div>
     </div>
     {% if error %}
-        <p>Your username and password didn't match. Please try again.</p>
+        <p>{{l.errorlogin}}</p>
     {% endif %}
 {% endblock %}

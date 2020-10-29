@@ -87,11 +87,11 @@ function addRowPoke(poke, lastpoke){
 		game.style.background = "#239641";
 		game.style.color = "white"
 	}else if(poke.egg == 1){
-		game.innerHTML = 'Egg';
+		game.innerHTML = document.getElementById('gameegglabel').innerHTML;
 		game.style.background = "#e8e0a0";
 		game.style.color = "black"
 	}else if(poke.event == 1){
-		game.innerHTML = 'Event';
+		game.innerHTML = document.getElementById('gameeventlabel').innerHTML;
 		game.style.background = "#5bf7ef";
 		game.style.color = "black"
 	}
@@ -118,8 +118,15 @@ function addRowPoke(poke, lastpoke){
 			game.style.color = "white";
 			break;
 		case "DP":
-		case "DPPt":
 			game.style.background = "linear-gradient(to bottom right, #041e7d 49.5%, #6f047d 50.5%)";
+			game.style.color = "white";
+			break;
+		case "DPPt":
+			game.style.background = "linear-gradient(to bottom right, #041e7d 33.3%, #6f047d 33.4%, #6f047d 66.6%, #4a0000 66.7%)";
+			game.style.color = "white";
+			break;
+		case "PPt":
+			game.style.background = "linear-gradient(to bottom right, #6f047d 49.5%, #4a0000 50.5%)";
 			game.style.color = "white";
 			break;
 	}
@@ -128,50 +135,56 @@ function addRowPoke(poke, lastpoke){
 	var method = document.createElement('div');
 	method.className = 'outer';
 	methodrow.appendChild(method)
-
-	method.innerHTML = getSprite(poke.method) + ' ' + poke.method
-	if(poke.method == "R" || poke.method == "S" || poke.method == "FR" || poke.method == "LG" || poke.method == "E" || poke.method == "FRLGE" || poke.method == "Any"){
-		method.innerHTML = getSprite(poke.method) + ' Slot 2';
+	method_ori = poke.method
+	subloc_ori = poke.subloc
+	if(lang == "es"){
+		poke.method = poke.method_esp;
+		poke.subloc = poke.subloc_esp;
 	}
-	if(poke.method == "Stone"){
+	method.innerHTML = getSprite(method_ori) + ' ' + poke.method
+	if(method_ori == "R" || method_ori == "S" || method_ori == "FR" || method_ori == "LG" || method_ori == "E" || method_ori == "FRLGE" || method_ori == "Any"){
+		method.innerHTML = getSprite(method_ori) + ' Slot 2';
+	}
+	if(method_ori == "Stone"){
 		//method.innerHTML = '<img src=\"stones/' + poke.subloc + '.png\" style="vertical-align:middle"> ' + poke.subloc;
-		method.innerHTML = getSprite(poke.subloc) + ' ' + poke.subloc;
+		method.innerHTML = getSprite(subloc_ori) + ' ' + poke.subloc;
 	}
-	if(poke.method == "Egg"){
+	if(method_ori == "Hatching"){
 		method.innerHTML = getSprite("Egg")
-		if(poke.subloc != ""){
-			method.innerHTML += getSprite(poke.subloc) + " Hatching";
+		if(subloc_ori != ""){
+			if(subloc_ori == "EggM"){
+				method.innerHTML = getSprite("EggM") + poke.method;
+			}else{
+				method.innerHTML += getSprite(subloc_ori) + poke.method;
+			}
 		}else{
-			method.innerHTML += 'Hatching'
+			method.innerHTML += poke.method
 		}
 	}
-	if(poke.method == "EggM"){
-		method.innerHTML = getSprite("EggM") + 'Hatching'
+	if(method_ori == "Mr. Backlot"){
+		method.innerHTML = getSprite("Backlot") + poke.subloc
 	}
-	if(poke.method == "Mr. Backlot"){
-		method.innerHTML = getSprite("Backlot") + 'Mr. Backlot'
+	if(method_ori == "Starter"){
+		method.innerHTML = getSprite("Gift") + poke.method
 	}
-	if(poke.method == "Starter"){
-		method.innerHTML = getSprite("Gift") + ' Starter'
+	if(method_ori == "Trade" && subloc_ori != ""){
+		method.innerHTML = getSprite("Trade") + getSprite(subloc_ori.replace("'", "")) + poke.method;
 	}
-	if(poke.method == "Trade" && poke.subloc != ""){
-		method.innerHTML = getSprite("Trade") + getSprite(poke.subloc.replace("'", "")) + 'Trade';
-	}
-	if(poke.method == "One level"){
-		if(poke.subloc != ""){
-			method.innerHTML = getSprite(poke.subloc) + poke.method
+	if(method_ori == "One level"){
+		if(subloc_ori != ""){
+			method.innerHTML = getSprite(subloc_ori) + poke.method
 		}else{
 			method.innerHTML = getSprite("Level") + poke.method
 		}
 	}
-	if(poke.method == "In-game trade"){
-		method.innerHTML = getSprite(poke.subloc) + '<div class=\"sprite sprite-' + FormatNumberLength(poke.specialprob, 3) + 'MS\" style="vertical-align:middle"></div>' + poke.method
+	if(method_ori == "In-game trade"){
+		method.innerHTML = getSprite(subloc_ori) + '<div class=\"sprite sprite-' + FormatNumberLength(poke.specialprob, 3) + 'MS\" style="vertical-align:middle"></div>' + poke.method
 	}
-	if(poke.method == "Event" && poke.subloc != ""){
-		method.innerHTML = getSprite(poke.subloc) + poke.method
+	if(method_ori == "Event" && subloc_ori != ""){
+		method.innerHTML = getSprite(subloc_ori) + poke.method
 	}
-	if(poke.method == "Fossil" && poke.subloc != ""){
-		method.innerHTML = getSprite(poke.subloc) + poke.subloc
+	if(method_ori == "Fossil" && subloc_ori != ""){
+		method.innerHTML = getSprite(subloc_ori) + poke.subloc
 	}
 	
 
@@ -292,18 +305,19 @@ function getPoke(){
 function startScripts(){
 	var selector = document.getElementById("groupselector").value;
 	if(selector == 1){
-		mostProbable();
+		mostProbable(false);
 	}else{
-		allLocations();
+		allLocations(false);
 	}
 	var limit = document.getElementById("limit").value;
 	if(limit == 10){
-		limit10();
+		limit10(false);
 	}else if(limit == 100){
-		limit100();
+		limit100(false);
 	}else{
-		limit50();
+		limit50(false);
 	}
+	setInterval(getHora, 5*1000);
 
 	var xhr = new XMLHttpRequest();
 	xhr.onload = function(){

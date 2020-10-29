@@ -32,6 +32,7 @@ app.use(bodyParser.urlencoded({ extended: false }));
 
 
 const db = new Database('gen4dex_db.sqlite3');
+const db_users = new Database('users_db.sqlite3');
 
 app.use(express.static('public'));
 
@@ -70,7 +71,7 @@ app.get('/', (req, res) => {
 app.post('/selectorinfo', (req,res) => {
 	var username = req.session.username;
 	if(username){
-		var row = db.prepare('select hg, ss, d, pe, pt, evo, egg, event, wild, headbutt, hoenn, sinnoh, radar, swarm, slot, other from users where username = ?').get(username)
+		var row = db_users.prepare('select hg, ss, d, pe, pt, evo, egg, event, wild, headbutt, hoenn, sinnoh, radar, swarm, slot, other from users where username = ?').get(username)
 		res.json({islogged: true, data: row})
 	}else{
 		res.json({islogged: false})
@@ -84,7 +85,7 @@ app.post('/post', (req, res) => {
 
 	var username = req.session.username;
 	if(username){
-		let sql = db.prepare('update users set hg = ' + data.hg + ', ss = ' + data.ss + ', d = ' + data.d + ', pe = ' + data.pe + ', pt = ' + data.pt + ', evo = ' + data.evo + ', egg = ' + data.egg + ', event = ' + data.event + ', wild = ' + data.wild + ', headbutt = ' + data.headbutt + ', hoenn = ' + data.hoenn + ', sinnoh = ' + data.sinnoh + ', radar = ' + data.radar + ', swarm = ' + data.swarm + ', slot = ' + data.slot + ', other = ' + data.other + ' where username = ?')
+		let sql = db_users.prepare('update users set hg = ' + data.hg + ', ss = ' + data.ss + ', d = ' + data.d + ', pe = ' + data.pe + ', pt = ' + data.pt + ', evo = ' + data.evo + ', egg = ' + data.egg + ', event = ' + data.event + ', wild = ' + data.wild + ', headbutt = ' + data.headbutt + ', hoenn = ' + data.hoenn + ', sinnoh = ' + data.sinnoh + ', radar = ' + data.radar + ', swarm = ' + data.swarm + ', slot = ' + data.slot + ', other = ' + data.other + ' where username = ?')
 		sql.run(username)
 	}
 
@@ -161,7 +162,7 @@ app.post('/post', (req, res) => {
 
 	var catched = ""
 	if(req.session.username){
-		let rowdex = db.prepare('select * from users where username = ?').get(req.session.username);
+		let rowdex = db_users.prepare('select * from users where username = ?').get(req.session.username);
 		pokedex = rowdex.pokedex;
 		for(let i = 0; i < 493; i++){
 			if(pokedex && i < pokedex.length && pokedex[i] == "1"){
@@ -178,16 +179,24 @@ app.post('/post', (req, res) => {
 })
 
 app.get('/login', (req, res) => {
-	res.render('login', {error: false});
+	var lang = 'en'
+	if(req.session.lang){
+		lang = req.session.lang;
+	}
+	res.render('login', {error: false, l: lang_dict[lang]});
 })
 
 app.post('/login', (req, res) => {
+	var lang = 'en'
+	if(req.session.lang){
+		lang = req.session.lang;
+	}
 	var username = req.body.username;
 	var password = req.body.password;
 	if(username && password){
-		let row = db.prepare('select * from users where username = ?').get(username);
+		let row = db_users.prepare('select * from users where username = ?').get(username);
 		if(row === undefined){
-			res.render('login', {error: true});
+			res.render('login', {error: true, l: lang_dict[lang]});
 		}else{
 			var db_password = row.password
 			bcrypt.compare(password, db_password, (err, result) => {
@@ -202,7 +211,7 @@ app.post('/login', (req, res) => {
 						})
 					}
 				}else{
-					res.render('login', {error: true});
+					res.render('login', {error: true, l: lang_dict[lang]});
 				}
 			});
 		}
@@ -210,23 +219,31 @@ app.post('/login', (req, res) => {
 })
 
 app.get('/register', (req, res) => {
-	res.render('register', {error: false});
+	var lang = 'en'
+	if(req.session.lang){
+		lang = req.session.lang;
+	}
+	res.render('register', {error: false, l: lang_dict[lang]});
 })
 
 app.post('/register', (req, res) => {
+	var lang = 'en'
+	if(req.session.lang){
+		lang = req.session.lang;
+	}
 	var username = req.body.username;
 	var password = req.body.password;
 	var password2 = req.body.password2;
 	if(username && password && password2){
 		if(password == password2){
-			let row = db.prepare('select * from users where username = ?').get(username);
+			let row = db_users.prepare('select * from users where username = ?').get(username);
 			if(row === undefined){
 				bcrypt.hash(password, saltRounds, (err, hash) => {
 					var emptydex = ""
 					for(let i = 0; i < 493; i++){
 						emptydex += "0"
 					}
-					db.prepare('insert into users (username, password, pokedex) values (?,?,?)').run(username, hash, emptydex);
+					db_users.prepare('insert into users (username, password, pokedex) values (?,?,?)').run(username, hash, emptydex);
 					req.session.regenerate(function(err){
 						req.session.username = username;
 						res.redirect('/');
@@ -234,13 +251,13 @@ app.post('/register', (req, res) => {
 				})
 				
 			}else{
-				res.render('register', {error: true, msg:"Username " + username + " is already taken."});
+				res.render('register', {error: true, msg:lang_dict[lang].username_taken_1 + username + lang_dict[lang].username_taken_2, l: lang_dict[lang]});
 			}
 		}else{
-			res.render('register', {error: true, msg:"Passwords doesn't match."});
+			res.render('register', {error: true, msg:lang_dict[lang].password_no_match, l: lang_dict[lang]});
 		}
 	}else{
-		res.render('register', {error:true, msg:"Please, select an username and a password to register."})
+		res.render('register', {error:true, msg:lang_dict[lang].no_username_password, l: lang_dict[lang]})
 	}
 })
 
@@ -251,7 +268,7 @@ app.get('/logout', (req,res) => {
 
 function getPokesProfile(db, username){
 	var pokes = []
-	var row = db.prepare('select * from users where username = ?').get(username);
+	var row = db_users.prepare('select * from users where username = ?').get(username);
 	for(let i = 0; i < 493; i++){
 		if(i % 5 == 0){
 			pokes.push([])
@@ -269,11 +286,19 @@ function getPokesProfile(db, username){
 }
 
 app.get('/profile', (req, res) => {
+	var lang = 'en'
+	if(req.session.lang){
+		lang = req.session.lang;
+	}
 	var pokes = getPokesProfile(db, req.session.username);
-	res.render('profile', {username: req.session.username, pokes: pokes});
+	res.render('profile', {username: req.session.username, pokes: pokes, l: lang_dict[lang]});
 })
 
 app.post('/profile', (req, res) => {
+	var lang = 'en'
+	if(req.session.lang){
+		lang = req.session.lang;
+	}
 	var pokes = getPokesProfile(db, req.session.username);
 	var text = req.body.poketext;
 	pokedex = ""
@@ -283,18 +308,18 @@ app.post('/profile', (req, res) => {
 				if(text[i] == "0" || text[i] == "1"){
 					pokedex += text[i];
 				}else{
-					res.render('profile', {username: req.session.username, pokes: pokes, msg: "Text Pokédex must consist of only ones (1) and zeros (0)."});
+					res.render('profile', {username: req.session.username, pokes: pokes, msg: lang_dict[lang].pokedex_ones_zeros, l: lang_dict[lang]});
 					return;
 				}
 			}else{
 				pokedex += '0';
 			}
 		}
-		db.prepare('update users set pokedex = ? where username = ?').run(pokedex, req.session.username);
+		db_users.prepare('update users set pokedex = ? where username = ?').run(pokedex, req.session.username);
 		var pokes = getPokesProfile(db, req.session.username);
-		res.render('profile', {username: req.session.username, pokes: pokes});
+		res.render('profile', {username: req.session.username, pokes: pokes, l: lang_dict[lang]});
 	}else{
-		res.render('profile', {username: req.session.username, pokes: pokes, msg: "Please insert some data into the text Pokédex."});
+		res.render('profile', {username: req.session.username, pokes: pokes, msg: lang_dict[lang].pokedex_no_data, l: lang_dict[lang]});
 	}
 	
 })
@@ -303,10 +328,10 @@ app.post('/catchpoke', (req,res) => {
 	var dex = req.body.dex;
 	var username = req.session.username;
 	if(username){
-		var row = db.prepare('select * from users where username = ?').get(username);
+		var row = db_users.prepare('select * from users where username = ?').get(username);
 		var pokedex = row.pokedex;
 		var newdex = pokedex.substr(0, dex-1) + "1" + pokedex.substr(dex);
-		db.prepare('update users set pokedex = ? where username = ?').run(newdex, username);
+		db_users.prepare('update users set pokedex = ? where username = ?').run(newdex, username);
 	}
 	res.sendStatus(200);
 })
@@ -315,19 +340,27 @@ app.post('/uncatchpoke', (req,res) => {
 	var dex = req.body.dex;
 	var username = req.session.username;
 	
-	var row = db.prepare('select * from users where username = ?').get(username);
+	var row = db_users.prepare('select * from users where username = ?').get(username);
 	var pokedex = row.pokedex;
 	var newdex = pokedex.substr(0, dex-1) + "0" + pokedex.substr(dex);
-	db.prepare('update users set pokedex = ? where username = ?').run(newdex, username);
+	db_users.prepare('update users set pokedex = ? where username = ?').run(newdex, username);
 	res.sendStatus(200);
 })
 
 app.get('/help', (req, res) => {
-	res.render('help');
+	var lang = 'en'
+	if(req.session.lang){
+		lang = req.session.lang;
+	}
+	res.render('help',{l: lang_dict[lang]});
 })
 
 app.get('*', (req,res) => {
-	res.status(404).render('errorpage')
+	var lang = 'en'
+	if(req.session.lang){
+		lang = req.session.lang;
+	}
+	res.status(404).render('errorpage',{l: lang_dict[lang]})
 })
 
 app.listen(port, () => {
