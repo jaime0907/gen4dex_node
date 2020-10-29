@@ -254,7 +254,7 @@
 			}
 		}
 		var t = h*60 + d.getMinutes()
-		var dif = t2-t;
+		var dif = Math.abs(t2-t);
 		var hours = dif/60;
 		var min = (hours - Math.floor(hours)) * 60;
 		var hourst = Math.floor(hours);
