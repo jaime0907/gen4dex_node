@@ -36,11 +36,11 @@ const db = new Database('gen4dex_db.sqlite3');
 //const db_users = new Database('users_db.sqlite3');
 
 let pool;
-console.log(process.env.DATABSE_URL)
-if(process.env.DATABSE_URL){
+console.log(process.env.DATABASE_URL)
+if(process.env.DATABASE_URL){
 	console.log("Creating new PostgreSQL Pool with DATABASE_URL")
 	pool = new Pool({
-		connectionString: process.env.DATABSE_URL
+		connectionString: process.env.DATABASE_URL
 	})
 }else{
 	console.log("Creating new PostgreSQL Pool on localhost")
