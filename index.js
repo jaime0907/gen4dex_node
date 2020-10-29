@@ -18,6 +18,11 @@ nunjucks.configure( _templates, {
     express: app
 } ) ;
 
+var lang_dict = {
+	es: require('./lang_es.json'),
+	en: require('./lang_en.json')
+}
+
 app.engine('html', nunjucks.render)
 app.set('view engine', 'html');
 
@@ -39,12 +44,27 @@ app.use(session({
 
 
 app.get('/', (req, res) => {
-	//res.sendFile(path.join(__dirname + '/html/index.html'));
+	
+	var lang = 'en'
+	if(!req.session){
+		req.session.regenerate(function(err){
+		})
+	}else{
+		if(req.session.lang){
+			lang = req.session.lang;
+		}
+	}
+
+	if(req.query.lang){
+		lang = req.query.lang
+		req.session.lang = req.query.lang
+	}
+
 	let islogged = false
 	if(req.session.username){
 		islogged = true
 	}
-	res.render('index', {islogged: islogged, username: req.session.username})
+	res.render('index', {islogged: islogged, username: req.session.username, l: lang_dict[lang]})
 })
 
 app.post('/selectorinfo', (req,res) => {
@@ -151,7 +171,7 @@ app.post('/post', (req, res) => {
 		}
 	}
 
-	let sql = 'select * from (select *, max(coalesce(probdawn,0), coalesce(probday,0), coalesce(probnight,0)) as maxprob from alldata where 1 = 1' + filtro + catched + games + method + ' order by dex, maxprob desc) ' + groupby + " limit " + limit;
+	let sql = 'select * from (select *, max(coalesce(probdawn,0), coalesce(probday,0), coalesce(probnight,0)) as maxprob from alldata inner join esp on alldata.id = esp.id where 1 = 1' + filtro + catched + games + method + ' order by dex, maxprob desc) ' + groupby + " limit " + limit;
 	let rows = db.prepare(sql).all({games:games});
 
 	res.json(rows);
@@ -172,10 +192,15 @@ app.post('/login', (req, res) => {
 			var db_password = row.password
 			bcrypt.compare(password, db_password, (err, result) => {
 				if(result){
-					req.session.regenerate(function(err){
+					if(req.session){
 						req.session.username = username;
 						res.redirect('/');
-					})
+					}else{
+						req.session.regenerate(function(err){
+							req.session.username = username;
+							res.redirect('/');
+						})
+					}
 				}else{
 					res.render('login', {error: true});
 				}
@@ -220,9 +245,8 @@ app.post('/register', (req, res) => {
 })
 
 app.get('/logout', (req,res) => {
-	req.session.destroy(function(err){
-		res.redirect('/')
-	})
+	delete req.session.username
+	res.redirect('/')
 })
 
 function getPokesProfile(db, username){

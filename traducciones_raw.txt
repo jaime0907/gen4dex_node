@@ -1,0 +1,5071 @@
+
+==List of cities and towns in other languages==
+
+===Kanto===
+{| class="expandable sortable roundy" style="margin:auto; width:auto; text-align:center; background: #{{colorschemelight|Kanto}}; border: 3px solid #{{colorschemedark|Kanto}};"
+|- 
+! Japanese
+! English
+! French
+! German
+! Italian
+! Spanish
+! Czech
+! Polish
+! Korean 
+! Chinese<br>(Mandarin)
+! Chinese<br>(Cantonese)
+|- style="background: #fff"
+| タマムシシティ<br>''Tamamushi City''
+| [[Celadon City]]
+| Céladopole
+| Prismania City
+| Azzurropoli
+| Ciudad Azulona
+|
+| Prizmania
+| 무지개시티<br>''Mujigae City''
+| 玉虹市<br>''Yùhóng Shì''
+| 玉虹市<br>''Yúkhùhng Síh''
+|- style="background: #fff"
+| ハナダシティ<br>''Hanada City''
+| [[Cerulean City]]
+| Azuria
+| Azuria City
+| Celestopoli
+| Ciudad Celeste
+| Blankytné Město
+| Azuria
+| 블루시티<br>''Blue City''
+| 華藍市 / 华蓝市<br>''Huálán Shì''
+| 華藍市<br>''Wàhlàahm Síh''
+|- style="background: #fff"
+| グレンタウン<br>''Guren Town''
+| [[Cinnabar Island]]
+| Cramois'île
+| Zinnoberinsel
+| Isola Cannella
+| Isla Canela
+|
+| Wyspa Cinnabar
+| 홍련섬<br>''Hongryeon Seom''
+| 紅蓮鎮 / 红莲镇 {{tt|*|Also known as 紅蓮島 / 红莲岛 ''Hónglián Dǎo''}}<br>''Hónglián Zhèn''
+| 紅蓮鎮{{tt|*|Also known as 紅蓮島}}<br>''Hùhnglìhn Jan''
+|- style="background: #fff"
+| セキチクシティ<br>''Sekichiku City''
+| [[Fuchsia City]]
+| Parmanie
+| Fuchsania City
+| Fucsiapoli
+| Ciudad Fucsia
+|
+| Parmania
+| 연분홍시티<br>''Yeonbunhong City''
+| 淺紅市 / 浅红市<br>''Qiǎnhóng Shì''
+| 淺紅市<br>''Chínghùhng Síh''
+|- style="background: #fff"
+| シオンタウン<br>''Cion Town''
+| [[Lavender Town]]
+| Lavanville
+| Lavandia
+| Lavandonia
+| Pueblo Lavanda
+|
+| Lawandia
+| 보라타운<br>''Bora Town''
+| 紫苑鎮 / 紫苑镇<br>''Zǐyuàn Zhèn''
+| 紫苑鎮<br>''Jíyún Jan''
+|- style="background: #fff"
+| マサラタウン<br>''Masara Town''
+| [[Pallet Town]]
+| Bourg Palette
+| Alabastia
+| Biancavilla
+| Pueblo Paleta
+|
+| Alabastia
+| 태초마을<br>''Taecho Maeul''
+| 真新鎮 / 真新镇<br>''Zhēnxīn Zhèn''
+| 真新鎮<br>''Jānsān Jan''
+|- style="background: #fff"
+| ニビシティ<br>''Nibi City''
+| [[Pewter City]]
+| Argenta
+| Marmoria City
+| Plumbeopoli
+| Ciudad Plateada
+| Cínové Město
+| Marmoria
+| 회색시티<br>''Hoesaek City''
+| 深灰市<br>''Shēnhuī Shì''
+| 深灰市<br>''Sāmfūi Síh''
+|- style="background: #fff"
+| ヤマブキシティ<br>''Yamabuki City''
+| [[Saffron City]]
+| Safrania
+| Saffronia City
+| Zafferanopoli
+| Ciudad Azafrán
+|
+| Safrania
+| 노랑시티<br>''Norang City''
+| 金黃市 / 金黄市<br>''Jīnhuáng Shì''
+| 金黄市<br>''Gāmwòhng Síh''
+|- style="background: #fff"
+| クチバシティ<br>''Kuchiba City''
+| [[Vermilion City]]
+| Carmin sur mer
+| Orania City
+| Aranciopoli
+| Ciudad Carmín
+| Rumělkové Město
+| Orania
+| 갈색시티<br>''Galsaek City''
+| 枯葉市 / 枯叶市<br>''Kūyè Shì''
+| 枯叶市<br>''Fūyihp Síh''
+|- style="background: #fff"
+| トキワシティ<br>''Tokiwa City''
+| [[Viridian City]]
+| Jadielle
+| Vertania City
+| Smeraldopoli
+| Ciudad Verde
+| Chromové Město 
+| Wertania
+| 상록시티<br>''Sangrok City''
+| 常青市<br>''Chángqīng Shì''
+| 常青市<br>''Sèuhngchīng Síh''
+|}
+
+===Johto===
+{| class="expandable sortable roundy" style="margin:auto; width:auto; text-align:center; background: #{{colorschemelight|Johto}}; border: 3px solid #{{colorschemedark|Johto}};"
+|- 
+! Japanese
+! English
+! French
+! German
+! Italian
+! Spanish
+! Korean 
+! Chinese<br>(Mandarin)
+! Chinese<br>(Cantonese)
+|- style="background: #fff"
+| ヒワダタウン<br>''Hiwada Town''
+| [[Azalea Town]]
+| Ecorcia
+| Azalea City
+| Azalina
+| Pueblo Azalea
+| 고동마을<br>''Godong Maeul''
+| 檜皮鎮 / 桧皮镇<br>''Kuàipí Zhèn''
+| 檜皮鎮<br>''Kúipèih Síh''
+|- style="background: #fff"
+| フスベシティ<br>''Fusube City''
+| [[Blackthorn City]]
+| Ebenelle
+| Ebenholz City
+| Ebanopoli
+| Ciudad Endrino
+| 검은먹시티<br>''Geom-eunmeok City''
+| 煙墨市 / 烟墨市<br>''Yānmò Shì''
+| 煙墨市<br>''Yīnmahk Síh''
+|- style="background: #fff"
+| ヨシノシティ<br>''Yoshino City''
+| [[Cherrygrove City]]
+| Ville Griotte
+| Rosalia City
+| Fiorpescopoli
+| Ciudad Cerezo
+| 무궁시티<br>''Mugung City''
+| 吉花市<br>''Jíhuā Shì''
+| 吉花市<br>''Gātfā Síh''
+|- style="background: #fff"
+| タンバシティ<br>''Tanba City''
+| [[Cianwood City]]
+| Irisia
+| Anemonia City
+| Fiorlisopoli
+| Ciudad Orquídea
+| 진청시티<br>''Jincheong City''
+| 湛藍市 / 湛蓝市<br>''Zhànlán Shì''
+| 湛藍市<br>''Jaamlàahm Síh''
+|- style="background: #fff"
+| エンジュシティ<br>''Enju City''
+| [[Ecruteak City]]
+| Rosalia
+| Teak City
+| Amarantopoli
+| Ciudad Iris
+| 인주시티<br>''Inju City''
+| 圓朱市 / 圆朱市<br>''Yuánzhū Shì''
+| 圓朱市<br>''Yùhnjyū Síh''
+|- style="background: #fff"
+| コガネシティ<br>''Kogane City''
+| [[Goldenrod City]]
+| Doublonville
+| Dukatia City
+| Fiordoropoli
+| Ciudad Trigal
+| 금빛시티<br>''Geumbit City''
+| 滿金市 / 满金市 {{tt|*|小金市 (Xiǎojīn Shì) in the Manga}}<br>''Mǎnjīn Shì''
+| 黃金市<br>''Wòhnggām Síh''
+|- style="background: #fff"
+| チョウジタウン<br>''Chōji Town''
+| [[Mahogany Town]]
+| Acajou
+| Mahagonia City
+| Mogania
+| Pueblo Caoba
+| 황토마을<br>''Hwangto Maeul''
+| 卡吉鎮 / 卡吉镇<br>''Kǎjí Zhèn''
+| 卡吉鎮<br>''Kāgāt Jan''
+|- style="background: #fff"
+| ワカバタウン<br>''Wakaba Town''
+| [[New Bark Town]]
+| Bourg Geon
+| Neuborkia
+| Borgo Foglianova
+| Pueblo Primavera
+| 연두마을<br>''Yeondu Maeul''
+| 若葉鎮 / 若叶镇<br>''Ruòyè Zhèn''
+| 若葉鎮<br>''Yeuhkyihp Jan''
+|- style="background: #fff"
+| アサギシティ<br>''Asagi City''
+| [[Olivine City]]
+| Oliville
+| Oliviana City
+| Olivinopoli
+| Ciudad Olivo
+| 담청시티<br>''Damcheong City''
+| 淺蔥市 {{tt|*|Also known as 淺黃市 ''Qiǎnhuáng Shì''}}/ 浅葱市<br>''Qiǎncōng Shì''
+| 淺蔥市<br>''Chínchūng Síh''
+|- style="background: #fff"
+| キキョウシティ<br>''Kikyō City''
+| [[Violet City]]
+| Mauville
+| Viola City
+| Violapoli
+| Ciudad Malva
+| 도라지시티<br>''Doraji City''
+| 桔梗市<br>''Jiégěng Shì''
+| 桔梗市<br>''Gātgáng Síh''
+|}
+
+===Hoenn===
+{| class="expandable sortable roundy" style="margin:auto; width:auto; text-align:center; background: #{{colorschemelight|Hoenn}}; border: 3px solid #{{colorschemedark|Hoenn}};"
+|- 
+! Japanese
+! English
+! French
+! German
+! Italian
+! Spanish
+! Korean 
+! Chinese<br>(Mandarin)
+! Chinese<br>(Cantonese)
+|- style="background: #fff"
+| ムロタウン<br>''Muro Town''
+| [[Dewford Town]]
+| Village Myokara
+| Faustauhaven
+| Bluruvia
+| Pueblo Azuliza
+| 무로마을<br>''Muro Maeul''
+| 武鬥鎮 / 武斗镇<br>''Wǔdoù Zhèn''
+| 武鬥鎮<br>''Móuhdau Jan''
+|- style="background: #fff"
+| サイユウシティ<br>''Saiyū City''
+| [[Ever Grande City]]
+| Eternara
+| Prachtpolis City
+| Iridopoli
+| Ciudad Colosalia
+| 그랜드시티<br>''Grand City''
+| 彩幽市<br>''Caǐyōu Shì''
+| 彩幽市<br>''Chóiyāu Síh''
+|- style="background: #fff"
+| ハジツゲタウン<br>''Hajitsuge Town''
+| [[Fallarbor Town]]
+| Autequia
+| Laubwechselfeld
+| Brunifoglia
+| Pueblo Pardal
+| 단풍마을<br>''Danpung Maeul''
+| 秋葉鎮 / 秋叶镇<br>''Qiūyè Zhèn''
+| 秋葉鎮<br>''Chāuyihp Jan''
+|- style="background: #fff"
+| ヒワマキシティ<br>''Hiwamaki City''
+| [[Fortree City]]
+| Cimetronelle
+| Baumhausen City
+| Forestopoli
+| Ciudad Arborada
+| 검방울시티<br>''Geombang-ul City''
+| 茵鬱市 / 茵郁市<br>''Yīnyù Shì''
+| 茵鬱市<br>''Yānwāt Síh''
+|- style="background: #fff"
+| フエンタウン<br>''Fuen Town''
+| [[Lavaridge Town]]
+| Vermilava
+| Bad Lavastadt
+| Cuordilava
+| Pueblo Lavacalda
+| 용암마을<br>''Yong-am Maeul''
+| 釜炎鎮 / 釜炎镇<br>''Fǔyán Zhèn''
+| 釜炎鎮<br>''Fúyìhm Jan''
+|- style="background: #fff"
+| ミナモシティ<br>''Minamo City''
+| [[Lilycove City]] 
+| Nenucrique
+| Seegrasulb City
+| Porto Alghepoli
+| Ciudad Calagua
+| 해안시티<br>''Haean City''
+| 水靜市 / 水静市<br>''Shuǐjìng Shì''
+| 水靜市<br>''Séuijihng Síh''
+|- style="background: #fff"
+| ミシロタウン<br>''Mishiro Town''
+| [[Littleroot Town]]
+| Bourg-en-Vol
+| Wurzelheim
+| Albanova
+| Villa Raíz
+| 미로마을<br>''Miro Maeul''
+| 未白鎮 / 未白镇<br>''Weìbaí Zhèn''
+| 未白鎮<br>''Meihbaahk Jan''
+|- style="background: #fff"
+| キンセツシティ<br>''Kinsetsu City''
+| [[Mauville City]]
+| Lavandia
+| Malvenfroh City
+| Ciclamipoli
+| Ciudad Malvalona
+| 보라시티<br>''Bora City''
+| 紫堇市<br>''Zǐjǐn Shì''
+| 紫堇市<br>''Jígán Síh''
+|- style="background: #fff"
+| トクサネシティ<br>''Tokusane City''
+| [[Mossdeep City]]
+| Algatia
+| Moosbach City
+| Verdeazzupoli
+| Ciudad Algaria
+| 이끼시티<br>''Ikki City''
+| 綠嶺市 / 绿岭市<br>''Lǜlǐng Shì''
+| 綠嶺市<br>''Luhklíhng Síh''
+|- style="background: #fff"
+| コトキタウン<br>''Kotoki Town''
+| [[Oldale Town]]
+| Rosyeres
+| Rosaltstadt
+| Solarosa
+| Pueblo Escaso
+| 고도마을<br>''Godo Maeul''
+| 古辰鎮 / 古辰镇<br>''Gǔchén Zhèn''
+| 古辰鎮<br>''Gúsàhn Jan''
+|- style="background: #fff"
+| キナギタウン<br>''Kinagi Town''
+| [[Pacifidlog Town]]
+| Pacifiville
+| Floßbrunn
+| Orocea
+| Pueblo Oromar
+| 황금마을<br>''Hwanggeum Maeul''
+| 暮水鎮 / 暮水镇<br>''Mùshuǐ Zhèn''
+| 暮水鎮<br>''Mouhséui Jan''
+|- style="background: #fff"
+| トウカシティ<br>''Touka City''
+| [[Petalburg City]]
+| Clementi-Ville
+| Blütenburg City
+| Petalipoli
+| Ciudad Petalia
+| 등화도시<br>''Deunghwa Dosi''
+| 橙華市 / 橙华市<br>''Chénghuá Shì''
+| 橙華市<br>''Cháangfā Síh''
+|- style="background: #fff"
+| カナズミシティ<br>''Kanazumi City''
+| [[Rustboro City]]
+| Mérouville
+| Metarost City
+| Ferrugipoli
+| Ciudad Férrica
+| 금탄도시<br>''Geumtan Dosi''
+| 卡那茲市 / 卡那兹市<br>''Kǎnàzī Shì''
+| 卡那茲市<br>''Kānáhjī Síh''
+|- style="background: #fff"
+| カイナシティ<br>''Kaina City''
+| [[Slateport City]]
+| Poivressel
+| Graphitport City
+| Porto Selcepoli
+| Ciudad Portual
+| 잿빛도시<br>''Jaetbit Dosi''
+| 凱那市 / 凯那市<br>''Kaǐnà Shì''
+| 凱那市<br>''Hóináh Síh''
+|- style="background: #fff"
+| ルネシティ<br>''Rune City''
+| [[Sootopolis City]]
+| Atalanopolis
+| Xeneroville
+| Ceneride
+| Arrecípolis
+| 루네시티<br>''Rune City''
+| 琉璃市<br>''Liúlí Shì''
+| 琉璃市<br>''Làuhlèih Síh''
+|- style="background: #fff"
+| シダケタウン<br>''Shidake Town''
+| [[Verdanturf Town]]
+| Vergazon
+| Wiesenflur
+| Mentania
+| Pueblo Verdegal
+| 잔디마을<br>''Jandi Maeul''
+| 綠蔭鎮 / 绿荫镇<br>''Lǜyīn Zhèn''
+| 綠蔭鎮<br>''Luhkyam Síh''
+|}
+
+===Sinnoh===
+{| class="expandable sortable roundy" style="margin:auto; width:auto; text-align:center; background: #{{colorschemelight|Sinnoh}}; border: 3px solid #{{colorschemedark|Sinnoh}};"
+|- 
+! Japanese
+! English
+! French
+! German
+! Italian
+! Spanish
+! Korean 
+! Chinese<br>(Mandarin)
+! Chinese<br>(Cantonese)
+|- style="background: #fff"
+| ミオシティ<br>''Mio City''
+| [[Canalave City]]
+| Joliberges
+| Fleetburg
+| Canalipoli
+| Ciudad Canal 
+| 운하시티<br>''Unha City''
+| 水脈市 {{tt|*|運河市 (Yùnhé Shì) in DPA}}/ 水脉市<br>''Shuǐmài Shì''
+| 水脈市<br>''Séuimahk Síh''
+|- style="background: #fff"
+| カンナギタウン<br>''Kannagi Town''
+| [[Celestic Town]]
+| Celestia
+| Elyses
+| Memoride
+| Pueblo Caelestis
+| 봉신마을<br>''Bongsin Village''
+| 神和鎮 / 神和镇<br>''Shénhé Zhèn''
+| 神和鎮<br>''Sānwoh Jan''
+|- style="background: #fff"
+| ハクタイシティ<br>''Hakutai City''
+| [[Eterna City]]
+| Vestigion
+| Ewigenau 
+| Evopoli
+| Ciudad Vetusta
+| 영원시티<br>''Yeong'weon City''
+| 百代市<br>''Baǐdaì Shì''
+| 百代市<br>''Baakdoih Síh''
+|- style="background: #fff"
+| ソノオタウン<br>''Sonoo Town''
+| [[Floaroma Town]]
+| Floraville
+| Flori
+| Giardinfiorito
+| Pueblo Aromaflor
+| 꽃향기마을<br>''Kkothyanggi Village''
+| 苑之鎮 / 苑之镇<br>''Yuàn-zhī Zhèn''
+| 苑之鎮<br>''Yún-jī Jan''
+|- style="background: #fff"
+| ヨスガシティ<br>''Yosuga City''
+| [[Hearthome City]]
+| Unionpolis
+| Herzhofen
+| Cuoripoli
+| Ciudad Corazón
+| 연고시티<br>''Yeongo City''
+| 緣之市 / 缘之市<br>''Yuán-zhī Shì''
+| 緣之市<br>''Yùhn-jī Síh''
+|- style="background: #fff"
+| コトブキシティ<br>''Kotobuki City''
+| [[Jubilife City]]
+| Féli-Cité
+| Jubelstadt
+| Giubilopoli
+| Ciudad Jubileo
+| 축복시티<br>''Chukbok City''
+| 祝慶市 / 祝庆市<br>''Zhùqìng Shì''
+| 祝慶市<br>''Jūkhing Síh''
+|- style="background: #fff"
+| クロガネシティ<br>''Kurogane City''
+| [[Oreburgh City]]
+| Charbourg
+| Erzelingen
+| Mineropoli
+| Ciudad Pirita
+| 무쇠시티<br>''Musoe City''
+| 鋼鐵市 / 钢铁市<br>''Gāngtiě Shì''
+| 鋼鐵市<br>''Gōngtit Si''
+|- style="background: #fff"
+| ノモセシティ<br>''Nomose City''
+| [[Pastoria City]]
+| Verchamps
+| Weideburg 
+| Pratopoli
+| Ciudad Pradera
+| 들판시티<br>''Deulpan City''
+| 濕原市 / 湿原市<br>''Shīyuán Shì''
+| 濕原市<br>''Sāpyùhn Síh''
+|- style="background: #fff"
+| マサゴタウン<br>''Masago Town''
+| [[Sandgem Town]]
+| Littorella
+| Sandgemme
+| Sabbiafine
+| Pueblo Arena
+| 잔모래마을<br>''Janmorae Village''
+| 真砂鎮 / 真砂镇<br>''Zhēnshā Zhèn''
+| 真砂鎮<br>''Jānsā Jan''
+|- style="background: #fff"
+| キッサキシティ<br>''Kissaki City''
+| [[Snowpoint City]]
+| Frimapic
+| Blizzach 
+| Nevepoli
+| Ciudad Puntaneva
+| 선단시티<br>''Seondan City''
+| 切鋒市 / 切锋市<br>''Qiēfēng Shì''
+| 切鋒市<br>''Chaifūng Síh''
+|- style="background: #fff"
+| ズイタウン<br>''Zui Town''
+| [[Solaceon Town]]
+| Bonville
+| Trostu 
+| Flemminia
+| Pueblo Sosiego
+| 신수마을<br>''Sinsu Village''
+| 隨意鎮 / 随意镇<br>''Suíyì Zhèn''
+| 隨意鎮<br>''Chèuihyi Jan''
+|- style="background: #fff"
+| ナギサシティ<br>''Nagisa City''
+| [[Sunyshore City]]
+| Rivamar
+| Sonnewik 
+| Arenipoli
+| Ciudad Marina
+| 물가시티<br>''Mulga City''
+| 濱海市 {{tt|*|湖濱市 (Hú​bīn​ Shì​) in the Anime}}<br>''Bīnhǎi Shì''
+| 濱海市 {{tt|*|湖濱市 (Wuban Si) in the Anime}}<br>''Bānhói Síh''
+|- style="background: #fff"
+| フタバタウン<br>''Futaba Town''
+| [[Twinleaf Town]]
+| Bonaugure
+| Zweiblattdorf
+| Duefoglie
+| Pueblo Hojaverde
+| 떡잎마을<br>''Tteok'ip Village''
+| 雙葉鎮 / 双叶镇<br>''Shuāngyè Zhèn''
+| 雙葉鎮<br>''Sēungyihp Jan''
+|- style="background: #fff"
+| トバリシティ<br>''Tobari City''
+| [[Veilstone City]]
+| Voilaroc
+| Schleiede
+| Rupepoli
+| Ciudad Rocavelo
+| 장막시티<br>''Jangmak City''
+| 帷幕市<br>''Wéimù Shì''
+| 帷幕市<br>''Wàihmohk Síh''
+|}
+
+===Unova===
+{| class="expandable sortable roundy" style="margin:auto; width:auto; text-align:center; background: #{{colorschemelight|Unova}}; border: 3px solid #{{colorschemedark|Unova}};"
+|- 
+! Japanese
+! English
+! French
+! German
+! Italian
+! Spanish
+! Korean 
+! Chinese<br>(Mandarin)
+! Chinese<br>(Cantonese)
+|- style="background: #fff"
+| カラクサタウン<br>''Karakusa Town''
+| [[Accumula Town]]
+| Arabelle 
+| Gavina 
+| Quattroventi 
+| Pueblo Terracota 
+| 넝쿨마을<br>''Neongkul Maeul''
+| 唐草鎮<!-- / 唐草镇--><br>''Tángcǎo Zhèn''
+| 唐草鎮<br>''Tòhngchóu Jan''
+|- style="background: #fff"
+| カナワタウン<br>''Kanawa Town''
+| [[Anville Town]]
+| Rotombourg
+| Ferrula
+| Roteolia
+| Pueblo Biscuit
+| 가륜마을<br>''Garyun Maeul''
+| 金輪鎮<!-- / 金轮镇--><br>''Jīnlún Zhèn''
+| 金輪鎮<br>''Gāmlèuhn Jan''
+|- style="background: #fff"
+| ヒオウギシティ<br>''Hiougi City''
+| [[Aspertia City]]
+| Pavonnay
+| Eventura City
+| Alisopoli
+| Ciudad Engobe
+| 부채시티<br>''Buchae City''
+| 檜扇市<!-- / 桧扇市--><br>''Kuàishàn Shì''
+| 檜扇市<br>''Kúisin Síh''
+|- style="background: #fff"
+| ブラックシティ<br>''Black City''
+| [[Black City]]
+| Ville Noire
+| Schwarze Stadt
+| Città Nera
+| Ciudad Negra
+| 블랙시티<br>''Black City''
+|
+|
+|- style="background: #fff"
+| ヒウンシティ<br>''Hiun City''
+| [[Castelia City]]
+| Volucité 
+| Stratos City 
+| Austropoli 
+| Ciudad Porcelana
+| 구름시티<br>''Gureum City''
+| 飛雲市<!-- / 飞云市--><br>''Fēiyún Shì''
+| 飛雲市<br>''Fēiwàhn Síh''
+|- style="background: #fff"
+| ホドモエシティ<br>''Hodomoe City''
+| [[Driftveil City]]
+| Port Yoneuve
+| Marea City
+| Libecciopoli
+| Ciudad Fayenza
+| 물풍경시티<br>''Mulpunggyeong City''
+| 帆巴市<br>''Fānbā Shì''
+| 帆巴市<br>''Fàahnbā Síh''
+|- style="background: #fff"
+| サンギタウン<br>''Sangi Town''
+| [[Floccesy Town]]
+| Amaillide
+| Dausing
+| Venturia
+| Pueblo Ocre
+| 산가지마을<br>''Sangaji Maeul''
+| 算木鎮<!-- / 算木镇--><br>''Suàn​mù ​Zhèn''
+| 算木鎮<br>''Syunmuhk Jan''
+|- style="background: #fff"
+| セイガイハシティ<br>''Seigaiha City''
+| [[Humilau City]]
+| Papeloa
+| Abidaya City
+| Grecalopoli
+| Ciudad Marga 
+| 기하시티<br>''Giha City''
+| 青海波市<br>''Qīnghǎibō Shì''
+| 青海波市<br>''Chīnghóibō Síh''
+|- style="background: #fff"
+| セッカシティ<br>''Sekka City''
+| [[Icirrus City]]
+| Flocombe
+| Nevaio City
+| Mistralopoli
+| Ciudad Teja
+| 설화시티<br>''Seolhwa City''
+| 雪花市<br>''Xuěhuā Shì''
+| 雪花市<br>''Syutfā Síh''
+|- style="background: #fff"
+| カゴメタウン<br>''Kagome Town''
+| [[Lacunosa Town]]
+| Entrelasque
+| Tessera
+| Fortebrezza 
+| Pueblo Ladrillo
+| 보배마을<br>''Bobae Maeul''
+| 籠目鎮<!-- / 笼目镇--><br>''Lóngmù Zhèn''
+| 籠目鎮<br>''Lúhngmuhk Jan''
+|- style="background: #fff"
+| ヤマジタウン<br>''Yamaji Town''
+| [[Lentimas Town]]
+| Arpentières
+| Monsentiero
+| Poggiovento
+| Pueblo Chamota
+| 산로마을<br>''Sanno Maeul''
+| 山路鎮<br>''Shānlù Zhèn ''
+|
+|- style="background: #fff"
+| フキヨセシティ<br>''Fukiyose City''
+| [[Mistralton City]]
+| Parsemille
+| Panaero City
+| Ponentopoli
+| Ciudad Loza
+| 궐수시티<br>''Gweolsu City''
+| 吹寄市<br>''Chuījì Shì''
+| 吹寄市<br>''Chēuigei Síh''
+|- style="background: #fff"
+| シッポウシティ<br>''Shippō City''
+| [[Nacrene City]]
+| Maillard
+| Septerna City 
+| Zefiropoli
+| Ciudad Esmalte
+| 칠보시티<br>''Chilbo City''
+| 七寶市<!-- / 七宝市--><br>''Qībǎo Shì''
+| 七寶市<br>''Chātbóu Síh''
+|- style="background: #fff"
+| ライモンシティ<br>''Raimon City''
+| [[Nimbasa City]]
+| Méanville
+| Rayono City
+| Sciroccopoli 
+| Ciudad Mayólica 
+| 뇌문시티<br>''Noemun City''
+| 雷文市<br>''Léiwén Shì''
+| 雷文市<br>''Lèuihmàhn Síh''
+|- style="background: #fff"
+| カノコタウン<br>''Kanoko Town''
+| [[Nuvema Town]]
+| Renouet
+| Avenitia
+| Soffiolieve
+| Pueblo Arcilla
+| 마름꽃마을<br>''Mareumkkot Maeul''
+| 鹿子鎮<!-- / 鹿子镇--><br>''Lùzi Zhèn''
+| 鹿子鎮<br>''Luhkjí Jan''
+|- style="background: #fff"
+| ソウリュウシティ<br>''Souryuu City''
+| [[Opelucid City]]
+| Janusia
+| Twindrake City
+| Boreduopoli
+| Ciudad Caolín
+| 쌍용시티<br>''Ssang'yong City''
+| 雙龍市<!-- / 双龙市--><br>''Shuānglóng Shì''
+| 雙龍市<br>''Sēunglùhng Síh''
+|- style="background: #fff"
+| サンヨウシティ<br>''Sanyō City''
+| [[Striaton City]]
+| Ogoesse
+| Orion City
+| Levantopoli 
+| Ciudad Gres
+| 성신시티<br>''Seongsin City''
+| 三曜市<br>''Sānyào Shì''
+| 三曜市<br>''Sāamyiuh Síh''
+|- style="background: #fff"
+| サザナミタウン<br>''Sazanami Town''
+| [[Undella Town]]
+| Vaguelone
+| Ondula
+| Spiraria
+| Pueblo Arenisca
+| 물결마을<br>''Mulgyeol Maeul''
+| 小波鎮<!-- / 小波镇--><br>''Xiǎobō Zhèn''
+| 小波鎮<br>''Síubō Jan''
+|- style="background: #fff"
+| タチワキシティ<br>''Tachiwaki City''
+| [[Virbank City]]
+| Ondes-sur-Mer
+| Vapydro City
+| Zondopoli
+| Ciudad Hormigón
+| 모란만시티<br>''Moranman City''
+| 立湧市<!-- / 立涌市--><br>''Lìyǒng Shì''
+| 立湧市<br>''Lahpyúng Síh''
+|}
+
+===Kalos===
+{| class="expandable sortable roundy" style="margin:auto; width:auto; text-align:center; background: #{{colorschemelight|Kalos}}; border: 3px solid #{{colorschemedark|Kalos}};"
+|- 
+! Japanese
+! English
+! French
+! German
+! Italian
+! Spanish
+! Korean 
+! Chinese<br>(Mandarin)
+! Chinese<br>(Cantonese)
+|- style="background: #fff"
+| ヒャッコクシティ<br>''Hyakkoku City''
+| [[Anistar City]]
+| Flusselles
+| Fluxia City
+| Fluxopoli
+| Ciudad Fluxus
+| 향전시티<br>''Hyangjeon City''
+| 百刻市<br>''Bǎikè Shì''
+| 百刻市<br>''Baakhāak Síh''
+|- style="background: #fff"
+| コウジンタウン<br>''Kōjin Town''
+| [[Ambrette Town]]
+| Roche-sur-Gliffe
+| Petrophia
+| Petroglifari
+| Pueblo Petroglifo
+| 가라마을<br>''Gara Maeul''
+| 古香鎮<!-- / 古香镇--><br>''Gǔxiāng​ Zhèn''
+| 古香鎮<br>''Gúhēung Jan''
+|- style="background: #fff"
+| メイスイタウン<br>''Meisui Town''
+| [[Aquacorde Town]]
+| Quarellis
+| Aquarellia
+| Rio Acquerello
+| Pueblo Acuarela
+| 수미마을<br>''Sumi Maeul''
+| 美川鎮<!-- / 美川镇--><br>''Měichuān Zhèn''
+| 美川鎮<br>''Méihchyūn Jan''
+|- style="background: #fff"
+| コボクタウン<br>''Koboku Town''
+| [[Camphrier Town]]
+| Fort-Vanitas
+| Vanitéa
+| Castel Vanità
+| Pueblo Vánitas
+| 고목내마을<br>''Gomoknae Maeul''
+| 古木鎮<!-- / 古木镇--><br>''Gǔmù Zhèn''
+| 古木鎮<br>''Gúmuhk Jan''
+|- style="background: #fff"
+| ヒヨクシティ<br>''Hiyoku City''
+| [[Coumarine City]]
+| Port Tempères
+| Tempera City
+| Temperopoli
+| Ciudad Témpera
+| 비익시티<br>''Biik City''
+| 海翼市<br>''Hǎi​yì​ Shì​''
+| 海翼市<br>''Hóiyihk Síh''
+|- style="background: #fff"
+| レンリタウン<br>''Renri Town''
+| [[Couriway Town]]
+| Mozheim
+| Mosaia
+| Ponte Mosaico
+| Pueblo Mosaico
+| 배롱마을<br>''Baelong Maeul''
+| 水漣鎮<!-- / 水涟镇--><br>''Shuǐlián Zhèn''
+| 水漣鎮<br>''Séuilìhn Jan''
+|- style="background: #fff"
+| ショウヨウシティ<br>''Shōyō City''
+| [[Cyllage City]]
+| Relifac-le-Haut
+| Relievera City
+| Altoripoli
+| Ciudad Relieve
+| 삼채시티<br>''Samchae City''
+| 遙香市<!-- / 遥香市--><br>''Yáoxiāng Shì''
+| 遙香市<br>''Yìuhhēung Síh''
+|- style="background: #fff"
+| フウジョタウン<br>''Fūjo Town''
+| [[Dendemille Town]]
+| La Frescale
+| Frescora
+| Frescovilla
+| Pueblo Fresco
+| 버들비마을<br>''Beodeulbi Maeul''
+| 雪風鎮<!-- / 雪风镇--><br>''Xuěfēng Zhèn''
+| 雪風鎮<br>''Syutfūng Jan''
+|- style="background: #fff"
+| セキタイタウン<br>''Sekitai Town''
+| [[Geosenge Town]]
+| Cromlac'h
+| Cromlexia
+| Cromleburgo
+| Pueblo Crómlech
+| 옥유마을<br>''Okyu Maeul''
+| 石林鎮<!-- / 石林镇--><br>''Shílín Zhèn''
+| 石林鎮<br>''Sehklàhm Jan''
+|- style="background: #fff"
+| キナンシティ<br>''Kinan City''
+| [[Kiloude City]]
+| Batisques
+| Batika City
+| Batikopoli
+| Ciudad Batik
+| 기남시티<br>''Ginam City''
+| 奇楠市<br>''Qínán Shì''
+| 奇楠市<br>''Kèihnàahm Síh''
+|- style="background: #fff"
+| クノエシティ<br>''Kunoe City''
+| [[Laverre City]]
+| Romant-sous-Bois
+| Romantia City
+| Romantopoli
+| Ciudad Romantis
+| 후늬시티<br>''Hu'nui City''
+| 香薰市<br>''Xiāngxūn Shì''
+| 香薰市<br>''Hēungfān Síh''
+|- style="background: #fff"
+| ミアレシティ<br>''Miare City''
+| [[Lumiose City]]
+| Illumis
+| Illumina City 	
+| Luminopoli
+| Ciudad Luminalia
+| 미르시티<br>''Mireu City''
+| 密阿雷市<br>''Mì'āléi Shì''
+| 密阿雷市<br>''Maht'alèuih Síh''
+|- style="background: #fff"
+| ハクダンシティ<br>''Hakudan City''
+| [[Santalune City]]
+| Neuvartault
+| Nouvaria City 	
+| Novartopoli 
+| Ciudad Novarte 
+| 백단시티<br>''Baekdan City''
+| 白檀市<br>''Báitán Shì''
+| 白檀市<br>''Baahktàahn Síh''
+|- style="background: #fff"
+| シャラシティ<br>''Shara City''
+| [[Shalour City]]
+| Yantreizh
+| Yantara City 	
+| Yantaropoli  
+| Ciudad Yantra  
+| 사라시티<br>''Sara City''
+| 娑羅市<!-- / 娑罗市--><br>''Suōluó Shì''
+| 娑羅市<br>''Sōlòh Síh''
+|- style="background: #fff"
+| エイセツシティ<br>''Eisetsu City''
+| [[Snowbelle City]]
+| Auffrac-les-Congères
+| Fractalia City
+| Fractalopoli
+| Ciudad Fructal
+| 이설시티<br>''Iseol City''
+| 映雪市<br>''Yìngxuě Shì''
+| 映雪市<br>''Yíngsyut Síh''
+|- style="background: #fff"
+|アサメタウン<br>''Asame Town''
+| [[Vaniville Town]]
+| Bourg Croquis 
+| Escissia
+| Borgo Bozzetto 
+| Pueblo Boceto
+| 조아마을<br>''Joa Maeul''
+| 朝香鎮<!-- / 朝香镇--><br>''Zhāoxiāng Zhèn''
+| 朝香鎮<br>''Jīuhēung Jan''
+|}
+
+===Alola===
+{| class="expandable sortable roundy" style="margin:auto; width:auto; text-align:center; background: #{{colorschemelight|Alola}}; border: 3px solid #{{colorschemedark|Alola}};"
+|-
+! Japanese
+! English
+! French
+! German
+! Italian
+! Spanish
+! Korean 
+! Chinese<br>(Mandarin)
+! Chinese<br>(Cantonese)
+|- style="background: #fff"
+| ハウオリシティ<br>''Hau'oli City''
+| [[Hau'oli City]]
+| Ekaeka
+| Hauholi City
+| Hau'oli
+| Ciudad Hauoli
+| 하우올리시티<br>''Hau'oli City''
+| 好奧樂市 / 好奥乐市<br>''Hǎo'àolè Shì''
+| 好奧樂市<br>''Hóu'oulohk Síh''
+|- style="background: #fff"
+| カンタイシティ<br>''Kantai City''
+| [[Heahea City]]
+| Ho'ohale
+| Kantai City
+| Kantai
+| Ciudad Kantai
+| 환대시티<br>''Hwandae City''
+| 慷待市<br>''Kāngdài Shì''
+| 慷待市<br>''Hōngdoih Síh''
+|- style="background: #fff"
+| リリィタウン<br>''Lili'i Town''
+| [[Iki Town]]
+| Lili'i
+| Lili'i
+| Lili
+| Pueblo Lilii
+| 릴리마을<br>''Lili Ma-eul''
+| 利利小鎮 / 利利小镇<br>''Lìlì Xiǎozhèn''
+| 利利小鎮<br>''Leihleih Síujan''
+|- style="background: #fff"
+| コニコシティ<br>''Koniko City''
+| [[Konikoni City]]
+| Konikoni
+| Konikoni City
+| Konikoni
+| Ciudad Konikoni
+| 코니코니시티<br>''Konikoni City''
+| 可霓可市<br>''Kěníkě Shì''
+| 可霓可市<br>''Hó'ngàihhó Síh''
+|- style="background: #fff"
+| マリエシティ<br>''Malie City''
+| [[Malie City]]
+| Malié
+| Malihe City
+| Malie
+| Ciudad Malíe
+| 말리에시티<br>''Malie City''
+| 馬利埃靜市 / 马利埃静市<br>''Mǎlì'āi Jìngshì''
+| 馬利埃靜市<br>''Máhleih'āai Jihngsíh''
+|- style="background: #fff"
+| オハナタウン<br>''Ohana Town''
+| [[Paniola Town]]
+| Ohana
+| Ohana
+| Ohana
+| Pueblo Ohana
+| 오하나마을<br>''Ohana Maeul''
+| 歐哈納鎮 / 欧哈纳镇<br>''Ōuhānà Zhèn''
+| 歐哈納鎮<br>''Āuhānaahp Jan''
+|- style="background: #fff"
+| ポータウン<br>''Pō Town''
+| [[Po Town]]
+| Kokohio
+| Po'u
+| Poh
+| Pueblo Po
+| 포마을<br>''Po Maeul''
+| 魄鎮 / 魄镇<br>''Pò Zhèn''
+| 魄鎮<br>''Bok Jan''
+|- style="background: #fff"
+| 海の民の村<br>''Seafolk Village''
+| [[Seafolk Village]]
+| Village Flottant
+| Dorf des Seevolkes
+| Villaggio del Mare
+| Aldea Marina
+| 바다민족의 마을<br>''Bada Minjog-ui Maeul''
+| 海洋居民之村<br>''Hǎiyáng Jūmín-zhī Cūn''
+| 海洋居民之村<br>''Hóiyèuhng Gēuimàhn-jī Chyūn''
+|- style="background: #fff"
+| カプの村<br>''Kapu Village''
+| [[Tapu Village]]
+| Village Toko
+| Dorf der Kapu
+| Villaggio Tapu
+| Aldea Tapu
+| 카푸마을<br>''Kapu Village''
+| 卡璞村<br>Kǎpú Cūn''
+| 卡璞村<br>''Kāpok Chyūn''
+|}
+
+===Sevii Islands===
+{| class="expandable sortable roundy" style="margin:auto; width:auto; text-align:center; background: #{{Sevii color light}}; border: 3px solid #{{Sevii color dark}};"
+|- 
+! Japanese
+! English
+! French
+! German
+! Italian
+! Spanish
+! Korean 
+! Chinese<br>(Mandarin)
+! Chinese<br>(Cantonese)
+|- style="background: #fff"
+| １の島<br>''1-no Shima''
+| [[One Island (town)|One Island]]
+| Île 1
+| Eiland Eins
+| Primisola
+| Isla Prima
+| １의 섬<br>''1-yi Seom''
+| {{tt|第1島|Dì Yī Dǎo}} / {{tt|一之岛|Yī-zhī Dǎo}}
+| 第1島<br>''Daih Yāt Dóu''
+|- style="background: #fff"
+| ２の島<br>''2-no Shima''
+| [[Two Island (town)|Two Island]]
+| Île 2
+| Eiland Zwei
+| Secondisola
+| Isla Secunda
+| ２의 섬<br>''2-yi Seom''
+| {{tt|第2島|Dì Èr Dǎo}} / {{tt|二之岛|Èr-zhī Dǎo}}
+| 第2島<br>''Daih Yih Dóu''
+|- style="background: #fff"
+| ３の島<br>''3-no Shima''
+| [[Three Island (town)|Three Island]]
+| Île 3
+| Eiland Drei
+| Terzisola
+| Isla Tera
+| ３의 섬<br>''3-yi Seom''
+| {{tt|第3島|Dì Sān Dǎo}} / {{tt|三之岛|Sān-zhī Dǎo}}
+| 第3島<br>''Daih Sāam Dóu''
+|- style="background: #fff"
+| ４の島<br>''4-no Shima''
+| [[Four Island (town)|Four Island]]
+| Île 4
+| Eiland Vier
+| Quartisola
+| Isla Cuarta
+| ４의 섬<br>''4-yi Seom''
+| {{tt|第4島|Dì Sì Dǎo}} / {{tt|四之岛|Sì-zhī Dǎo}}
+| 第4島<br>''Daih Sei Dóu''
+|- style="background: #fff"
+| ５の島<br>''5-no Shima''
+| [[Five Island (town)|Five Island]]
+| Île 5
+| Eiland Fünf
+| Quintisola
+| Isla Inta
+| ５의 섬<br>''5-yi Seom''
+| {{tt|第5島|Dì Wǔ Dǎo}} / {{tt|五之岛|Wǔ-zhī Dǎo}}
+| 第5島<br>''Daih Ngh Dóu''
+|- style="background: #fff"
+| ６の島<br>''6-no Shima''
+| [[Six Island (town)|Six Island]]
+| Île 6
+| Eiland Sechs
+| Sestisola
+| Isla Exta
+| ６의 섬<br>''6-yi Seom''
+| {{tt|第6島|Dì Liù Dǎo}} / {{tt|六之岛|Liù-zhī Dǎo}}
+| 第6島<br>''Daih Luhk Dóu''
+|- style="background: #fff"
+| ７の島<br>''7-no Shima''
+| [[Seven Island (town)|Seven Island]]
+| Île 7
+| Eiland Sieben
+| Settimisola
+| Isla Sétima
+| ７의 섬<br>''7-yi Seom''
+| {{tt|第7島|Dì Qī Dǎo}} / {{tt|七之岛|Qī-zhī Dǎo}}
+| 第7島<br>''Daih Chāt Dóu''
+|}
+
+===Orre===
+{| class="expandable sortable roundy" style="margin:auto; width:auto; text-align:center; background: #{{colorschemelight|Orre}}; border: 3px solid #{{colorschemedark|Orre}};"
+|- 
+! Japanese
+! English
+! French
+! German
+! Italian
+! Spanish
+|- style="background: #fff"
+| アゲトビレッジ<br>''Aget Village''
+| [[Agate Village]]
+| Samaragd
+| Emeritae
+| Villaggio Sofo
+| Villa Ágata
+|- style="background: #fff"
+| アイオポート<br>''Io Port''
+| [[Gateon Port]]
+| Port Amarrée
+| Portaportus
+| Porto Pontipoli
+| Puerto Ancla
+|- style="background: #fff"
+| フェナスシティ<br>''Phenace City''
+| [[Phenac City]]
+| Phénacit
+| Phenac
+| Diamantopoli
+| Ciudad Oasis
+|- style="background: #fff"
+| パイラタウン<br>''Pyra Town''
+| [[Pyrite Town]]
+| Pyrite
+| Pyritus
+| Sulfuria
+| Pueblo Pirita
+|- style="background: #fff"
+| アンダー<br>''Under''
+| [[The Under]]
+| Suerebe
+| Orkus
+| Ipogea
+| Básix
+|}
+
+===Fiore===
+{| class="expandable sortable roundy" style="margin:auto; width:auto; text-align:center; background: #{{colorschemelight|Fiore}}; border: 3px solid #{{colorschemedark|Fiore}};"
+|- 
+! Japanese
+! English
+! French
+! German
+! Italian
+! Spanish
+|- style="background: #fff"
+| フォルシティ<br>''Foru City''
+| [[Fall City]]
+| Automnelle
+| Herbstenau
+| Autunnia
+| Otonia
+|- style="background: #fff"
+| リングタウン<br>''Ringu Town''
+| [[Ringtown]]
+| Printiville
+| Ringstadt
+| Borgovera
+| Villavera
+|- style="background: #fff"
+| サマランド<br>''Samarando''
+| [[Summerland]]
+| Ilo-Été
+| Sommerlingen
+| Villestate
+| Villaestío
+|- style="background: #fff"
+| ウインタウン<br>''Uin Town''
+| [[Wintown]]
+| Bourg-L'Hiver
+| Frostberg
+| Invernopoli
+| Hiberna
+|}
+
+===Almia===
+{| class="expandable sortable roundy" style="margin:auto; width:auto; text-align:center; background: #{{colorschemelight|Almia}}; border: 3px solid #{{colorschemedark|Almia}};"
+|- 
+! Japanese
+! English
+! French
+! German
+! Italian
+! Spanish
+|- style="background: #fff"
+| ボイルランド<br>''Boyleland''
+| [[Boyleland]]
+| Terruptive
+| Brodellande
+| Caldonia
+| Hervia
+|- style="background: #fff"
+| チコレむら<br>''Chicole Village''
+| [[Chicole Village]]
+| Bourg-Chicore
+| Schikolingen
+| Villaggio Cicole
+| Pueblo Chicole
+|- style="background: #fff"
+| ハルバむら<br>''Haruba Village''
+| [[Haruba Village]]
+| Village Alorize
+| Haruba-Dorf
+| Villaggio Haruba
+| Pueblo Haruba
+|- style="background: #fff"
+| ブエルタウン<br>''Puel Town''
+| [[Pueltown]]
+| Bonport
+| Havebrück
+| Portena
+| Portópolis
+|- style="background: #fff"
+| ブルブルキャンプ<br>''Buruburu Camp''
+| [[Shiver Camp]]
+| Campement Froidur
+| Camp Fröstel
+| Campo Sottozero
+| Estación Álgida
+|- style="background: #fff"
+| ビエンタウン<br>''Vientown''
+| [[Vientown]]
+| Véterville
+| Brisenau
+| Città di Vien
+| Ventópolis
+|}
+
+===Oblivia===
+{| class="expandable sortable roundy" style="margin:auto; width:auto; text-align:center; background: #{{GS color light}}; border: 3px solid #{{GS color dark}};"
+|- 
+! Japanese
+! English
+! French
+! German
+! Italian
+! Spanish
+|- style="background: #fff"
+| アクアリゾート<br>''Aqua Resort''
+| [[Aqua Resort]]
+| Balnéaria
+| Aquaresort
+| Residence Acqua
+| Acuarretiro
+|- style="background: #fff"
+| ココナむら<br>''Kokona Village''
+| [[Cocona Village]]
+| Village Cocona
+| Kokonuba
+| Cocona
+| Cocona
+|- style="background: #fff"
+| ナナメむら<br>''Naname Village''
+| [[Tilt Village]]
+| Pentoblique
+| Villa di Agonal
+| Diagonalia
+| Villagonal
+|}
+
+==List of locations in other languages==
+===Kanto===
+{| class="expandable sortable roundy" style="margin:auto; width:auto; text-align:center; background: #{{colorschemelight|Kanto}}; border: 3px solid #{{colorschemedark|Kanto}};"
+|- 
+! Japanese
+! English
+! French
+! German
+! Italian
+! Spanish
+! Korean 
+! Chinese<br>(Mandarin)
+! Chinese<br>(Cantonese)
+|- style="background: #fff"
+| ハナダの洞窟<br>''Hanada no Dōkutsu''
+| [[Cerulean Cave]]
+| Caverne Azurée
+| Azuria-Höhle
+| Grotta Celeste
+| Cueva Celeste
+| 블루시티동굴<br>''Blue City Donggul''
+| 華藍洞窟<br>''Huálán Dòngkū''
+| 淺藍市洞窟<br>''Chínlàahm Síh Duhngfāt''
+|- style="background: #fff"
+| タマムシデパート<br>''Tamamushi Depart''
+| [[Celadon Department Store]]
+| Centre Commercial de Celadopole
+| Einkaufszentrum von Prismania City
+| Centro Commerciale di Azzurropoli
+| Centro Comercial de Ciudad Azulona
+| 무지개백화점<br>''Mujigae Baekhwajeom''
+| 彩虹百貨大樓<br>''Cǎihóng Bǎihuò Dàlóu'' 
+| 彩虹百貨大樓<br>
+|- style="background: #fff"
+| サイクリングロード<br>''Cycling Road''
+| {{ka|Cycling Road}}
+| Piste Cyclable
+| Radweg
+| Pista Ciclabile
+| Camino Bicis
+| 사이클링 로드<br>''Cycling Road''
+| 單車路<br>''Dānchē Lù''
+| 單車徑<br>''Dāanchē Ging''
+|- style="background: #fff"
+| ディグダの穴<br>''Digda no Ana''
+| [[Diglett's Cave]]
+| Cave Taupiqueur
+| Digdas Höhle
+| Grotta Diglett
+| Cueva Diglett
+| 디그다의 굴<br>''Digda-yi Gul''
+| 地鼠洞穴<br>''Dìshǔ Dòngxué''
+| 地鼠洞穴<br>''Deihsyú Duhngyuht''
+|- style="background: #fff"
+| セキエイ高原<br>''Sekiei Kōgen''
+| [[Indigo Plateau]]
+| Plateau Indigo
+| Indigo Plateau
+| Altopiano Blu
+| Meseta Añil
+| 석영고원<br>''Seok'yeong Goweon''
+| 石英高原<br>''Shíyīng Gāoyuán''
+| 石英高原<br>''Sehkyīng Gōuyùhn''
+|- style="background: #fff"
+| お月見山<br>''Otsukimi Yama''
+| [[Mt. Moon]]
+| Mont Sélénite
+| Mondberg
+| Monte Luna
+| Mt. Moon
+| 달맞이산<br>''Dalmat'i San''
+| 月見山<br>''Yuèjiàn Shān''
+| 月見山<br>''Yuhtgin Sāan''
+|- style="background: #fff"
+| お月見山広場<br>''Otsukimi Yama Hiroba''
+| [[Mt. Moon Square]]
+| Square du Mont Selenite
+| Mondbergplatz
+| Piazza Monteluna
+| Plaza Mt. Moon
+| 달맞이산광장<br>''Dalmat'i San Gwangjang''
+| 月見山廣場<br>''Yuèjiàn Shān Guǎngchǎng''
+| 月見山廣場<br>
+|- style="background: #fff"
+| 受け付けゲート<br>''Uketsuke Gate''
+| [[Pokémon League Reception Gate]]
+| Ligue Pokémon Porte D'Acces
+| Pokémon Liga Empfang
+| Lega Pokémon Accoglienza
+| Recepción de la Liga Pokémon
+| 접수처 게이트<br>''Jeobsucheo Gate''
+| 寶可夢聯盟大門<br>''Pokémon Liánméng Dàmén''
+|
+|- style="background: #fff"
+| ポケモン屋敷<br>''Pokémon Yashiki''
+| {{ka|Pokémon Mansion}}
+| Manoir Pokémon
+| Pokémon-Haus
+| Villa Pokémon
+| Mansión Pokémon
+| 포켓몬저택<br>''Pocketmon Jeotaek''
+| 寶可夢屋<br>''Pokémon Wū''
+| 寵物小精靈屋<br>
+|- style="background: #fff"
+| ポケモンタワー<br>''Pokémon Tower''
+| [[Pokémon Tower]]
+| Tour Pokémon
+| Pokémon-Turm
+| Torre Pokémon
+| Torre Pokémon
+| 포켓몬타워<br>''Pocketmon Tower''
+| 寶可夢塔<br>''Pokémon Tǎ''
+|
+|- style="background: #fff"
+| 発電所<br>''Hatsudensho''{{tt|*|無人発電所 (Mujin Hatsudensho) in Generations I and III}}
+| [[Power Plant]]
+| Centrale
+| Kraftwerk
+| Centrale Elettrica
+| Central Energía
+| 발전소<br>''Baljeonso''
+| 發電場<br>''Fādiàn Chǎng''
+|
+|- style="background: #fff"
+| イワヤマトンネル<br>''Iwayama Tunnel''
+| [[Rock Tunnel]]
+| Grotte
+| Felstunnel
+| Tunnel Roccioso
+| Túnel Roca
+| 돌산터널<br>''Dolsan Tunnel''
+|
+|
+|- style="background: #fff"
+| サファリゾーン<br>''Safari Zone''
+| {{safari|Kanto}}
+| Parc Safari
+| Safari-Zone
+| Zona Safari
+| Zona Safari
+| 사파리존<br>''Safari Zone''
+| 野生原野區<br>''Yěshēng Yuányěqū''
+|
+|- style="background: #fff"
+| 岬の小屋<br>''Misaki no Koya''
+| [[Sea Cottage]]
+| Villa
+| Küstenhaus
+| Miramare
+| Casa del Mar
+| 호수공원의 오두막<br>''Hosugong'weon-yi Odumak''
+| 海岸小屋<br>''Hǎi'àn Xiǎowū''
+|
+|- style="background: #fff"
+| ふたご島<br>''Futago Jima''
+| [[Seafoam Islands]]
+| Îles Ecume
+| Seeschauminseln
+| Isole Spumarine
+| Islas Espuma
+| 쌍둥이섬<br>''Ssangdung'i Seom''
+| 雙子島<br>''Shuāngzi Dǎo''
+|
+|- style="background: #fff"
+| サイレンズブリッジ<br>''Silence Bridge''
+| {{DL|Kanto Route 12|Silence Bridge}}
+| Pont du Silence
+| Stille Brücke
+| Ponte Silenzio
+| Puente Silencio
+| 고요한 다리<br>''Goyohan Dari''
+|
+|
+|- style="background: #fff"
+| シルフカンパニー<br>''Sylph Company''
+| [[Silph Co.]]
+| Sylphe SARL
+| Silph Co.
+| Silph SPA
+| Silph S.A.
+| 실프주식회사<br>''Sylph Jusikhoesa''
+| 西爾佛總公司 {{tt|*|Taiwan}} / 希鲁夫公司 {{tt|*|Mainland China}}<br>''Xī'ěrfó Zǒnggōngsī'' {{tt|*|Taiwan}} / ''Xīlǔfū​ Gōngsī'' {{tt|*|Mainland China}}
+|
+|- style="background: #fff"
+| サント・アンヌ号<br>''Saint Anne Gō''
+| [[S.S. Anne]]
+| L'Oceane
+| M.S. Anne
+| M/N Anna
+| S.S. Anne
+| 상트앙느호<br>''Saint Anne Ho''
+| 聖安奴號 {{tt|*|Also known as 聖特安努號 (Shèngtèānnǔ Hào)}}<br>''Shèngānnú Hào''
+|
+|- style="background: #fff"
+| トージョウの滝<br>''Tojou no Taki''
+| [[Tohjo Falls]]
+| Chutes Tohjo
+| Tohjo-Fälle
+| Cascate Tohjo
+| Cataratas Tohjo
+| 동성폭포<br>''Dongseong Pokpo''
+| 都城瀑布<br>''Dūchéng Pùbù''
+|
+|- style="background: #fff"
+| 地下通路<br>''Chika Tsuuro''
+| [[Underground Path]]
+| Souterrain
+| Tunnelpfad
+| Via Sotterranea
+| Vía Subterránea
+| 지하통로<br>''Jiha Tongro''
+|
+|
+|- style="background: #fff"
+| チャンピオンロード<br>''Champion Road''
+| {{ka|Victory Road}}
+| Route Victoire
+| Siegesstraße
+| Via Vittoria
+| Calle Victoria
+| 챔피언로드<br>''Champion Road''
+| 王者之道<br>''Wángzhě-zhī Dào''
+|
+|- style="background: #fff"
+| トキワの森<br>''Tokiwa no Mori''
+| [[Viridian Forest]]
+| Foret de Jade
+| Vertania-Wald
+| Bosco Smeraldo
+| Bosque Verde
+| 상록숲<br>''Sangrok Sup''
+| 常磐森林<br>''Chángpán Sēnlín''
+| 常青森林<br>''Sèuhngchīng Sāmlàhm''
+|}
+
+===Johto===
+{| class="expandable sortable roundy" style="margin:auto; width:auto; text-align:center; background: #{{colorschemelight|Johto}}; border: 3px solid #{{colorschemedark|Johto}};"
+|- 
+! Japanese
+! English
+! French
+! German
+! Italian
+! Spanish
+! Korean 
+! Chinese<br>(Mandarin)
+! Chinese<br>(Cantonese)
+|- style="background: #fff"
+| バトルフロンティア<br>''Battle Frontier''
+| {{gdis|Battle Frontier|IV}}
+| Zone de Combat
+| Kampfzone
+| Parco Lotta
+| Frente de Batalla
+| 배틀프런티어<br>''Battle Frontier''
+| 對戰開拓區<br>''Duìzhàn Kāituòqū''
+| 對戰開拓區<br>''Deuijin Hōitokkēui''
+|- style="background: #fff"
+| バトルタワー<br>''Battle Tower''
+| [[Battle Tower]]
+| Tour de Combat
+| Duellturm
+| Torre Lotta
+| Torre de Batalla
+| 배틀타워<br>''Battle Tower''
+| 對戰塔<br>''Duìzhàn Tǎ''
+| 對戰塔<br>''Deuijin Taap''
+|- style="background: #fff"
+| スズ音の小道<br>''Suzune no Komichi''
+| [[Bellchime Trail]]
+| Sentier Carillon
+| Glockenklangpfad
+| Sentiero Din Don
+| Senda Dindón
+| 방울소리좁은길<br>''Bang'ul Sori Jop'eungil''
+|
+|
+|- style="background: #fff"
+| 焼けた塔<br>''Yaketa Tō''
+| [[Burned Tower]]
+| Tour Cendrée
+| Turmruine
+| Torre Bruciata
+| Torre Quemada
+| 불탄탑<br>''Bultan Tap''
+| 燒焦塔 {{tt|*|Also known as 烧毁的塔 (Shāohuǐ-de Tǎ)}}<br>''Shāojiāo Tǎ''
+| 燒焦塔<br>''Sīujīu-dīk Taap''
+|- style="background: #fff"
+| 断崖の洞窟<br>''Dangai no Dōkutsu''
+| [[Cliff Cave]]
+| Grotte Falaise
+| Felsschlundhöhle
+| Grotta Falesia
+| Cueva Acantilado
+| 낭떠러지동굴<br>''Nangtteoreoji Donggul''
+| 斷崖洞窟<br>''Duànyá Dòngkū''
+| 斷崖洞窟<br>''Dyuhnngàaih Duhnggwaht''
+|- style="background: #fff"
+| 崖っぷちゲート<br>''Gakeppuchi Gate''
+| [[Cliff Edge Gate]]
+| Portail Falaise
+| Felsklippentor
+| Ingresso Falesia
+| Paso Acantilado
+| 벼랑끝 게이트<br>''Byeorangkkeut Gate''
+|
+|
+|- style="background: #fff"
+| 暗闇の洞穴<br>''Kurayami no Hora'ana''
+| [[Dark Cave]]
+| Antre Noire
+| Dunkelhöhle
+| Grotta Scura
+| Cueva Oscura
+| 어둠의 동굴<br>''Eodum-yi Donggul''
+| 黑暗穴<br>''Hēiàn Xué''
+|
+|- style="background: #fff"
+| 埋もれの塔<br>''Uzumore no Tō''
+| [[Embedded Tower]]
+| Tour Enfouie
+| Felsenherzturm
+| Torre Occulta
+| Torre Oculta
+| 매몰탑<br>''Maemol Tap''
+|
+|
+|- style="background: #fff"
+| 龍の穴<br>''Ryū no Ana''
+| [[Dragon's Den]]
+| Antre du Dragon
+| Drachenhöhle
+| Tana del Drago
+| Guarida Dragón
+| 용의 굴<br>''Yong-yi Gul''
+| 龍之洞窟 {{tt|*|Also known as 龍穴 (Lóng Xué)}}<br>''Lóng-zhī Dòngkū''
+| 龍之洞窟 {{tt|*|Also known as 龍穴 (Lùhng Yuht)}}<br>''Lùhng-jī Duhnggwaht''
+|- style="background: #fff"
+| 輝きの灯台<br>''Kagayaki no Tōdai''
+| [[Glitter Lighthouse]]
+| Phare Scintillant
+| Glitzer-Leuchtturm
+| Faro Scintillante
+| Faro Brillante
+| 빛남의 등대<br>''Bitnam-yi Deungdae''
+| 光輝燈塔<br>''Guānghuī Dēngtǎ''
+| 光輝燈塔<br>''Gwōngfāi Dāngtaap''
+|- style="background: #fff"
+| フロンティアフロント<br>''Frontier Front''
+| [[Frontier Access]]
+| Atrium Combat
+| Kampfzonenzugang
+| Accesso al Parco
+| Acceso al Frente
+| 프런티어프런트<br>''Frontier Front''
+|
+|
+|- style="background: #fff"
+| 氷の抜け道<br>''Kōri no Nukemichi''
+| [[Ice Path]]
+| Route de Glace
+| Eispfad
+| Via Gelata
+| Ruta Helada
+| 얼음샛길<br>''Eol'eum Saetgil''
+| 冰雪通路<br>''Bīngxuě Tōnglù''
+|
+|- style="background: #fff"
+| ウバメの森<br>''Ubame no Mori''
+| [[Ilex Forest]]
+| Bois aux Chênes
+| Steineichenwald
+| Bosco di Lecci
+| Encinar
+| 너도밤나무숲<br>''Neodobam Namu Sup''
+| 桐樹林<br>''Tóngshù Lín''
+| 桐樹林<br>''Tùhng Syuhlàhm''
+|- style="background: #fff"
+| 怒りの湖<br>''Ikari no Mizu'umi''
+| [[Lake of Rage]]
+| Lac Colére
+| See des Zorns
+| Lago d’Ira
+| Lago de la Furia
+| 분노의 호수<br>''Bunno-yi Hosu''
+| 憤怒之湖<br>''Fènnù-zhī Hú''
+| 憤怒之湖<br>''Fáhnnouh-jī Wùh''
+|- style="background: #fff"
+| モーモー牧場<br>''Mōmō Bokujō''
+| [[Moomoo Farm]]
+| Ranch Meumeu
+| Kuhmuh-Farm
+| Fattoria Mumu
+| Granja Mu-mu
+| 튼튼 목장<br>''Teunteun Mokjang''
+| 摩摩牧場<br>''Mómó Mùcháng''
+| 摩摩牧場<br>''Mōmō Muhkchèuhng''
+|- style="background: #fff"
+| スリバチ山<br>''Suribachi Yama''
+| [[Mt. Mortar]]
+| Mont Creuset
+| Kesselberg
+| Monte Scodella
+| Mt. Mortero
+| 절구산<br>''Jeolgu San''
+| 研缽山 {{tt|*|擂鉢山 (Leìbō Shān) in the Manga}}<br>''Yánbō Shān''
+| 擂鉢山<br>''Lèuihbut Sāan''
+|- style="background: #fff"
+| シロガネ山<br>''Shirogane Yama''
+| [[Mt. Silver]]
+| Mont Argent
+| Silberberg
+| Monte Argento
+| Mt. Plateado
+| 은빛산<br>''Eunbit San''
+| 白銀山<br>''Báiyín Shān''
+| 白銀山<br>''Baahkngàhn Sāan''
+|- style="background: #fff"
+| 自然公園<br>''Shizen Kouen''
+| [[National Park]]
+| Parc Naturel
+| Nationalpark
+| Parco Nazionale
+| Parque Nacional
+| 자연공원<br>''Jayeon Gongweon''
+| 自然公園<br>''Zìrán Gōngyuán''
+| 自然公園<br>''Jihyìhn Gūngyùhn''
+|- style="background: #fff"
+| ポケスロンドーム<br>''Pokéthlon Dome''
+| [[Pokéathlon Dome]]
+| Dôme Pokéathlon
+| Pokéathlonhallen
+| Arena Pokéathlon
+| Carpa Pokéathlon
+| 포켓슬론돔<br>''Pockethlon<!--(sic)--> Dome''
+| 寶可夢全能競技賽巨蛋<br>''Pokémon Quánnéng Jìngjìsài Jùdàn'' 
+| 寶可夢全能競技賽巨蛋<br>''Pokémon Chyùhnnàhng Gihnggeihchoi Geuihdaahn''
+|- style="background: #fff"
+| ラジオ塔<br>''Radio Tō''
+| [[Goldenrod Radio Tower]]
+| Tour Radio
+| Radioturm
+| Torre Radio
+| Torre Radio
+| 라디오타워<br>''Radio Tower''
+| 廣播電台<br>''Guǎngbōdiàn Tái''
+| 廣播電台<br>''Gwóngbo Dihntòih''
+|- style="background: #fff"
+| アルフの遺跡<br>''Alph no Iseki''
+| [[Ruins of Alph]]
+| Ruines d’Alpha
+| Alph-Ruinen
+| Rovine d’Alfa
+| Ruinas Alfa
+| 알프의 유적<br>''Alph-yi Yujeok''
+| 阿露福遺跡<br>''Ālùfú Yíjī''
+| 阿露福遺跡<br>''Alouhfūk Wàihjīk''
+|- style="background: #fff"
+| サファリゾーンゲート<br>''Safari Zone Gate''
+| {{safari|Johto|Safari Zone Gate}}
+| Portail Safari
+| Safari-Eingang
+| Ingresso Safari
+| Entrada Safari
+| 사파리존 게이트<br>''Safari Zone Gate''
+|
+|
+|- style="background: #fff"
+| シント遺跡<br>''Shinto Iseki''
+| [[Sinjoh Ruins]]
+| Ruines Sinjoh
+| Sinjoh-Ruinen
+| Rovine Sinjoh
+| Ruinas de Sinjoh
+| 신도유적<br>''Sindo Yujeok''
+| 神都遺跡<br>''Shéndū Yíjì'' 
+| 神都遺跡<br>''Sàhndōu Wàihjīk''
+|- style="background: #fff"
+| ヤドンの井戸<br>''Yadon no Ido''
+| [[Slowpoke Well]]
+| Puits Ramoloss
+| Flegmon-Brunnen
+| Pozzo Slowpoke
+| Pozo Slowpoke
+| 야돈우물<br>''Yadon Umul''
+| 呆呆獸之井<br>''Dāidāishòu-zhī Jǐng''
+|
+|- style="background: #fff"
+| マダツボミの塔<br>''Madatsubomi no Tō''
+| [[Sprout Tower]]
+| Tour Chétiflor
+| Knofensa-Turm
+| Torre Sprout
+| Torre Bellsprout
+| 모다피의 탑<br>''Modapi-yi Tap''
+| 喇叭芽之塔<br>''Lǎbāyá-zhī Tǎ''
+| 喇叭芽之塔<br>''Labāngàh-jī Taap''
+|- style="background: #fff"
+| スズの塔<br>''Suzu no Tō''
+| Tin Tower<br>[[Bell Tower]]
+| Tour Feraille<br>Tour Carillon
+| Zinnturm<br>Glockenturm
+| Torre di Latta<br>Torre Campana
+| Torre Hojalata<br>Torre Campana
+| 방울탑<br>''Bang'ul Tap''
+| 鈴鈴塔 {{tt|*|Also known as 鈴鐺塔 (Língdāng Tǎ)}}<br>''Línglíng Tǎ''
+| 鈴鈴塔 {{tt|*|Also known as 鈴鐺塔 (Lìhngdōng Taap)}}<br>''Lìhnglìhng Taap''
+|- style="background: #fff"
+| 繋がりの洞窟<br>''Tsunagari no Dōkutsu''
+| [[Union Cave]]
+| Caves Jumelles
+| Einheitstunnel
+| Grotta di Mezzo
+| Cueva Unión
+| 연결동굴<br>''Yeongyeol Donggul''
+| 互連洞<br>''Hùlián Dòng''
+| 互連洞<br>''Wuhlìhn Duhng''
+|- style="background: #fff"
+| 渦巻き島<br>''Uzumaki Jima''
+| [[Whirl Islands]]
+| Tourb'iles
+| Strudelinseln
+| Isole Vorticose
+| Islas Remolino
+| 소용돌이 섬<br>''Soyongdol'i Seom''
+| 漩渦列島 {{tt|*|Also known as 旋渦之島 (Xuànwō-zhī Dǎo)}}<br>''Xuánwō Lièdǎo''
+| 漩渦列島 ''Syùhnwō Lihtdóu''
+|}
+
+===Hoenn===
+{| class="expandable sortable roundy" style="margin:auto; width:auto; text-align:center; background: #{{colorschemelight|Hoenn}}; border: 3px solid #{{colorschemedark|Hoenn}};"
+|- 
+! Japanese
+! English
+! French
+! German
+! Italian
+! Spanish
+! Korean 
+! Chinese<br>(Mandarin)
+! Chinese<br>(Cantonese)
+|- style="background: #fff"
+| すてられ船<br>''Suterare Bune''
+| [[Abandoned Ship]]
+| Épave
+| Schiffswrack
+| Vecchia Nave
+| Nao Abandonada
+| 버려진 배<br>''Beoryeojin Bae''
+| 棄船<br>''Qìchuán''<!--廢船 ''Fèichuán'' ?-->
+|
+|- style="background: #fff"
+| 古代塚<br>''Kodai Dzuka''
+| [[Ancient Tomb]]
+| Tombeau Antique
+| Grabmal
+| Tomba Antica
+| Tumba Antigua
+| 고대의 무덤<br> ''Godae-yi Mudeom''
+| 古代墳墓<br>''Gǔdài Fénmù''
+|
+|- style="background: #fff"
+| アトリエのあな<br>''Atelier no Ana''
+| [[Artisan Cave]]
+| Grotte Atelier
+| Höhlenatelier
+| Grotta Artistica
+| Cueva Taller
+| 아틀리에 굴<br>''Atelier Gul''
+| 工匠之穴<br>''GōngJiàng Zhīxué'' 
+|
+|- style="background: #fff"
+| バトルフロンティア<br>''Battle Frontier''
+| {{gdis|Battle Frontier|III}}
+| Zone de Combat
+| Kampfzone
+| Parco Lotta
+| Frente de Batalla
+| 배틀프런티어<br>''Battle Frontier''
+| 對戰開拓區<br>''Duìzhàn Kaītuòqū''
+|
+|- style="background: #fff"
+| 目覚めのほこら<br>''Mezame no Hokora''
+| [[Cave of Origin]]
+| Grotte Origine
+| Urzeithöhle
+| Grotta dei Tempi
+| Cueva Ancestral
+| 각성의 사당<br>''Gakseong-yi Sadang''
+| 醒吾祠堂<br>''Xǐngwú Cítáng''
+|
+|- style="background: #fff"
+| 弓形の島<br>''Yuminari no Shima''
+| [[Crescent Isle]]
+| Île de l’Arc
+| Sichelinsel
+| Isola Arcodiluna
+| Isla Creciente
+| 궁형의섬<br>''Gunghyang-yi Seom''
+|
+|
+|- style="background: #fff"
+| 砂漠遺跡<br>''Sabaku Iseki''
+| [[Desert Ruins]]
+| Ruines Désert
+| Wüstenruine
+| Rovine Sabbiose
+| Ruinas Desierto
+| 사막유적<br>''Samak Yujeok''
+| 沙漠遺跡<br>''Shāmò Yíjī''
+|
+|- style="background: #fff"
+| 砂漠の地下道<br>''Sabaku no Chikadō''
+| [[Desert Underpass]]
+| Voie du Désert
+| Wüstentunnel
+| Galleria Deserto
+| Gruta Desértica
+|
+| 沙漠的地下道<br>''Shāmò De Dìxiàdào''
+|
+|- style="background: #fff"
+| おぼろの洞窟<br>''Oboro no Dōkutsu''
+| [[Fabled Cave]]
+| Grotte Evanescente
+| Rätselhafte Höhle
+| Grotta Sfuggente
+| Cueva Incierta
+| 희미한 동굴<br>''Hwimi-han Donggul''
+|
+|
+|- style="background: #fff"
+| さいはてのことう<br>''Saihate no Kotō''
+| [[Faraway Island]]
+| Ile Lointaine
+| Ferneiland
+| Isola Suprema
+| Isla Suprema
+| 머나먼 고도<br>''Meonameon Godo''
+|
+|
+|- style="background: #fff"
+| 炎の抜け道<br>''Honoo no Nukemichi''
+| [[Fiery Path]]
+| Chemin Ardent
+| Feuriger Pfad
+| Cammino Ardente
+| Senda Ígnea
+| 불꽃샛길<br>''Bulkkot Saetgil''
+| 熱焰小徑<br>''Rèyàn Xiǎojìng'' 
+|
+|- style="background: #fff"
+| いびつな穴<br>''Ibitsu-na Ana''
+| [[Gnarled Den]]
+| Gouffre Informe
+| Höhle der Spaltung
+| Fossa Informe
+| Boquete Irregular
+| 비틀린굴<br>''Biteullin Gul''
+|
+|
+|- style="background: #fff"
+| 石の洞窟<br>''Ishi no Dōkutsu''
+| [[Granite Cave]]
+| Grotte Granite
+| Granithöhle
+| Grotta Pietrosa
+| Cueva Granito
+| 바위 동굴<br>''Bawi Donggul''
+| 石之洞窟<br>''Shí-zhī Dòngkū'' 
+|
+|- style="background: #fff"
+| 小島の横穴<br>''Kojima no Yokoana''
+| [[Island Cave]]
+| Grotte Island
+| Inselhöhle
+| Grotta Insulare
+| Cueva Insular
+| 작은 섬 옆굴<br>''Jak'eun Seom Yeopgul''
+|
+|
+|- style="background: #fff"
+| デコボコ山道<br>''Dekopoko Sandō''
+| [[Jagged Pass]]
+| Sentier Sinuroc
+| Steilpass
+| Passo Selvaggio
+| Desfiladero
+| 울퉁불퉁 산길<br>''Ultungbultung Sangil''
+| 碎石山路<br>''Suìshí Shānlù''
+|
+|- style="background: #fff"
+| 海の洞窟<br>''Umi no Dōkutsu''
+| [[Marine Cave]]
+| Grotte Marine
+| Ozeanhöhle
+| Grotta Mare
+| Cueva Marina
+| 
+| 海之窟<br>''Hǎi-zhī kū'' 
+|
+|- style="background: #fff"
+| 流星の滝<br>''Ryūsei no Taki''
+| [[Meteor Falls]]
+| Site Météore
+| Meteorfälle
+| Cascate Meteora
+| Cascada Meteoro
+| 유성의 폭포<br>''Yuseong-yi Pokpo''
+| 流星瀑布<br>''Liúxīng Pùbù''
+|
+|- style="background: #fff"
+| 幻島<br>''Maboroshi Jima''
+| {{gdis|Mirage Island|III}}
+| Ile Mirage
+| Wundereiland
+| Isola Miraggio
+| Isla Espejismo
+| 환상섬<br>''Hwansang Seom''
+| 夢幻島<br>''Mènghuàn Dǎo''
+|
+|- style="background: #fff"
+| マボロシ洞窟<br>''Maboroshi Dōkutsu''
+| [[Mirage Caves|Mirage Cave]]
+| Grotte Mirage
+| Wunderhöhlen
+| Grotta Miraggio
+| Cueva espejismo
+| 환상동굴<br>''Hwansang Donggul''
+| 
+|
+|- style="background: #fff"
+| マボロシ森<br>''Maboroshi Mori''
+| [[Mirage Forests|Mirage Forest]]
+| Forêt Mirage
+| Wunderwald
+| Selva Miraggio
+| Bosque espejismo
+| 환상숲<br>''Hwansang Sup''
+|
+|
+|- style="background: #fff"
+| マボロシ島<br>''Maboroshi Jima''
+| [[Mirage Islands|Mirage Island]]
+| Ȋle Mirage
+| Wundereilande
+| Isola Miraggio
+| Isla espejismo
+| 환상섬<br>''Hwansang Seom''
+|
+|
+|- style="background: #fff"
+| マボロシ山<br>''Maboroshi Yama''
+| [[Mirage Mountains|Mirage Mountain]]
+| Mont Mirage
+| Wunderberg
+| Monte Miraggio
+| Monte espejismo
+| 환상산<br>''Hwansang San''
+|
+|
+|- style="background: #fff"
+| 幻影の塔<br>''Gen'ei no Tō''
+| [[Mirage Tower]]
+| Tour Mirage
+| Wunderturm
+| Torre Miraggio
+| Torre Espejismo
+| 환영탑<br>''Hwan'yeong Tap''
+| 幻影之塔<br>''Huànyǐng Zhītǎ'' 
+|
+|- style="background: #fff"
+| えんとつ山<br>''Entotsu Yama''
+| [[Mt. Chimney]]
+| Mont Chimnée
+| Schlotberg
+| Monte Camino
+| Monte Cenizo
+| 굴뚝산<br>''Gulttuk San''
+| 煙突山<br>''Yāntū Shān''
+|
+|- style="background: #fff"
+| おくりび山<br>''Okuribi Yama''
+| [[Mt. Pyre]]
+| Mont Mémoria
+| Pyroberg
+| Monte Pira
+| Monte Pírico
+| 송화산<br>''Songhwa San''
+| 送火山<br>''Sònghuǒ Shān''
+|
+|- style="background: #fff"
+| 未知の洞窟<br>''Michi no Dōkutsu''
+| [[Nameless Cavern]]
+| Grotte Oubliée
+| Unerforschte Höhle
+| Caverna Ignota
+| Cueva Ignota
+| 미지의동굴<br>''Miji-yi Donggul''
+|
+|
+|- style="background: #fff"
+| ニューキンセツ<br>''New Kinsetsu''
+| [[New Mauville]]
+| New Lavandia
+| Neu Malvenfroh
+| Ciclanova
+| Malvalanova
+| 뉴보라<br>''New Bora''
+| 新紫堇<br>''Xīn Zǐjǐn''
+|
+|- style="background: #fff"
+| 名もなき平原<br>''Namonaki Heigen''
+| [[Pathless Plain]]
+| Plaine Sans Nom
+| Namenlose Ebene
+| Piana Senza Nome
+| Llanura Sinnombre
+| 이름없는평원<br>''Ireum-eobneun Pyeong-won''
+|
+|
+|- style="background: #fff"
+| トウカの森<br>''Tōka no Mori''
+| [[Petalburg Woods]]
+| Bois Clémenti
+| Blütenburgwald
+| Bosco Petalo
+| Bosque Petalia
+| 등화숲<br>''Deunghwa Sup''
+| 橙華森林<br>''Chénghuá Sēnlín''
+|
+|- style="background: #fff"
+| カナシダトンネル<br>''Kanashida Tunnel''
+| [[Rusturf Tunnel]]
+| Tunnel Merazon
+| Metaflurtunnel
+| Tunnel Menferro
+| Túnel Fevergal
+| 금잔터널<br>''Geumjan Tunnel''
+| 卡綠隧道<br>''Kǎlǜ Suìdào''
+|
+|- style="background: #fff"
+| 日照りの岩戸<br>''Hideri no Iwato''
+| [[Scorched Slab]]
+| Grotte Zenith
+| Sonnengrotte
+| Grottino Solare
+| Cueva Solar
+| 가뭄의 암굴<br>''Gamum-yi Amgul''
+| 天旱焦岩<br>''Tiānhàn Jiāoyán'' 
+|
+|- style="background: #fff"
+| シーキンセツ<br>''Sea Kinsetsu''
+| [[Sea Mauville]]
+| Lavandia Sea
+| Seewoge Malvenfroh
+| Ciclamare
+| Malvamar
+| 씨보라<br>''Sea Bora
+|
+|
+|- style="background: #fff"
+| 海底洞窟<br>''Kaitei Dōkutsu''
+| [[Seafloor Cavern]]
+| Caverne Fondmer
+| Tiefseehöhle
+| Antro Abissale
+| Caverna Abisal
+| 해저동굴<br>''Haejeo Donggul''
+| 海底洞窟<br>''Hǎidǐ Dòngkū''
+|
+|- style="background: #fff"
+| おふれの石室<br>''Ofure no Sekishitsu''
+| [[Sealed Chamber]]
+| Sanctuaire
+| Siegelkammer
+| Sala Incisa
+| Cámara Sellada
+| 고시의 석실<br>''Gosi-yi Seoksil''
+| 布告石室<br>''Bùgào Shíshì'' 
+|
+|- style="background: #fff"
+| 秘密の小島<br>''Himitsu no Kojima''
+| [[Secret Islet]]
+| Îlot Secret 
+| Geheiminsel
+| Isolotto Segreto
+| Islote Secreto 
+| 비밀의 작은 섬<br>''Bimil-yi Jag'eun Seom''
+|
+|
+|- style="background: #fff"
+| 秘密の花畑<br>''Himitsu no Hanabatake''
+| [[Secret Meadow]]
+| Champ Fleuri Secret 
+| Geheime Blumenwiese 
+| Valle Segreta 
+| Prado Secreto 
+| 비밀의 꽃밭<br>''Bimil-yi Kkochbat''
+|
+|
+|- style="background: #fff"
+| 秘密の磯辺<br>''Himitsu no Isobe''
+| [[Secret Shore]]
+| Plage Secrète 
+| Geheime Küste 
+| Baia Segreta 
+| Costa Secreta 
+| 비밀의 바위해변<br>''Bimil-yi Bawihaebyeon''
+|
+|
+|- style="background: #fff"
+| 浅瀬の洞穴<br>''Asase no Hora'ana''
+| [[Shoal Cave]]
+| Grotte Trefonds
+| Küstenhöhle
+| Grotta Ondosa
+| Cueva Cardumen
+| 여울의 동굴<br>''Yeoul-yi Donggul''
+| 淺灘洞穴<br>''Qiǎntān Dòngxué'' 
+|
+|- style="background: #fff"
+| 大空<br>''Oozora''
+| [[Soaring in the sky]]
+| Grand Ciel 
+| Luftraum
+| Ipersfera
+| Firmamento
+| 창공 ''Changgong''
+| 天空 ''Tiānkōng''
+| 天空 ''Tīnhūng''
+|- style="background: #fff"
+| 空の柱<br>''Sora no Hashira''
+| [[Sky Pillar]]
+| Pilier Celeste
+| Himmelturm
+| Torre dei Cieli
+| Pilar Celeste
+| 하늘기둥<br>''Haneul Gidung''
+| 空中之柱<br>''Kōngzhōng-zhī Zhù''
+|
+|- style="background: #fff"
+| 南の孤島<br>''Minami no Kotō''
+| [[Southern Island]]
+| Ile du Sud
+| Insel im Süden
+| Isola Remota
+| Isla der Sur
+| 남쪽의 외딴섬<br>''Namjjok-yi Oettal Seom''
+| 南方孤島<br>''Nánfāng Gūdǎo'' 
+|
+|- style="background: #fff"
+| 未開の森<br>''Mikai no Mori''
+| [[Trackless Forest]]
+| Forêt Impénétrable
+| Wilder Wald
+| Foresta Vergine
+| Bosque Virgen
+| 미개척의숲<br>''Migaecheok-yi Sup''
+|
+|
+|- style="background: #fff"
+| 陸の洞窟<br>''Riku no Dōkutsu''
+| [[Terra Cave]]
+| Grotte Terra
+| Terrahöhle
+| Grotta Terra
+| Cueva Terrena
+|
+| 陸之窟<br>''Lù-zhī Kū'' 
+|
+|- style="background: #fff"
+| トレーナーヒル<br>''Trainer Hill''
+| [[Trainer Hill]]
+| Mont Dresseurs
+| Trainerberg
+| Monte Allenatori
+| Colina Desafío
+|
+| 訓練家之丘<br>''Xùnliànjiā-Zhīqiū'' 
+|
+|- style="background: #fff"
+| 天気研究所<br>''Tenki Kenkyūjo''
+| [[Weather Institute]]
+| Centre Météo
+| Klimainstitut
+| Istituto Meteo
+| Instituto Meteorológico
+| 날씨 연구소<br>''Nalssi Yeonguso''
+| 天氣研究所<br>''Tiānqì Yánjiūsuǒ''
+|
+|}
+
+===Sinnoh===
+{| class="expandable sortable roundy" style="margin:auto; width:auto; text-align:center; background: #{{colorschemelight|Sinnoh}}; border: 3px solid #{{colorschemedark|Sinnoh}};"
+|- 
+! Japanese
+! English
+! French
+! German
+! Italian
+! Spanish
+! Korean 
+! Chinese<br>(Mandarin)
+! Chinese<br>(Cantonese)
+|- style="background: #fff"
+| 触れ合い広場<br>''Fureai Hiroba''
+| [[Amity Square]]
+| Square Paisible
+| Platz der Treue
+| Parco Concordia
+| Plaza Amistad
+| 상호교류광장<br>''Sangho Gyoryu Gwangjang''
+| 溝通廣場<br>''Gōutōng Guǎngchǎng''
+|
+|- style="background: #fff"
+| バトルフロンティア<br>''Battle Frontier''
+| {{gdis|Battle Frontier|IV}}
+| Zone de Combat
+| Kampfzone
+| Parco Lotta
+| Frente de Batalla
+| 배틀 프런티어<br>''Battle Frontier''
+| 對戰開拓區<br>''Duìzhàn Kaītuòqū''
+|
+|- style="background: #fff"
+| バトルパーク<br>''Battle Park''
+| {{si|Battle Park}}
+| Parc des Combats
+| Duellpark
+| Giardino Lotta
+| Parque Batalla
+| 배틀파크<br>''Battle Park''
+|
+|
+|- style="background: #fff"
+| バトルゾーン<br>''Battle Zone''
+| [[Battle Zone]]
+| Secteur Combat
+| Duellzone
+| Zona Lotta
+| Bahía Gresca
+| 배틀존<br>''Battle Zone''
+| 對戰特區{{tt|*|Also translated as 對戰區域 ''Duìzhàn Qūyù'' and 對戰區 ''Duìzhàn Qū''}}<br>''Duìzhàn Tèqū''
+|
+|- style="background: #fff"
+| 山小屋<br>''Yamagoya''
+| [[Café Cabin]]
+| Café Cabane
+| Frisch & Gesund
+| Caffè Baita
+| Café Rodeo
+| 작은 산장 카페<br>''Jak'eun Sanjang Café''
+| 山中小屋<br>''Shānzhōng Xiǎowū''
+|
+|- style="background: #fff"
+| 破れた世界<br>''Yabureta Sekai''
+| [[Distortion World]]
+| Monde Distorsion
+| Zerrwelt
+| Mondo Distorto
+| Mundo Distorsión
+| 깨어진세계<br>''Kkaeeojin Segye''
+| 破格的世界{{tt|*|毀壞的世界 (Huǐhuài-de Shìjiè) in Adventures, 崩潰的世界 (Bēngkuì-de Shìjiè) in DPA}}<br>''Pògé-de Shìjiè''
+|
+|- style="background: #fff"
+| ハクタイの森<br>''Hakutai no Mori''
+| [[Eterna Forest]]
+| Forêt Vestigion
+| Ewigwald
+| Bosco Evopoli
+| Bosque Vetusto
+| 영원의숲<br>''Yeong'weon-yi Sup''
+| 百代森林<br>''Bǎidài Sēnlín''
+|
+|- style="background: #fff"
+| ファイトエリア<br>''Fight Area''
+| [[Fight Area]]
+| Aire de Combat
+| Kampfareal
+| Area Sfida
+| Zona de Combate
+| 파이트에리어<br>''Fight Area''
+| 戰鬥區<br>''Zhàndòu Qū''
+|
+|- style="background: #fff"
+| ソノオの花畑<br>''Sonoo no Hanabatake''
+| [[Floaroma Meadow]]
+| Pré Floraville
+| Auen von Flori
+| Prato Fiorito
+| Prado Aromaflor
+| 꽃향기의 꽃밭<br>''Kkothyanggi-yi Kkotbat''
+| <!--苑之花田<br>Yuàn-zhī Huātián-->
+|
+|- style="background: #fff"
+| 花の楽園<br>''Hana no Rakuen''
+| [[Flower Paradise]]
+| Paradis Fleuri
+| Blumenparadies
+| Paradiso Fiore
+| Paraíso Floral
+| 꽃의 낙원<br>''Kkot-yi Nak'weon''
+|
+|
+|- style="background: #fff"
+| 足跡博士の家<br>''Ashiato Hakase no Ie''
+| [[Footstep House]]
+| Abri Petitpas
+| Schrittritt-Haus
+| Casa Impronta
+| Casa Huellas
+| 발자국박사의 집<br>''Baljaguk Baksa-yi Jip''
+|
+|
+|- style="background: #fff"
+| 異文化の建物<br>''Ibunka no Tatemono''
+| {{DL|Hearthome City|Foreign Building}}
+| Bâtiment Etrange
+| Begegnungsstätte
+| Edificio Culture
+| Templo
+| 이문화건물<br>''Imunhwa Geonmul''
+|
+|
+|- style="background: #fff"
+| 満月島<br>''Mangetsu Jima''
+| [[Fullmoon Island]]
+| Ile Pleine Lune
+| Vollmond-Insel
+| Isola Lunapiena
+| Isla Plenilunio
+| 만월섬<br>''Man'weol Seom''
+| 滿月島<br>''Mǎnyuè Dǎo''
+|
+|- style="background: #fff"
+| タタラ製鉄所<br>''Tatara Seitetsujo''
+| [[Fuego Ironworks]]
+| Forge Fuego
+| Feuriohütte
+| Fonderie Fuego
+| Forja Fuego
+| 골풀무제철소<br>''Golpulmu Jecheolso''
+| 多多羅鐵工廠<br>''Duōduōluó Tiěgōngchǎng''
+|
+|- style="background: #fff"
+| グローバル<br>ターミナル<br>''Global Terminal''
+| [[Global Terminal]]
+| Terminal Mondial
+| Global. Terminal
+| Centro Globale
+| Terminal Global
+| 글로벌 터미널<br>''Global Terminal''
+|
+|
+|- style="background: #fff"
+| グランドレイク<br>''Grand Lake''
+| [[Grand Lake]]
+| Grand Lac
+| Prachtsee
+| Grande Lago
+| Gran Lago
+| 그랜드레이크<br>''Grand Lake''
+| 湖畔度假村{{tt|*|湖畔度假會館 (Húpàn Dùjià-huìguǎn) in Adventures}}<br>''Húpàn Dùjiàcūn''
+|
+|- style="background: #fff"
+| 大湿原<br>''Dai Shitsugen''
+| [[Great Marsh]]
+| Grand Marais
+| Großmoor
+| Gran Palude
+| Gran Pantano
+| 대습초원 ''Dae Seupchoweon''
+| 大溼地{{tt|*|大濕原 ''Dà Shīyuán'' in Adventures}}<br>''Dà Shīdì''
+|
+|- style="background: #fff"
+| 始まりの間<br>''Hajimari no Ma''
+| [[Hall of Origin]]
+| Salle Originelle
+| Halle des Beginns
+| Spazio Origine
+| Sala del Origen
+| 시작의 방<br>''Sijak-yi Bang''
+|
+|
+|- style="background: #fff"
+| 氷山の遺跡<br>''Hyōzan no Iseki''
+| {{si|Iceberg Ruins}}
+| Ruines Iceberg
+| Eisberg-Ruinen
+| Rovine Iceberg
+| Ruinas Iceberg
+| 빙산의 유적<br>''Bingsan-yi Yujeok''
+|
+|
+|- style="background: #fff"
+| 鋼鉄島<br>''Kōtetsu Jima''
+| [[Iron Island]]
+| Ile de Fer
+| Eiseninsel
+| Isola Ferrosa
+| Isla Hierro
+| 강철섬<br>''Gangcheol Seom''
+| 鋼鐵島<br>''Gāngtiě Dǎo''
+|
+|- style="background: #fff"
+| 黒鉄の遺跡<br>''Kurogane no Iseki''
+| {{si|Iron Ruins}}
+| Ruines de Fer
+| Eisen-Ruinen
+| Rovine Ferro
+| Ruinas Hierro
+| 무쇠의 유적<br>''Musoe-yi Yujeok''
+|
+|
+|- style="background: #fff"
+| エイチ湖<br>''Eichi Ko''
+| [[Lake Acuity]]
+| Lac Savoir
+| See der Stärke
+| Lago Arguzia
+| Lago Agudeza
+| 예지호수<br>''Yeji Hosu''
+| 睿智湖{{tt|*|英知湖 (Yīngzhī Hú) in DPA}}<br>''Ruìzhì Hú''
+|
+|- style="background: #fff"
+| リッシ湖<br>''Risshi Ko''
+| [[Lake Valor]]
+| Lac Courage
+| See der Kühnheit
+| Lago Valore
+| Lago Valor
+| 입지호수<br>''Ipji Hosu''
+| 立志湖<br>''Lìzhì Hú''
+|
+|- style="background: #fff"
+| シンジ湖<br>''Shinji Ko''
+| [[Lake Verity]]
+| Lac Vérité
+| See der Wahrheit
+| Lago Verità
+| Lago Veraz
+| 진실호수<br>''Jinsil Hosu''
+| 心齊湖<br>''Xīnqí Hú''
+|
+|- style="background: #fff"
+| 炭坑博物館<br>''Tankō Hakubutsukan''
+| [[Oreburgh Mining Museum]]
+| Musée Minier
+| Bergbaumuseum
+| Museo Minerario
+| Museo Minero
+| 탄갱박물관<br>''Tangaeng Bakmulgwan''
+| 炭坑博物館<br>''Tànkēng Bówùguǎn''
+|
+|- style="background: #fff"
+| テンガン山<br>''Tengan Zan''
+| [[Mt. Coronet]]
+| Mont Couronné
+| Kraterberg
+| Monte Corona
+| Monte Corona
+| 천관산<br>''Cheongwan San''
+| 天冠山<br>''Tiānguān Shān''
+|
+|- style="background: #fff"
+| 新月島<br>''Shingetsu Jima''
+| [[Newmoon Island]]
+| Ile Nouvellune
+| Neumond-Insel
+| Isola Lunanuova
+| Isla Lunanueva
+| 신월섬<br>''Sin'weol Seom''
+| <!--新月島<br>''Xīnyuè Dǎo''-->
+|
+|- style="background: #fff"
+| 森の洋館<br>''Mori no Yōkan''
+| [[Old Chateau]]
+| Vieux Château
+| Alte Villa
+| Antico Château
+| Vieja Mansión
+| 숲의 양옥집<br>''Sup-yi Yang'okjip''
+| 森之洋館{{tt|*|森森洋房 (Sēnlín Yángfáng) in Adventures}}<br>''Sēn-zhī Yángguǎn''
+|
+|- style="background: #fff"
+| パルパーク<br>''Pal Park''
+| [[Pal Park]]
+| Parc des Amis
+| Park der Freunde
+| Parco Amici
+| Parque Compi
+| 팔파크<br>''Pal Park''
+|
+|
+|- style="background: #fff"
+| ポケッチカンパニー<br>''Pokétch Company''
+| [[Pokétch Company]]
+| Pokémontre S.A.
+| Pokétch Gesellschaft
+| PokéKron SpA
+| Poké-reloj S.A.
+| 포켓치주식회사<br>''Pocketch Jusikhoesa''
+| 神奇寶貝錶公司<br>''Shénqíbǎobèi-biǎo Gōngsī
+|
+|- style="background: #fff"
+| 荒れた抜け道<br>''Areta Nukemichi''
+| [[Ravaged Path]]
+| Chemin Rocheux
+| Verwüsteter Pfad
+| Cammino Roccioso
+| Senda Desolada
+| 험한 샛길<br>''Heomhan Saetgil''
+|
+|
+|- style="background: #fff"
+| リゾートエリア<br>''Resort Area''
+| [[Resort Area]]
+| Aire de Détente
+| Erholungsgebiet
+| Area Svago
+| Zona Descanso
+| 리조트에리어<br>''Resort Area''
+| 名勝區<br>''Míngshèng Qū''
+|
+|- style="background: #fff"
+| 岩山の遺跡<br>''Iwayama no Iseki''
+| {{si|Rock Peak Ruins}}
+| Ruines Pic Roche
+| Gipfelruinen
+| Rovine Picco
+| Ruinas Pico Roca
+| 바위산의 유적<br>''Bawisan-yi Yujeok''
+|
+|
+|- style="background: #fff"
+| 海割れの道<br>''Umi Ware no Michi''
+| [[Seabreak Path]]
+| Passage Marin
+| Buhnen-Pfad
+| Via Frangimare
+| Vía Costera
+| 갈라진 바닷길<br>''Gallajin Badatgil''
+|
+|
+|- style="background: #fff"
+| 送りの泉<br>''Okuri no Izumi''
+| [[Sendoff Spring]]
+| Source Adieu
+| Scheidequelle
+| Fonte Saluto
+| Fuente Despedida
+| 송별의 샘<br>''Songbyeol-yi Saem''
+| 送泉<br>''Sòng Quán''
+|
+|- style="background: #fff"
+| レストラン七つ星<br>''Restaurant Nanatsuboshi''
+| [[Seven Stars Restaurant]]
+| Restaurant Sept Etoiles
+| 7-Sterne-Restaurant
+| Ristorante Sette Stelle
+| Restaurante Cinco Tenedores
+| 일곱별 레스토랑<br>''Ilgop Byeol Restaurant''
+| 七星級七星飯店<br>''Qīxīngjí Qīxīng Fàndiàn''
+|
+|- style="background: #fff"
+| 槍の柱<br>''Yari no Hashira''
+| [[Spear Pillar]]
+| Colonnes Lances
+| Speersäule
+| Vetta Lancia
+| Columna Lanza
+| 창기둥<br>''Chang Gidung''
+| 槍柱<br>''Qiāngzhù''
+|
+|- style="background: #fff"
+| 隠れ泉への道<br>''Kakure Izumi e no Michi''
+| [[Spring Path]]
+| Chemin Source
+| Frühlingspfad
+| Sentiero Fonte
+| Vía Manantial
+| 숨겨진 샘의 길<br>''Sumgyeojin Saem-yi Gil''
+| 通往隱泉之路<br>''Tōngwǎng Yǐnquán-zhī Lù''
+|
+|- style="background: #fff"
+| ハードマウンテン<br>''Hard Mountain''
+| [[Stark Mountain]]
+| Mont Abrupt
+| Kahlberg
+| Monte Ostile
+| Montaña Dura
+| 하드마운틴<br>''Hard Mountain''
+| 嚴酷山{{tt|*|堅硬火山 ''Jiānyìng Huǒshān'' in DPA and Adventures}}<br>''Yánkù Shān''
+|
+|- style="background: #fff"
+| サバイバルエリア<br>''Survival Area''
+| [[Survival Area]]
+| Aire de Survie
+| Überlebensareal
+| Area Provviste
+| Zona Sobrevivir
+| 사바이벌에리어<br>''Survival Area''
+| 生存區<br>''Shēngcún Qū''
+|
+|- style="background: #fff"
+| 戻りの洞窟<br>''Modori no Dōkutsu''
+| [[Turnback Cave]]
+| Grotte Retour
+| Höhle der Umkehr
+| Grotta Ritorno
+| Cueva Retorno
+| 귀혼동굴<br>''Gwihon Donggul''
+| 歸途洞窟<br>''Guītú Dòngkū''
+|
+|- style="background: #fff"
+| 自慢の裏庭<br>''Jiman no Uraniwa''
+| [[Trophy Garden]]
+| Jardin Trophée
+| Trophäengarten
+| Giardino Trofeo
+| Jardín Trofeo
+| 자랑의 뒷마당<br>''Jarang-yi Dwitmada''
+| 自豪的後院<br>''Zìháo-de Hòuyuàn''
+|
+|- style="background: #fff"
+| 谷間の発電所<br>''Tanima no Hatsudensho''
+| [[Valley Windworks]]
+| Les Eoliennes
+| Windkraftwerk
+| Impianto Turbine
+| Valle Eólico
+| 골짜기발전소<br>''Goljjagi Baljeonso''
+| 山谷間的發電場<br>''Shāngǔjiān-de Fādiànchǎng''
+|
+|- style="background: #fff"
+| シルベの灯台<br>''Shirube no Tōdai''
+| [[Vista Lighthouse]]
+| Phare Panorama
+| Leuchtturm
+| Faro Panorama
+| Faro Visión
+| 길잡이등대<br>''Giljap'i Deungdae''
+| 導航燈塔<br>''Dǎoháng Dēngtǎ''
+|
+|- style="background: #fff"
+| 迷いの洞窟<br>''Mayoi no Dōkutsu''
+| [[Wayward Cave]]
+| Grotte Revêche
+| Bizarre Höhle
+| Grotta Labirinto
+| Cueva Extravío
+| 미혹의 동굴<br>''Mihok-yi Donggul''
+|
+|
+|}
+
+===Unova===
+{| class="expandable sortable roundy" style="margin:auto; width:auto; text-align:center; background: #{{colorschemelight|Unova}}; border: 3px solid #{{colorschemedark|Unova}};"
+|- 
+! Japanese
+! English
+! French
+! German
+! Italian
+! Spanish
+! Korean 
+! Chinese<br>(Mandarin)
+! Chinese<br>(Cantonese)
+|- style="background: #fff"
+| ほうじょうの社<br>''Hōjō no Yashiro''
+| [[Abundant Shrine]]
+| Autel Abondance
+| Schrein der Ernte
+| Tempio Abbondanza
+| Santuario Abundancia
+| 풍요의 사당<br>''Pung'yo-yi Sadang''
+|
+|
+|- style="background: #fff"
+| 海底遺跡<br>''Kaitei Iseki''
+| [[Abyssal Ruins]]
+| Ruines des Abysses
+| Unterwasserruine
+| Rovine degli Abissi
+| Ruinas Submarinas
+| 해저유적<br>''Haejeo Yujeok''
+|
+|
+|- style="background: #fff"
+| バトルサブウェイ<br>''Battle Subway''
+| [[Battle Subway]]
+| Métro de Combat
+| Kampfmetro
+| Metrò Lotta
+| Metro Batalla
+| 배틀서브웨이<br>''Battle Subway''
+| 對戰地下鐵<br>''Duìzhàn Dìxiàtiě''
+|
+|- style="background: #fff"
+| ヒウン下水道<br>''Hiun Gesuidō''
+| [[Castelia Sewers]]
+| Égouts de Volucité
+| Stratos-Kanalisation
+| Fogne di Austropoli
+| Cloacas Porcelana
+| 구름하수도<br>''Gureum Hasudo''
+|
+|
+|- style="background: #fff"
+| 心の空洞<br>''Kokoro no Kūdō''
+| [[Cave of Being]]
+| Caverne des Esprits
+| Beschwörungshöhle
+| Cava della Mente
+| Cueva Psique
+| 마음의동<br>''Maeum-yi Dong''
+|
+|
+|- style="background: #fff"
+| タワーオブヘブン<br>''Tower of Heaven''
+| [[Celestial Tower]]
+| Tour des Cieux
+| Turm des Himmels
+| Torre Cielo
+| Torre de los Cielos
+| 타워오브해븐<br>''Tower of Heaven''
+|
+|
+|- style="background: #fff"
+| 修行の岩屋<br>''Shugyū no Iwaya''
+| [[Challenger's Cave]]
+| Antre d'Entraînement
+| Höhle der Schulung
+| Caverna Ascesi
+| Gruta Superación
+| 수행의 바위동굴<br>''Suhaeng-yi Bawi Donggul''
+|
+|
+|- style="background: #fff"
+| 電気石の洞穴<br>''Denki'ishi no Hora'ana''
+| [[Chargestone Cave]]
+| Grotte Électrolithe
+| Elektrolithhöhle
+| Cava Pietrelettrica
+| Cueva Electrorroca
+| 전기돌동굴<br>''Jeongidol Donggul''
+| 電石洞穴<br>''Diànshí Dòngxué''
+|
+|- style="background: #fff"
+| ヤーコンロード<br>''Yakon Road''
+| [[Clay Tunnel]]
+| Route Bardane
+| Turner-Pfad
+| Passo di Rafan
+| Túnel Yakón
+| 야콘로드<br>''Yacon Road
+|
+|
+|- style="background: #fff"
+| 冷凍コンテナ<br>''Reitō Container''
+| [[Cold Storage]]
+| Hangar Frigorifique
+| Tiefkühlcontainer
+| Deposito Frigo
+| Almacenes Frigoríficos
+| 냉동컨테이너<br>''Naengdong Container''
+| 冷凍倉庫<br>''Lěngdòng Cāngkù''
+|
+|- style="background: #fff"
+| リゾートデザート<br>''Resort Desert''
+| [[Desert Resort]]
+| Désert Délassant
+| Wüstenresort
+| Deserto della Quiete
+| Zona Desierto
+| 리조트데저트<br>''Resort Desert''
+| 荒野名勝區<br>''Huāngyě Míngshèngqū''
+|
+|- style="background: #fff"
+| リュウラセンの塔<br>''Ryūsen no Tō''
+| [[Dragonspiral Tower]]
+| Tour Dragospire
+| Drachenstiege
+| Torre Dragospira
+| Torre Duodraco
+| 용나선탑<br>''Yongnaseon Tap''
+| 龍螺旋之塔<br>''Lóngluóxuán-zhī Tǎ''
+|
+|- style="background: #fff"
+| 夢の跡地<br>''Yume no Atochi''
+| [[Dreamyard]]
+| Vestiges du Rêve
+| Traumbrache
+| Cantiere dei Sogni
+| Solar de los Sueños
+| 꿈터<br>''Kkumteo''
+| 夢的遺址<br>''Mèng-de Yízhǐ''
+|
+|- style="background: #fff"
+| ホドモエの跳ね橋<br>''Hodomoe no Hanebashi''
+| [[Driftveil Drawbridge]]
+| Pont Yoneuve
+| Marea-Zugbrücke
+| Ponte Libecciopoli
+| Puente de Fayenza
+| 물풍경도개교<br>''Mulpunggyeong Dogaegyo''
+| 帆巴吊橋<br>''Fānbā Diàoqiáo''
+|
+|- style="background: #fff"
+| ハイリンク<br>''Hilink''
+| [[Entralink]]
+| Heylink
+| Kontaktebene
+| Intramondo
+| Zona Nexo
+| 하일링크<br>''Hilink''
+|
+|
+|- style="background: #fff"
+| サンギぼくじょう<br>''Sangi Bokujō''
+| [[Floccesy Ranch]]
+| Ranch d'Amaillide
+| Dausing-Hof
+| Fattoria di Venturia
+| Rancho Ocre
+| 산가지목장<br>''Sangaji Mokjang''
+|
+|
+|- style="background: #fff"
+| ジャイアントホール<br>''Giant Hole''
+| [[Giant Chasm]]
+| Grotte Cyclopéenne
+| Riesengrotte
+| Fossa Gigante
+| Boquete Gigante
+| 자이언트홀<br>''Giant Hole''
+|
+|
+|- style="background: #fff"
+| しるべのま<br>''Shirube no Ma''
+| [[Guidance Chamber]]
+| Espace Guide 
+| Kammer der Weisung 
+| Sala del Cimento
+| Estancia Orientación
+| 길잡이의공간<br>''Giljap'i-yi Gonggan''
+|
+|
+|- style="background: #fff"
+| ジョインアベニュー<br>''Join Avenue''
+| [[Join Avenue]]
+| Galerie Concorde
+| Einklangspassage
+| Galleria Solidarietà
+| Galería Unión
+| 조인애버뉴<br>''Join Avenue''
+|
+|
+|- style="background: #fff"
+| リバティガーデン島<br>''Liberty Garden Tō''
+| [[Liberty Garden]]
+| Île Liberté
+| Freiheitsgarten
+| Isola Libertà
+| Isla Libertad
+| 리버티가든섬<br>''Liberty Garden Seom''
+|
+|
+|- style="background: #fff"
+| 迷いの森<br>''Mayoi no Mori''
+| [[Lostlorn Forest]]
+| Bois des Illusion
+| Hain der Täuschung
+| Bosco Smarrimento
+| Bosque Perdidos
+| 미혹의 숲<br>''Mihok-yi Sup''
+|
+|
+|- style="background: #fff"
+| マリンチューブ<br>''Marine Tube''
+| [[Marine Tube]]
+| Aquatube
+| Unterseetunnel
+| Tunnel Marino
+| Acuatúnel
+| 마린튜브<br>''Marine Tube''
+|
+|
+|- style="background: #fff"
+| ワンダーブリッジ<br>''Wonder Bridge''
+| [[Marvelous Bridge]]
+| Pont de l'Inconnu
+| Wunderbrücke
+| Ponte Meraviglie
+| Puente Progreso
+| 원더 브리지<br>''Wonder Bridge''
+|
+|
+|- style="background: #fff"
+| フキヨセの洞穴<br>''Fukiyose no Dōkutsu''
+| [[Mistralton Cave]]
+| Grotte Parsemille
+| Panaero-Höhle
+| Cava Ponentopoli
+| Cueva Loza
+| 궐수의 동굴<br>''Gweolsu-yi Donggul''
+|
+|
+|- style="background: #fff"
+| セッカの湿原<br>''Sekka no Shitsugen''
+| [[Moor of Icirrus]]
+| Tourbière Flocombe
+| Moor von Nevaio
+| Palude Mistralopoli
+| Pantano Teja
+| 설화의 습지초원<br>''Seolhwa-yi Seupjichoweon''
+|
+|
+|- style="background: #fff"
+| 自然保護区<br>''Shizen Hogoku''
+| [[Nature Preserve]]
+| Réserve Naturelle
+| Naturschutzgebiet
+| Riserva Naturale
+| Santuario Natural
+| 자연보호구역<br>''Jayeon Boho-guyeok''
+|
+|
+|- style="background: #fff"
+| Ｐ２ラボ<br>''P2 Labo''
+| [[P2 Laboratory]]
+| Labo P2
+| P2-Labor
+| Laboratorio P&P
+| Laboratorio P+P
+| P2랩<br>''P2-Lab''
+| P2實驗室<br>''P2-Shíyànshì''
+|
+|- style="background: #fff"
+| ヤグルマの森<br>''Yaguruma no Mori''
+| [[Pinwheel Forest]]
+| Forêt d'Empoigne
+| Ewigenwald
+| Bosco Girandola
+| Bosque Azulejo
+| 바람개비숲<br>''Baramgaebi Sup''
+| 矢車森林<br>''Shǐchē Sēnlín''
+|
+|- style="background: #fff"
+| プラズマフリゲート<br>''Plasma Frigate''
+| [[Plasma Frigate]]
+| Frégate Plasma
+| Plasma-Fregatte‎
+| Fregata Plasma
+| Fragata Plasma
+| 플라스마프리깃 ''Plasma Frigate''
+|
+|
+|- style="background: #fff"
+| ちかいのはやし<br>''Chikai no Hayashi''
+| [[Pledge Grove]]
+| Bois des Serments
+| Schwurhain
+| Bosco del Giuramento
+| Bosque Juramento
+| 맹세의숲<br>''Maengse-yi Sup''
+|
+|
+|- style="background: #fff"
+| シフトファクトリー<br>''Shift Factory''
+| [[Poké Transfer Lab]]
+| Laboratoire Fret
+| Porterlabor
+| Centro Pokétrasporto
+| Laboratorio Transfer
+| 시프트팩토리<br>''Shift Factory''
+|
+|
+|- style="background: #fff"
+| ポケモンワールドトーナメント<br>''Pokémon World Tournament''
+| [[Pokémon World Tournament]]
+| Pokémon World Tournament
+| Pokémon World Tournament
+| Pokémon World Tournament
+| Pokémon World Tournament
+| 포켓몬월드토너먼트<br>''Pokémon World Tournament''
+| 神奇寶貝世界錦標賽<br>''Shénqí-bǎobèi Shìjiè Jǐnbiāosài''
+|
+|- style="background: #fff"
+| ポケウッド<br>''Pokéwood''
+| [[Pokéstar Studios]]
+| Pokéwood
+| Pokéwood
+| Pokéwood
+| Estudios Cinematográficos Pokéwood
+| 포켓우드<br>''Pokéwood''
+| 神奇寶貝好萊塢<br>''Shénqí-bǎobèi Hǎoláiwù''
+|
+|- style="background: #fff"
+| 古代の城<br>''Kodai no Shiro''
+| [[Relic Castle]]
+| Château Enfoui
+| Alter Palast
+| Castello Sepolto
+| Castillo Ancestral
+| 고대의 성<br>''Godae-yi Seong''
+| 古代城堡<br>''Gǔ​dài​ Chéng​bǎo​''
+|
+|- style="background: #fff"
+| 古代の抜け道<br>''Kodai no Nukemichi''
+| [[Relic Passage]]
+| Chemin Enfoui
+| Alter Fluchtweg
+| Antico Sentiero
+| Pasadizo Ancestral
+| 고대샛길<br>''Godae Saesgil''
+|
+|
+|- style="background: #fff"
+| リバースマウンテン<br>''Reverse Mountain''
+| [[Reversal Mountain]]
+| Mont Renenvers
+| Janusberg
+| Monte Antipodi
+| Montaña Reversia
+| 리버스마운틴<br>''Reverse Mountain''
+|
+|
+|- style="background: #fff"
+| しさくのはら<br>''Shisaku no Hara''
+| [[Rumination Field]]
+| Clairière Réflexion 
+| Feld der Besinnung 
+| Radura Filosofia
+| Claro Filosofía
+| 사색의들판<br>''Sasaek-yi Dulpan''
+|
+|
+|- style="background: #fff"
+| 海辺の洞穴<br>''Umibe no Dōkutsu''
+| [[Seaside Cave]]
+| Grotte Littorale
+| Strandgrotte
+| Grotta Costiera
+| Gruta Marina
+| 해변동혈<br>''Haebyeon Donghyeol''
+|
+|
+|- style="background: #fff"
+| スカイアローブリッジ<br>''Sky Arrow Bridge''
+| [[Skyarrow Bridge]]
+| Pont Sagiciel
+| Himmelspfeilbrücke
+| Ponte Freccialuce
+| Puente Saeta
+| 스카이애로 브리지<br>''Sky Arrow Bridge''
+| 天之箭橋<br>''Tiān-zhī Jiàn Qiáo''
+|
+|- style="background: #fff"
+| ストレンジャハウス<br>''Stranger House''
+| [[Strange House]]
+| Manoir de l'Étrange
+| Bizarro-Haus
+| Casa Bizzarra
+| Villa Horroris
+| 스트레인저하우스<br>''Strange House''
+|
+|
+|- style="background: #fff"
+| しれんのむろ<br>''Shiren no Muro''
+| [[Trial Chamber]]
+| Salle Épreuve  
+| Kammer der Prüfung 
+| Sala della Guida
+| Cámara de Pruebas
+| 시련의석굴<br>''Siryeon-yi Seogul''
+|
+|
+|- style="background: #fff"
+| シリンダーブリッジ<br>''Cylinder Bridge''
+| [[Tubeline Bridge]]
+| Pont Ferroviaire
+| Zylinderbrücke
+| Ponte Propulsione
+| Puente Axial
+| 실린더 브리지<br>''Cylinder Bridge''
+|
+|
+|- style="background: #fff"
+| ネジ山<br>''Neji Yama''
+| [[Twist Mountain]]
+| Mont Foré
+| Wendelberg
+| Monte Vite
+| Monte Tuerca
+| 태엽산<br>''Taeyeop San''
+| 羅斯山{{tt|*|Also known as 螺旋山 (Luóxuán Shān)}}<br>''Luósī Shān''
+|
+|- style="background: #fff"
+| サザナミ湾<br>''Sazanami Wan''
+| [[Undella Bay]]
+| Baie Vaguelone
+| Bucht von Ondula
+| Baia Spiraria
+| Bahía Arenisca
+| 물결만<br>''Mulgyeol Man''
+|
+|
+|- style="background: #fff"
+| 地底遺跡<br>''Chitei Iseki''
+| [[Underground Ruins]]
+| Ruines Enfouies
+| Unterirdische Ruine
+| Rovine Sotterranee
+| Ruinas Subterráneas
+| 땅밑유적<br>''Ttangmit Yujeok''
+|
+|
+|- style="background: #fff"
+| ユナイテッドタワー<br>''United Tower''
+| [[Unity Tower]]
+| Tour Union
+| Turm der Einheit
+| Torre Unione
+| Torre Unión
+| 유나이티드타워<br>''United Tower''
+|
+|
+|- style="background: #fff"
+| ビレッジブリッジ<br>''Village Bridge''
+| [[Village Bridge]]
+| Pont du Hameau
+| Dorfbrücke
+| Ponte Villaggio
+| Puente Villa
+| 빌리지 브리지<br>''Village Bridge''
+|
+|
+|- style="background: #fff"
+| タチワキコンビナート<br>''Tachiwaki Kombinat''
+| [[Virbank Complex]]
+| Z.I. d'Ondes-sur-Mer
+| Vapydro-Werke
+| Cantiere di Zondopoli
+| Polígono Hormigón
+| 모란만콤비나트<br>''Moranman Kombinat''
+|
+|
+|- style="background: #fff"
+| 地下水脈の穴<br>''Chika Suimyaku no Ana''
+| [[Wellspring Cave]]
+| Veine Souterraine
+| Grundwassersenke
+| Falda Sotterranea
+| Cueva Manantial
+| 지하수맥굴<br>''Jiha Sumaek Gul''
+|
+|
+|- style="background: #fff"
+| ホワイトフォレスト<br>''White Forest''
+| [[White Forest]]
+| Forêt Blanche
+| Weiße Wald
+| Foresta Bianca
+| Bosque Blanco
+| 화이트포리스트<br>''White Forest''
+|
+|
+|}
+
+===Kalos===
+{| class="expandable sortable roundy" style="margin:auto; width:auto; text-align:center; background: #{{colorschemelight|Kalos}}; border: 3px solid #{{colorschemedark|Kalos}};"
+|- 
+! Japanese
+! English
+! French
+! German
+! Italian
+! Spanish
+! Korean 
+! Chinese<br>(Mandarin)
+! Chinese<br>(Cantonese)
+|- style="background: #fff"
+| アズール湾<br>''Azure Wan''
+| [[Azure Bay]]
+| Baie Azur
+| Azurbucht
+| Baia Azzurra
+| Bahía Azul
+| 아쥐르만<br>''Azure Man''
+|
+|
+|- style="background: #fff"
+| バトルシャトー<br>''Battle Chateau''
+| [[Battle Chateau]]
+| Château de Combat 
+| Kampfschloss
+| Castello Lotta
+| Bastión Batalla
+| 배틀샤토<br>''Battle Chateau''
+| 對戰城堡<br>''Duìzhàn Chéngbǎo''
+|
+|- style="background: #fff"
+| バトルハウス<br>''Battle House''
+| [[Battle Maison]]
+| Maison de Combat 
+| Kampfhaus
+| Villa Lotta 
+| Mansión Batalla
+| 배틀하우스<br>''Battle House''
+|
+|
+|- style="background: #fff"
+| 火炎の間<br>''Kaen no Ma''
+| [[Blazing Chamber]]
+| Chambre du Braiser
+| Flammen-Saal
+| Sala delle Fiamme
+| Sala de las Llamas
+| 화염의 방<br>''Hwayeom-ui Bang''
+|
+|
+|- style="background: #fff"
+| 空ろの間<br>''Utsuro no Ma''
+| [[Chamber of Emptiness]]
+| Chambre Néant
+| Kammer der Leere
+| Stanza Vacua 
+| Estancia Vacua
+| 공허의 방<br>''Kongheo-yi Bang''
+|
+|
+|- style="background: #fff"
+| 地つなぎの洞穴<br>''Jitsunagi no Dōkutsu''
+| [[Connecting Cave]]
+| Cave Connecterre
+| Geolinkhöhle
+| Grotta Trait d'Union
+| Gruta Tierraunida
+| 땅이음의 동굴<br>''Kkeut-yi Donggul''
+|
+|
+|- style="background: #fff"
+| 竜章の間<br>''Ryū Fumi no Ma''
+| [[Dragonmark Chamber]]
+| Chambre de la Guivre
+| Draco-Saal
+| Sala del Dragone
+| Sala del Draco
+| 용문양의 방<br>''Yongmun-yang-ui Bang''
+|
+|
+|- style="background: #fff"
+| 水門の間<br>''Suimon no Ma''
+| [[Flood Chamber]]
+| Chambre du Barrage
+| Schleusen-Saal
+| Sala delle Chiuse
+| Sala de la Esclusa
+| 수문의 방 ''Sumun-ui Bang''
+|
+|
+|- style="background: #fff"
+| フレンドサファリ<br>''Friend Safari''
+| [[Friend Safari]]
+| Safari des Amis
+| Kontaktsafari 
+| Safari Amici
+| Safari Amistad
+| 프렌드사파리<br>''Friend Safari''
+|
+|
+|- style="background: #fff"
+| フロストケイブ<br>''Frost Cave''
+| [[Frost Cavern]]
+| Caverne Gelée 
+| Frosthöhle
+| Caverna Gelata 
+| Gruta Helada
+| 프로스트케이브<br>''Frost Cave''
+|
+|
+|- style="background: #fff"
+| 輝きの洞窟<br>''Kagayaki Dōkutsu''
+| [[Glittering Cave]]
+| Grotte Étincelante
+| Leuchthöhle
+| Grotta dei Bagliori
+| Cueva Brillante
+| 비춤의 동굴<br>''Bichum-yi Donggul''
+|
+|
+|- style="background: #fff"
+| 鋼鉄の間<br>''Kōtetsu no Ma''
+| [[Ironworks Chamber]]
+| Chambre de l'Alliage
+| Rüstungs-Saal
+| Sala del Metallo
+| Sala del Metal
+| 무쇠의 방<br>''Musoe-ui Bang''
+|
+|
+|- style="background: #fff"
+| 荒れ果てホテル<br>''Arehate Hotel''
+| [[Lost Hotel]]
+| Hôtel Désolation 
+| Hotelruine
+| Albergo Diroccato
+| Hotel Desolación
+| 황폐해진 호텔<br>''Hwangpyehaejin Hotel''
+|
+|
+|- style="background: #fff"
+| カロス発電所<br>''Kalos Hatsudensho''
+| [[Kalos Power Plant]]
+| Centrale de Kalos
+| Kalos-Kraftwerk
+| Centrale di Kalos
+| Central de Kalos
+| 칼로스발전소<br>''Kalos Baljeonso''
+|
+|
+|- style="background: #fff"
+| フラダリラボ<br>''Fleur-de-lis Labs''
+| [[Lysandre Labs]]
+| Labos Lysandre
+| Labor von Flordelis
+| Laboratori Elisio 
+| Laboratorios Lysson
+| 플라드리 래버러토리 <br>''Fleurdelis Laboratory''
+|
+|
+|- style="background: #fff"
+| パルファム宮殿<br>''Parfum Kyūden''
+| [[Parfum Palace]]
+| Palais Chaydeuvre 
+| Magnum-Opus-Palast 
+| Reggia Aurea
+| Palacio Cénit 
+| 파르팽궁전 <br>''Pareupaeng Gungjeon''
+| 巴爾法姆香殿<br>''Bā'ěrfǎmǔ Xiāngdiàn''
+|
+|- style="background: #fff"
+| ボールこうじょう<br>''Balls Factory''
+| [[Poké Ball Factory]]
+| Usine de Poké Balls
+| Pokéball-Fabrik
+| Fabbrica Poké Ball 
+| Fábrica de Poké Balls
+| 볼 공장 <br>''Ball Gongjang''
+|
+|
+|- style="background: #fff"
+| ポケモンの村<br>''Pokémon no Mura''
+| [[Pokémon Village]]
+| Village Pokémon
+| Pokémon-Dorf
+| Valle dei Pokémon
+| Villa Pokémon
+| 포켓몬마을<br>''Pokémon Maeul''
+|
+|
+|- style="background: #fff"
+| 光の間<br>''Hikari no Ma''
+| [[Radiant Chamber]]
+| Chambre de l'Éclat
+| Licht-Saal
+| Sala della Luce
+| Sala de la Luz
+| 빛의 방<br>''Bich-ui Bang''
+|
+|
+|- style="background: #fff"
+| 映し身の洞窟<br>''Utsushimi no Dōkutsu''
+| [[Reflection Cave]]
+| Grotte Miroitante
+| Spiegelhöhle
+| Grotta dei Riflessi
+| Cueva Reflejos
+| 반짝임의 동굴<br>''Banjjag'im-yi Donggul''
+|
+|
+|- style="background: #fff"
+| ハクダンの森<br>''Hakudan no Mori''
+| [[Santalune Forest]]
+| Forêt de Neuvartault
+| Nouvaria-Wald‎
+| Bosco Novartopoli
+| Bosque de Novarte
+| 백단숲<br>''Baekdan Sup''
+|
+|
+|- style="background: #fff"
+| 海神の穴<br>''Wadatsumi no Ana''
+| [[Sea Spirit's Den]]
+| Antre Néréen
+| Meerestitanhöhle
+| Antro Talassico
+| Cueva Talasia
+| 해신의 굴<br>''Haesin-yi Gul''
+|
+|
+|- style="background: #fff"
+| 終の洞窟<br>''Owari no Dōkutsu''
+| [[Terminus Cave]]
+| Grotte Coda 
+| Omega-Höhle
+| Grotta Climax
+| Cueva Desenlace
+| 끝의 동굴<br>''Kkeut-yi Donggul''
+|
+|
+|- style="background: #fff"
+| マスタータワー<br>''Master Tower''
+| [[Tower of Mastery]]
+| Tour Maîtrise
+| Turm der Erkenntnis
+| Torre Maestra
+| Torre Maestra
+| 마스터타워<br>''Master Tower''
+|
+|
+|- style="background: #fff"
+| ななしの洞窟<br>''Nanashi Dōkutsu''
+| [[Unknown Dungeon (Kalos)|Unknown Dungeon]]
+| Grotte Inconnue 
+| Geheimdungeon
+| Grotta Ignota 
+| Mazmorra Rara
+| 이름없는 동굴<br>''Ireum-eopsneun Donggul''
+|
+|
+|}
+
+===Alola===
+{| class="expandable sortable roundy" style="margin:auto; width:auto; text-align:center; background: #{{colorschemelight|Alola}}; border: 3px solid #{{colorschemedark|Alola}};"
+|-
+! Japanese
+! English
+! French
+! German
+! Italian
+! Spanish
+! Korean 
+! Chinese<br>(Mandarin)
+! Chinese<br>(Cantonese)
+|- style="background: #fff"
+| エーテルハウス<br>''Aether House''
+| [[Aether House]]
+| Foyer Æther
+| Æther-Haus
+| Residenza Æther
+| Casa Æther
+| 에테르하우스<br>''Aether House''
+| 以太之家<br>''Yǐtài-zhī Jiā''
+| 以太之家<br>''Yíhtaai-jī Gā''
+|- style="background: #fff"
+| エーテルパラダイス<br>''Aether Paradise''
+| [[Aether Paradise]]
+| Paradis Æther
+| Æther-Paradies
+| Æther Paradise
+| Paraíso Æther
+| 에테르파라다이스<br>''Aether Paradise''
+| 以太樂園 / 以太乐园<br>''Yǐtài Lèyuán''
+| 以太樂園<br>''Yíhtaai Lohkyùhn''
+|- style="background: #fff"
+| アーカラ島はずれ<br>''Akala Island Outskirts''
+| [[Akala Outskirts]]
+| Côte Reculée d'Akala
+| Akala-Küstenstreifen
+| Punta Akala
+| Afueras de Akala
+| 아칼라외곽<br>''Akalla Oegwak''
+| 阿卡拉島郊外 / 阿卡拉岛郊外<br>''Ākǎlā Dǎo Jiāowài''
+| 阿卡拉島郊外<br>''Akālāai Dóu Gāaungoih''
+|- style="background: #fff"
+| 月輪の祭壇<br>''Altar of the Moon''
+| [[Altar of the Moone]]
+| Autel de la Lune
+| Mondscheiben-Podium
+| Altare Lunare
+| Altar de la Luna
+| 월륜의 제단<br>''Wollyun-ui Jedan''
+| 月輪祭壇 / 月轮祭坛<br>''Yuèlún Jìtán''
+| 月輪祭壇<br>''Yuhtlèuhn Jaitàahn''
+|- style="background: #fff"
+| 日輪の祭壇<br>''Altar of the Sun''
+| [[Altar of the Sunne]]
+| Autel du Soleil
+| Sonnenkreis-Podium
+| Altare Solare
+| Altar del Sol
+| 일륜의 제단<br>''Illyun-ui Jedan''
+| 日輪祭壇 / 日轮祭坛<br>''Rìlún Jìtán''
+| 日輪祭壇<br>''Yahtlèuhn Jaitàahn''
+|- style="background: #fff"
+| ポニの古道<br>''Ancient Poni Path''
+| [[Ancient Poni Path]]
+| Vieille Route
+| Alter Pfad von Poni
+| Via Antica di Poni
+| Antiguo Paso de Poni
+| 포니옛길<br>''Poni Yetgil''
+| 波尼古道<br>''Bōní Gǔdào''
+| 波尼古道<br>''Bōnèih Gúdouh''
+|- style="background: #fff"
+| バトルツリー<br>''Battle Tree''
+| [[Battle Tree]]
+| Arbre de Combat
+| Kampfbaum
+| Albero della Lotta
+| Árbol de Combate
+| 배틀트리<br>''Battle Tree''
+| 對戰樹 / 对战树<br>''Duìzhàn Shù''
+| 對戰樹<br>''Deuijin Syuh''
+|- style="background: #fff"
+| きのみ畑<br>''Berry fields''
+| {{al|Berry fields}}
+| Champ de Baies
+| Beerenfelder
+| Orto delle Bacche
+| Huerto de Bayas
+| 나무열매 밭<br>''Namuyeolmae Bat''
+| 樹果園 / 树果园<br>''Shùguǒyuán''
+| 樹果園<br>''Syuhgwóyùhn''
+|- style="background: #fff"
+| ホテリ山<br>''Hoteri Mountain''
+| [[Blush Mountain]]
+| Mont Ardent
+| Glühberg
+| Monte Tepore
+| Monte Rubor
+| 화끈산<br>''Hwakkeun San''
+| 火特力山<br>''Huǒtèlì Shān''
+| 火特力山<br>''Fódahklihk Sāan''
+|- style="background: #fff"
+| せせらぎの丘<br>''Brooklet Hill''
+| [[Brooklet Hill]]
+| Colline Clapotis
+| Plätscherhügel
+| Collina Scrosciante
+| Colina Saltagua
+| 잔잔한물가언덕<br>''Janjanhan Mulga Eondeok''
+| 潺潺之丘<br>''Chánchán-zhī Qiū''
+| 潺潺之丘<br>''Sàahnsàahn-jī Yāu''
+|- style="background: #fff"
+| ディグダトンネル<br>''Digda Tunnel''
+| [[Diglett's Tunnel]]
+| Tunnel Taupiqueur
+| Digda-Tunnel
+| Tunnel Diglett
+| Túnel Diglett
+| 디그다터널<br>''Digda Tunnel''
+| 地鼠隧道<br>''Dìshǔ Suìdào''
+| 地鼠隧道<br>''Deihsyú Seuihdouh''
+|- style="background: #fff"
+| ナッシー・アイランド<br>''Nassy Island''
+| [[Exeggutor Island]]
+| Île Noadkoko
+| Kokowei-Eiland
+| Isola Exeggutor
+| Isla Exeggutor
+| 나시・아일랜드<br>''Nasi Island''
+| 椰蛋樹島 / 椰蛋树岛<br>''Yédànshù Dǎo''
+| 椰蛋樹島<br>''Yèhdáansyuh Dóu''
+|- style="background: #fff"
+| フェスサークル<br>''Festival Circle''
+| [[Festival Plaza]]
+| Place Festival
+| Festival-Plaza
+| Festiplaza
+| Festi Plaza
+| 페스서클<br>''Fes Circle''
+| 圓慶廣場 / 圆庆广场<br>''Yuánqìng Guǎngchǎng''
+| 圓慶廣場<br>''Yùhnhing Gwóngchèuhng''
+|- style="background: #fff"
+| ハイナ砂漠<br>''Hainā Desert''
+| [[Haina Desert]]
+| Désert Haina
+| Haina-Wüste
+| Deserto Haina
+| Desierto de Haina
+| 하이나사막<br>''Hainā Samak''
+| 哈伊納沙漠 / 哈伊纳沙漠<br>''Hāyīnà Shāmò''
+| 哈伊納沙漠<br>''Hāyīnaahp Sāmohk''
+|- style="background: #fff"
+| ハノハノビーチ<br>''Hanohano Beach''
+| [[Hano Beach]]
+| Plage Hano-Hano
+| Hanohano-Strand
+| Spiaggia Hanu Hanu
+| Playa de Hanohano
+| 하노하노비치<br>''Hanohano Beach''
+| 豪諾豪諾海灘 / 豪诺豪诺海滩<br>''Háonuòháonuò Hǎitān''
+| 豪諾豪諾海灘<br>''Hòuhnohkhòuhnohk Hóitāan''
+|- style="background: #fff"
+| ハノハノリゾート<br>''Hanohano Resort''
+| [[Hano Grand Resort]]
+| Club Hano-Hano
+| Hanohano-Resort
+| Resort Hanu Hanu
+| Resort Hanohano
+| 하노하노리조트<br>''Hanohano Resort''
+| 豪諾豪諾度假地 / 豪诺豪诺度假地<br>''Háonuòháonuò Dùjiàdì''
+| 豪諾豪諾度假地<br>''Hòuhnohkhòuhnohk Douhgadeih''
+|- style="background: #fff"
+| ハウオリ霊園<br>''Hau'oli Cemetery''
+| [[Hau'oli Cemetery]]
+| Cimetière d'Ekaeka
+| Hauholi-Friedhof
+| Cimitero di Hau'oli
+| Cementerio de Hauoli
+| 하우올리 묘원<br>''Hau'oli Myowon''
+| 好奧樂墓園 / 好奥乐墓园<br>''Hǎo'àolè Mùyuán''
+| 好奧樂墓園<br>''Hóu'oulohk Mouhyùhn''
+|- style="background: #fff"
+| ホクラニ天文台<br>''Hōkūlani Observatory''
+| [[Hokulani Observatory]]
+| Observatoire
+| Hokulani-Sternwarte
+| Osservatorio Hokulani
+| Observatorio de Hokulani
+| 호쿠라니천문대<br>''Hōkūlani Cheonmundae''
+| 輝克拉尼天文台 / 辉克拉尼天文台<br>''Huīkèlāní Tiānwéntái''
+| 輝克拉尼天文台<br>''Fāihāaklānèih Tīnmàhntòih''
+|- style="background: #fff"
+| のびのびリゾート<br>''Carefree Resort''
+| {{DL|Poké Pelago|Isle Abeens}}
+| Îlot Relax
+| Wohlfühl-Insel
+| Isolotto Passatempo
+| Cayo Recreo
+| 유유자적리조트<br>''Yuyujajeok Resort''
+| 悠悠度假地<br>''Yōuyōu Dùjiàdì''
+| 悠悠度假地<br>''Yàuhyàuh Douhgadeih''
+|- style="background: #fff"
+| どきどきリゾート<br>''Exciting Resort''
+| {{DL|Poké Pelago|Isle Aphun}}
+| Îlot Farfouille
+| Abenteuer-Insel
+| Isolotto Batticuore
+| Cayo Aventura
+| 두근두근리조트<br>''Dugeundugeun Resort''
+| 怦怦度假地<br>''Pēngpēng Dùjiàdì''
+| 怦怦度假地<br>''Pāangpāang Douhgadeih''
+|- style="background: #fff"
+| すくすくリゾート<br>''Fast-Growing Resort''
+| {{DL|Poké Pelago|Isle Aplenny}}
+| Îlot Poupousse
+| Beeren-Insel
+| Isolotto Granraccolto
+| Cayo Brote
+| 쑥쑥리조트<br>''Ssukssuk Resort''
+| 速速度假地<br>''Sùsù Dùjiàdì''
+| 速速度假地<br>''Chūkchūk Douhgadeih''
+|- style="background: #fff"
+| ぽかぽかリゾート<br>''Warm Resort''
+| {{DL|Poké Pelago|Isle Avue}}
+| Îlot Bubulle
+| Spa-Insel
+| Isolotto Caldecoccole
+| Cayo Termal
+| 따끈따끈리조트<br>''Ddakkeunddakkeun Resort''
+| 暖暖度假地<br>''Nuǎnnuǎn Dùjiàdì''
+| 暖暖度假地<br>''Nyúhnnyúhn Douhgadeih''
+|- style="background: #fff"
+| わいわいリゾート<br>Noisy Resort''
+| {{DL|Poké Pelago|Isle Evelup}}
+| Îlot Biscoteuax
+| Fitness-Insel
+| Isolotto Buonalena
+| Cayo Activo
+| 와와리조트<br>''Wawa Resort''
+| 歡歡度假地 / 欢欢度假地<br>''Huānhuān Dùjiàdì''
+| 歡歡度假地<br>''Fūnfūn Douhgadeih''
+|- style="background: #fff"
+| カーラエ湾<br>''Kāla'e Bay''
+| [[Kala'e Bay]]
+| Baie de Kala'e
+| Kala'e-Bucht
+| Baia Kala'e
+| Bahía Kalae
+| 칼라에만<br>''Kāla'e Man''
+| 卡拉蔚灣 / 卡拉蔚湾<br>''Kǎlāwèi Wān''
+| 卡拉蔚灣<br>''Kālāaiwai Wāan''
+|- style="background: #fff"
+| 月輪の湖<br>''Lake of the Moon''
+| [[Lake of the Moone]]
+| Lac du Halo Lunaire
+| Mondscheiben-See
+| Lago Lunare
+| Lago Coroluna
+| 월륜의 호수<br>''Wollyun-ui Hosu''
+| 月輪湖 / 月轮湖<br>''Yuèlún Hú''
+| 月輪湖<br>''Yuhtlèuhn Wùh''
+|- style="background: #fff"
+| 日輪の湖<br>''Lake of the Sun''
+| [[Lake of the Sunne]]
+| Lac du Halo Solaire
+| Sonnenkreis-See
+| Lago Solare
+| Lago Corosol
+| 일륜의 호수<br>''Illyun-ui Hosu''
+| 日輪湖 / 日轮湖<br>''Rìlún Hú''
+| 日輪湖<br>''Yahtlèuhn Wùh''
+|- style="background: #fff"
+| シェードジャングル<br>''Shade Jungle''
+| [[Lush Jungle]]
+| Jungle Sombrefeuille
+| Schattendschungel
+| Giungla Ombrosa
+| Jungla Umbría
+| 셰이드정글<br>''Syeideu Jeonggeul''
+| 樹蔭叢林 / 树荫丛林<br>''Shùyīn Cónglín''
+| 樹蔭叢林<br>''Syuhyam Chùhnglàhm''
+|- style="background: #fff"
+| マハロ山道<br>''Mahalo Mountain Trail''
+| [[Mahalo Trail]]
+| Sentier de Mahalo
+| Mahalo-Bergpfad
+| Sentiero Mahalo
+| Senda Mahalo
+| 마할로 산길<br>''Mahalo San-gil''
+| 馬哈羅山路 / 马哈罗山路<br>''Mǎhāluó Shānlù''
+| 馬哈羅山路<br>''Máhhālòh Sāanlouh''
+|- style="background: #fff"
+| マリエ庭園<br>''Malie Garden''
+| [[Malie Garden]]
+| Parc de Malié
+| Malihe-Ziergarten
+| Giardino di Malie
+| Parque de Malíe
+| 말리에 정원<br>''Malie Jeongwon''
+| 馬利埃庭園 / 马利埃庭园<br>''Mǎlì'āi Tíngyuán''
+| 馬利埃庭園<br>''Máhleih'āai Tìhngyùhn''
+|- style="background: #fff"
+| メレメレの花園<br>''Melemele Flower Garden''
+| [[Melemele Meadow]]
+| Jardin de Mele-Mele
+| Mele-Mele-Blumenmeer
+| Prato Mele Mele
+| Jardines de Melemele
+| 멜레멜레 화원<br>''Mellemelle Hwawon''
+| 美樂美樂花園 / 美乐美乐花园<br>''Měilèměilè Huāyuán''
+| 美樂美樂花園<br>''Méihlohkméihlohk Fāyún''
+|- style="background: #fff"
+| メレメレ海<br>''Melemele Sea''
+| [[Melemele Sea]]
+| Mer de Mele-Mele
+| Meer von Mele-Mele
+| Mare di Mele Mele
+| Mar de Melemele
+| 멜레멜레해<br>''Mellemelle Hae''
+| 美樂美樂海 / 美乐美乐海<br>''Měilèměilè Hǎi''
+| 美樂美樂海<br>''Méihlohkméihlohk Hói''
+|- style="background: #fff"
+| メモリアルヒル<br>''Memorial Hill''
+| [[Memorial Hill]]
+| Colline Memento
+| Hügel des Gedenkens
+| Colle della Memoria
+| Colina del Recuerdo
+| 메모리얼힐<br>''Memorial Hill''
+| 回憶之丘 / 回忆之丘<br>''Huíyì-zhī Qiū''
+| 回憶之丘<br>''Wùihyīk-jī Yāu''
+|- style="background: #fff"
+| ホクラニ岳<br>''Mount Hōkūlani''
+| [[Mount Hokulani]]
+| Mont Hokulani
+| Hokulani-Berg
+| Picco Hokulani
+| Pico Hokulani
+| 호쿠라니큰산<br>''Hōkūlani Keunsan''
+| 輝克拉尼山 / 辉克拉尼山''Huīkèlāní Shān''
+| 輝克拉尼山<br>''Fāihāaklānèih Sāan''
+|- style="background: #fff"
+| ラナキラマウンテン<br>''Lanakila Mountain''
+| [[Mount Lanakila]]
+| Mont Lanakila
+| Mount Lanakila
+| Monte Lanakila
+| Monte Lanakila
+| 라나키라마운틴<br>''Lanakila Mountain''
+| 拉納基拉山 / 拉纳基拉山<br>''Lānàjīlā Shān''
+| 拉納基拉山<br>''Lānaahpgēilā Sāan''
+|- style="background: #fff"
+| オハナ牧場<br>''Ohana Ranch''
+| [[Paniola Ranch]]
+| Ranch Ohana
+| Ohana-Farm
+| Fattoria Ohana
+| Rancho Ohana
+| 오하나목장<br>''Ohana Mokjang''
+| 歐哈納牧場 / 欧哈纳牧场<br>''Ōuhānà Mùchǎng''
+| 歐哈納牧場<br>''Āuhānaahp Muhkchèuhng''
+|- style="background: #fff"
+| ポケリゾート<br>''Poké Resort''
+| [[Poké Pelago]]
+| Poké Loisir
+| Pokémon-Resort
+| Poké Resort
+| Poké Resort
+| 포켓리조트<br>''Poké Resort''
+| 寶可度假地 / 宝可度假地<br>''Poké Dùjiàdì''
+| 寶可度假地<br>''Poké Douhgadeih''
+|- style="background: #fff"
+| ポニの荒磯<br>''Poni Reefy Coast''
+| [[Poni Breaker Coast]]
+| Récif de Poni
+| Felsenküste von Poni
+| Scogliera di Poni
+| Arrecife de Poni
+| 포니의 거친 해안<br>''Poni-ui Geochin Haean''
+| 波尼鼓浪岩岸<br>''Bōní Gǔlàng Yán'àn''
+| 波尼鼓浪岩岸<br>''Bōnèih Gúlòhng Ngàahmngohn''
+|- style="background: #fff"
+| ポニの海岸<br>''Poni Coast''
+| [[Poni Coast]]
+| Côte de Poni
+| Küste von Poni
+| Costa di Poni
+| Costa de Poni
+| 포니해안<br>''Poni Haean''
+| 波尼海岸<br>''Bōní Hǎi'àn''
+| 波尼海岸<br>''Bōnèih Hóingohn''
+|- style="background: #fff"
+| ポニの険路<br>''Perilous Poni Path''
+| [[Poni Gauntlet]]
+| Chemin du Défi
+| Beschwerlicher Pfad
+| Erta di Poni
+| Pendiente de Poni
+| 포니험로<br>''Poni Heomro''
+| 波尼險路 / 波尼险路<br>''Bōní Xiǎnlù''
+| 波尼險路<br>''Bōnèih Hímlouh''
+|- style="background: #fff"
+| ポニの樹林<br>''Poni Grove''
+| [[Poni Grove]]
+| Forêt de Poni
+| Wald von Poni
+| Foresta di Poni
+| Bosque de Poni
+| 포니수림 Poni Surim''
+| 波尼樹林 / 波尼树林 Bōní Shùlín''
+| 波尼樹林 Bōnèih Syuhlàhm''
+|- style="background: #fff"
+| ポニの花園<br>''Poni Flower Garden''
+| [[Poni Meadow]]
+| Jardin de Poni
+| Poni-Blumenmeer
+| Prato Poni
+| Jardines de Poni
+| 포니 화원<br>''Poni Hwawon''
+| 波尼花園 / 波尼花园<br>''Bōní Huāyuán''
+| 波尼花園<br>''Bōnèih Fāyún''
+|- style="background: #fff"
+| ポニの広野<br>''Poni Plains''
+| [[Poni Plains]]
+| Plaine de Poni
+| Ebene von Poni
+| Prateria di Poni
+| Llanura de Poni
+| 포니광야<br>''Poni Gwangya''
+| 波尼曠野 / 波尼旷野<br>''Bōní Kuàngyě''
+| 波尼曠野<br>''Bōnèih Kwongyéh''
+|- style="background: #fff"
+| ポニの原野<br>''Poni Wilderness''
+| [[Poni Wilds]]
+| Prairie de Poni
+| Wildnis von Poni
+| Piana di Poni
+| Prado de Poni
+| 포니들판<br>''Poni Deulpan''
+| 波尼原野<br>''Bōní Yuányě''
+| 波尼原野<br'>'Bōnèih Yùhnyéh''
+|- style="background: #fff"
+| エンドケイブ<br>''End Cave''
+| [[Resolution Cave]]
+| Caverne Coda
+| Finalhöhle
+| Caverna Climax
+| Gruta Desenlace
+| 엔드케이브<br>''End Cave''
+| 終結洞窟 / 终结洞窟<br>''Zhōngjié Dòngkū''
+| 終結洞窟<br>''Jūnggit Duhngfāt''
+|- style="background: #fff"
+| ロイヤルアベニュー<br>''Royal Avenue
+| [[Royal Avenue]]
+| Rue du Dôme Royal
+| Avenue Royale
+| Viale Royale
+| Avenida Royale
+| 로열 애버뉴<br>''Royal Avenue''
+| 皇家大道<br>''Huángjiā Dàdào''
+| 皇家大道<br>''Wòhnggā Daaihdouh''
+|- style="background: #fff"
+| 実りの遺跡<br>''Ruins of Harvest''
+| [[Ruins of Abundance]]
+| Ruines de l'Essor
+| Ruinen des Gedeihens
+| Tempio del Raccolto
+| Ruinas de la Cosecha
+| 결실의 유적<br>''Gyeolsil-ui Yujeok''
+| 豐收遺跡 / 丰收遗迹<br>''Fēngshōu Yíjì''
+| 豐收遺跡<br>''Fūngsāu Wàihjīk''
+|- style="background: #fff"
+| 戦の遺跡<br>''Ruins of Conflict''
+| [[Ruins of Conflict]]
+| Ruines du Conflit
+| Ruinen des Krieges
+| Tempio del Conflitto
+| Ruinas de la Guerra
+| 전쟁의 유적<br>''Jeonjaeng-ui Yujeok''
+| 戰爭遺跡 / 战争遗迹<br>''Zhànzhēng Yíjì''
+| 戰爭遺跡<br>''Jinjāng Wàihjīk''
+|- style="background: #fff"
+| 彼岸の遺跡<br>''Ruins of the Other Side
+| [[Ruins of Hope]]
+| Ruines de l'Au-Delà
+| Ruinen der Heimkehr
+| Tempio del Passaggio
+| Ruinas del Tránsito
+| 피안의 유적<br>''Pi'an-ui Yujeok''
+| 彼岸遺跡 / 彼岸遗迹<br>''Bǐ'àn Yíjì''
+| 彼岸遺跡<br>''Béingohn Wàihjīk''
+|- style="background: #fff"
+| 命の遺跡<br>''Ruins of Life''
+| [[Ruins of Life]]
+| Ruines de l'Éveil
+| Ruinen des Lebens
+| Tempio della Vita
+| Ruinas de la Vida
+| 생명의 유적<br>''Saengmyeong-ui Yujeok''
+| 生命遺跡 / 生命遗迹<br>''Shēngmìng Yíjì'
+| 生命遺跡<br>''Sāngmihng Wàihjīk''
+|- style="background: #fff"
+| 海繋ぎの洞穴<br>''Seaward Cave''
+| [[Seaward Cave]]
+| Grotte Verlamer
+| Meereshöhle
+| Grotta Pratomare
+| Gruta Unemar
+| 바다연결동굴<br>''Badayeongyeol Donggul''
+| 通海洞穴<br>''Tōnghǎi Dòngxuè''
+| 通海洞穴<br>''Tūnghói Duhngyuht''
+|- style="background: #fff"
+| ウラウラ裏海岸<br>'''Ula'ula Secluded Shore''
+| [[Ula'ula Beach|Secluded Shore]]
+| Côte Sauvage
+| Küste von Ula-Ula
+| Lido di Ula Ula
+| Playa Menor
+| 울라울라 뒤쪽 해안<br>''Ullaulla Dwijjok Hae-an''
+| 烏拉烏拉後海岸 / 乌拉乌拉后海岸<br>''Wūlāwūlā Hòuhǎi'àn''
+| 烏拉烏拉後海岸<br>''Wūlāwūlā Hauhhóingohn''
+|- style="background: #fff"
+| いかがわしき屋敷<br>''Suspicious Mansion''
+| [[Shady House]]
+| Manoir Chelou
+| Lottervilla
+| Villa Losca
+| Mansión Misteriosa
+| 수상한 저택<br>''Susanghan Jeotaek''
+| 可疑宅邸<br>''Kěyí Zháidǐ''
+| 可疑宅邸<br>''Hóyìh Jaahkdái''
+|- style="background: #fff"
+| テンカラットヒル<br>''Ten Carat Hill''
+| [[Ten Carat Hill]]
+| Colline Dicarat
+| Tenkarat-Hügel
+| Collina Diecicarati
+| Colina Dequilate
+| 텐캐럿힐<br>''Ten Carat Hill''
+| 十克拉山丘<br>''Shí Kèlā Shānqiū''
+| 十克拉山丘<br>''Sahp Hāaklāai Sāanyāu''
+|- style="background: #fff"
+| スーパー・メガやす　跡地<br>''Supermarket Megacheap (Abandoned Site)''
+| [[Thrifty Megamart (Abandoned Site)]]
+| Site désaffecté Bradley Prix
+| Verlassener Schnäppchenparadies
+| Supermarket Affaroni (Edificio Abbandonato)
+| Súper Ultraganga abandonado
+| 슈퍼・메가싸네 철거지<br>''Super Megassane Cheolgeoji''
+| 超值超市舊址 / 超值超市旧址<br>''Chāozhí Chāoshì Jiùzhǐ''
+| 超值超市舊址<br>''Chīujihk Chīusíh Gauhjí''
+|- style="background: #fff"
+| ウラウラの花園<br>'''Ula'ula Flower Garden''
+| [[Ula'ula Meadow]]
+| Jardin d'Ula-Ula
+| Ula-Ula-Blumenmeer
+| Prato Ula Ula
+| Jardines de Ula-Ula
+| 울라울라 화원<br>''Ullaulla Hwawon''
+| 烏拉烏拉花園 / 乌拉乌拉花园<br>''Wūlāwūlā Huāyuán''
+| 烏拉烏拉花園<br>''Wūlāwūlā Fāyún''
+|- style="background: #fff"
+| ポニの大峡谷<br>''Great Canyon of Poni
+| [[Vast Poni Canyon]]
+| Grand Canyon de Poni
+| Canyon von Poni
+| Canyon di Poni
+| Cañón de Poni
+| 포니대협곡<br>''Poni Daehyeopgok''
+| 波尼大峡谷<br>''Bōní Dàxiágǔ''
+| 波尼大峽谷<br>''Bōnèih Daaihhaahpgūk''
+|- style="background: #fff"
+| 茂みの洞窟<br>''Verdant Cavern''
+| [[Verdant Cavern]]
+| Grotte Verdoyante
+| Vegetationshöhle
+| Grotta Sottobosco
+| Cueva Sotobosque
+| 우거진 동굴<br>''Ugeojin Donggul''
+| 蔥鬱洞窟 / 蔥郁洞窟<br>''Cōngyù Dòngkū''
+| 蔥鬱洞窟<br>''Chūngwāt Duhngfāt''
+|- style="background: #fff"
+| ヴェラ火山公園<br>''Vela Volcano Park''
+| [[Wela Volcano Park]]
+| Parc Volcanique
+| Wela-Vulkanpark
+| Parco Vulcano Wela
+| Área Volcánica Wela
+| 벨라화산공원<br>''Bella Hwasan Gongwon''
+| 維拉火山公園 / 维拉火山公园<br>''Wéilā Huǒshān Gōngyuán''
+| 維拉火山公園<br>''Wàihlāai Fósāan Gūngyùhn''
+|}
+
+===Sevii Islands===
+{| class="expandable sortable roundy" style="margin:auto; width:auto; text-align:center; background: #{{Sevii color light}}; border: 3px solid #{{Sevii color dark}};"
+|- 
+! Japanese
+! English
+! French
+! German
+! Italian
+! Spanish
+! Korean 
+! Chinese<br>(Mandarin)
+! Chinese<br>(Cantonese)
+|- style="background: #fff"
+| 変化の洞窟<br>''Henge no Dōkutsu''
+| [[Altering Cave]]
+| Grotte Métamo
+| Wandelhöhle
+| Grotta Mutevole
+| Cueva Cambiante
+| 요괴의 굴<br>''Yogoe-yi Gul''
+| 變化洞窟<br>''Biànhuà Dòngkū''
+| 變化的洞窟
+|- style="background: #fff"
+| 木の実の森<br>''Kinomi no Mori''
+| [[Berry Forest]]
+| Bois Baies
+| Beerenforst
+| Bosco Baccoso
+| Bosque Baya
+| 열매 숲<br>''Yeolmae Sup''
+| 果實森林<br>''Guǒshí Sēnlín''
+| 果實森林
+|- style="background: #fff"
+| 誕生の島<br>''Tanjō no Shima''
+| [[Birth Island]]
+| Ile Aurore
+| Entstehungsinsel
+| Isola Materna
+| Isla Origen
+| 탄생의 섬<br>''Tansaeng-yi Seom''
+| 誕生之島<br>''Dànshēng-zhī Dǎo''
+| 誕生之島
+|- style="background: #fff"
+| 絆橋<br>''Kizuna Bashi''
+| [[Bond Bridge]]
+| Pont du Lien
+| Bundbrücke
+| Ponte Abbraccio
+| Puente Unión
+| 
+| 索桥
+|
+|- style="background: #fff"
+| 渓谷入口<br>''Keikoku Iriguchi''
+| [[Canyon Entrance]]
+| Entreé Canyon
+| Schluchteingang
+| Ingresso Canyon
+| Entrada al Cañón
+|
+|
+|
+|- style="background: #fff"
+| 際の岬<br>''Kiwa no Misaki''
+| [[Cape Brink]]
+| Cap Falaise
+| Kap Kante
+| Capo Estremo
+| Cabo Extremo
+| 
+| 歧波海湾 ''Qíbō Hǎiwān''<br>邊緣之岬 ''Biānyuán-zhī Jiǎ''
+| 邊緣之岬
+|- style="background: #fff"
+| 点の穴<br>''Ten no Ana''
+| [[Dotted Hole]]
+| Trou Percé
+| Punktloch
+| Cripta dei Punti
+| Cueva Punteada
+|
+|
+|
+|- style="background: #fff"
+| ５の島　空き地<br>''5-no Shima Akichi''
+| [[Five Isle Meadow]]
+| Pre de L'Ile 5
+| Eiland 5-Weide
+| Prato Quintisola
+| Prado Isla Inta
+|
+|
+|
+|- style="background: #fff"
+| 緑の散歩道<br>''Midori no Sampomichi''
+| [[Green Path]]
+| Chemin Vert
+| Grüner Pfad
+| Via Verde
+| Vía Verde
+|
+|
+|
+|- style="background: #fff"
+| 凍て滝の洞窟<br>''Itedaki no Dōkutsu''
+| [[Icefall Cave]]
+| Grotte de Glace
+| Eiskaskadenhöhle
+| Grotta Gelata
+| Cueva Glaciada
+| 얼음폭포의 동굴<br>''Eoleum Pokpo-yi Donggul''
+| 冰凍瀑布洞窟{{tt|*|冻瀑洞窟 (Dòngpù Dòngkū) in mainland China}}<br>''Bīngdòng Pùbù Dòngkū''
+| 冰凍瀑布洞窟
+|- style="background: #fff"
+| 火照りの道<br>''Hoteri no Michi''
+| [[Kindle Road]]
+| Route Tison
+| Glühweg
+| Via Vulcanica
+| Camino Candente
+| 저녁노을길<br>''Jeonyeokno'eul Gil''
+| 發熱之路{{tt|*|火照山道 (Huǒzhào Shāndào) in mainland China}}<br>''Fārè-zhī Lù''
+| 發熱之路
+|- style="background: #fff"
+| 変えらずの穴<br>''Kaerazu no Ana''
+| [[Lost Cave]]
+| Grotte Perdue
+| Verlorene Höhle
+| Grotta Sperduta
+| Cueva Perdida
+|
+|
+|
+|- style="background: #fff"
+| 思い出の塔<br>''Omoide no Tō''
+| [[Memorial Pillar]]
+| Memorial
+| Gedenksäule
+| Colonna Rocciosa
+| Pilar Recuerdo
+| 추억의 탑<br>''Chueok-yi Tap''
+| 回憶之塔<br>''Huíyì zhī Tǎ''
+| 回憶之塔
+|- style="background: #fff"
+| 灯山<br>''Tomoshibi Yama''
+| [[Mt. Ember]]
+| Mont Braise
+| Glutberg
+| Monte Brace
+| Monte Ascuas
+| 횃불산<br>''Hwaetbul San''
+| 燈火山<br>''Dēnghuǒ Shān''
+|
+|- style="background: #fff"
+| 臍の岩<br>''Heso no Iwa''
+| [[Navel Rock]]
+| Roc Nombri
+| Nabelfels
+| Monte Cordone
+| Roca Ombligo
+|
+|
+|
+|- style="background: #fff"
+| 外れの島<br>''Hazure no Shima''
+| [[Outcast Island]]
+| Ile du Lointain
+| Fern-Eiland
+| Isola Solitaria
+| Isla Aislada
+|
+|
+|
+|- style="background: #fff"
+| 印の林<br>''Shirushi no Hayashi''
+| [[Pattern Bush]]
+| Forbuissons
+| Musterbuschwald
+| Bosco Disegnato
+| Bosquejo
+| 증표의 숲<br>''Jeungpyo-yi Sup''
+| 徵兆之林{{tt|*|记号树林 (Jìhào Shùlín) in mainland China}}<br>''Zhēngzhào-zhī Lín''
+|
+|- style="background: #fff"
+| ゴージャスリゾート<br>''Gorgeous Resort''
+| [[Resort Gorgeous]]
+| Camp de Vacances
+| Ferienparadies
+| Perla dei Mari
+| Lugar de Recreo
+| 호화리조트<br>''Hohwa Resort''
+| 高級度假中心{{tt|*|高级度假村 (Gāojí Dùjiàcūn) in mainland China}}<br>''Gāojí Dùjià Zhōngxīn''
+| 高級度假區
+|- style="background: #fff"
+| ロケット団倉庫<br>''Rocket-dan Sōko''
+| [[Rocket Warehouse]]
+| Entrepot
+| Rocket-Lager
+| Magazzino Rocket
+| Almacén Rocket
+| 로켓단 창고<br>''Rocket-dan Changgo''
+|
+|
+|- style="background: #fff"
+| 遺跡の谷<br>''Iseki no Tani''
+| [[Ruin Valley]]
+| Vallee Ruine
+| Ruinental
+| Valle Antica
+| Valle Ruinas
+| 유적의 골짜기<br>''Yujeok-yi Goljjagi''
+| 遺跡之谷{{tt|*|遗迹山谷 (Yíjī Shāngǔ) in mainland China}}<br>''Yíjī-zhī Gǔ''
+| 遺跡之谷
+|- style="background: #fff"
+| 七宝渓谷<br>''Shippō Keikoku''
+| [[Sevault Canyon]]
+| Canyon Sesor
+| 7-Schatzschlucht
+| Canyon Seption
+| Cañón Sétano
+|
+|
+|
+|- style="background: #fff"
+| アスカナ遺跡<br>''Asukana Iseki''
+| [[Tanoby Ruins]]
+| Ruines Tanoby
+| Tanibo-Ruinen
+| Rovine Florabeto
+| Ruinas Sete
+| <!--옥포그리 유적<br>''Okpogeuri Yujeok-->
+| <!--阿斯卡拿遺跡{{tt|*|阿斯卡纳遗迹 (Āsīkǎnà Yíjì) in mainland China}}<br>''Āsīkǎná Yíjī''-->
+|
+|- style="background: #fff"
+| アスカナの鍵<br>''Asukana no Kagi''
+| [[Tanoby Key]]
+| Cle Tanoby
+| Tanibo-Schlüssel
+| Chiave Florabeto 
+| Llave Sete
+| 옥포그리 열쇠<br>''Okpogeuri Yeolsoe''
+| 阿斯卡拿之鎖{{tt|*|阿斯卡纳的锁 (Āsīkǎnà-de Suǒ) in mainland China}}<br>''Āsīkǎná-zhī Suǒ''
+|
+|- style="background: #fff"
+| 宝の浜<br>''Takara no Hama''
+| [[Treasure Beach]]
+| Plage Tresor
+| Schatzgestade
+| Riva del Tesoro
+| Playa Tesoro
+|
+|
+|
+|- style="background: #fff"
+| トレーナータワー<br>''Trainer Tower''
+| [[Trainer Tower]]
+| Tour Dresseurs
+| Trainerturm
+| Torre Allenatori
+| Torre Desafío
+| 트레이너 타워<br>''Trainer Tower''
+| 训练家之塔{{tt|*|训练师之塔 (Xùnliànshī Zhītǎ) in mainland China}}<br>''Xùnliànjiā Zhītǎ''
+| 寵物小精靈訓練員塔
+|- style="background: #fff"
+| 水の迷路<br>''Mizu no Meiro''
+| [[Water Labyrinth]]
+| Labyrinthe D'O
+| Wasserirrgarten
+| Labirinto Marino
+| Aquarinto
+|
+|
+|
+|- style="background: #fff"
+| 水の散歩道<br>''Mizu no Sampomichi''
+| [[Water Path]]
+| Agualcanal
+| Wasserweg
+| Via Marina
+| Vía Acuática
+|
+|
+|
+|}
+
+===Orre===
+{| class="expandable sortable roundy" style="margin:auto; width:auto; text-align:center; background: #{{colorschemelight|Orre}}; border: 3px solid #{{colorschemedark|Orre}};"
+|- 
+! Japanese
+! English
+! French
+! German
+! Italian
+! Spanish
+|- style="background: #fff"
+| バトル山<br>''Battle Yama''
+| [[Mt. Battle]]
+| Mont Bataille
+| Duellberg
+| Monte Lotta
+| Monte Batalla
+|- style="background: #fff"
+| ラガルタワー<br>''Lagar Tower''
+| [[Realgam Tower]]
+| Tour Titanite
+| Larghaturm
+| Arena Colossale
+| Torre Colosal
+|}
+
+===Fiore===
+{| class="expandable sortable roundy" style="margin:auto; width:auto; text-align:center; background: #{{colorschemelight|Fiore}}; border: 3px solid #{{colorschemedark|Fiore}};"
+|- 
+! Japanese
+! English
+! French
+! German
+! Italian
+! Spanish
+|- style="background: #fff"
+| ヨナベこうじょう<br>''Yonabe Kōjō''
+| [[Dusk Factory]]
+| Usine Nocturne
+| Dunkle Fabrik
+| Fabbrica Tenebre
+| Fábrica Turnoche
+|- style="background: #fff"
+| イーストロード<br>''East Road''
+| [[East Road]]
+| Route de l'Est
+| Oststraße
+| Strada est
+| Ruta este
+|- style="background: #fff"
+| フィオレしんでん<br>''Fiore Shinden''
+| [[Fiore Temple]]
+| Temple de Fiore
+| Tempel von Fiore 
+| Tempio di Fiore
+| Templo de Floresta
+|- style="background: #fff"
+| ゴーゴーだんアジト<br>''Go-Go Dan Ajito''
+| [[Go-Rock Squad Base]]
+| Base Go-Rock
+| Power-Rock-Basis
+| Base del Team Rock
+| Guarida Go-Rock
+|- style="background: #fff"
+| ジャングルのいせき<br>''Jungle no Iseki''
+| [[Jungle Relic]]
+| Ruine Olive
+| Dschungel-Relikt
+| Ruderi
+| Reliquia Selva
+|- style="background: #fff"
+| キサラそうげん<br>''Kisara Sōgen''
+| [[Kisara Plains]]
+| Plaine Aurore
+| Ebene von Kisara
+| Piana Rigoglio
+| Llanura Viridis
+|- style="background: #fff"
+| クロッカトンネル<br>''Crocca Tunnel''
+| [[Krokka Tunnel]]
+| Tunnel Rokka
+| Krokka-Tunnel
+| Tunnel Borgunnia
+| Túnel Rocoso
+|- style="background: #fff"
+| ライラのもり<br>''Lila no Mori''
+| [[Lyra Forest]]
+| Forêt Lilas
+| Fliederwald
+| Selva Serenella
+| Bosque Lila
+|- style="background: #fff"
+| ノースロード<br>''North Road''
+| [[North Road]]
+| Route du Nord
+| Nordstraße
+| Strada nord
+| Ruta norte
+|- style="background: #fff"
+| オリブジャングル<br>''Olive Jungle''
+| [[Olive Jungle]]
+| Jungle Olive
+| Olivendschungel
+| Giungla Ulivo
+| Selva Oliva
+|- style="background: #fff"
+| パヌラのどうくつ<br>''Panula Dōkutsu''
+| [[Panula Cave]]
+| Grotte Glaçon 
+| Panula-Höhle
+| Grotta Gelo
+| Cueva Helada
+|- style="background: #fff"
+| サフラのうみ<br>''Safra no Umi''
+| [[Safra Sea]]
+| Mer Safran
+| Safra-Meer
+| Mar di Safra
+| Mar Zafrán
+|- style="background: #fff"
+| サフラのかいてい<br>''Safra no Kaitei''
+| [[Safra Sea]]floor
+| Abysses Safran
+| Safra-Tiefsee
+| Fondale di Safra
+| Fondo Mar Zafrán
+|- style="background: #fff"
+| シクラさんみゃく<br>''Cycla Sanmyaku''
+| [[Sekra Range]]
+| Chaîne Boréale
+| Sekra-Bergkette
+| Catena di Sekra
+| Sierra Oscura
+|- style="background: #fff"
+| ちかすいどう<br>''Chikasuidō''
+| [[Waterworks]]
+| Aqueducs
+| Wasserwerk
+| Acquedotto
+| Red de aguas
+|}
+
+===Almia===
+{| class="expandable sortable roundy" style="margin:auto; width:auto; text-align:center; background: #{{colorschemelight|Almia}}; border: 3px solid #{{colorschemedark|Almia}};"
+|- 
+! Japanese
+! English
+! French
+! German
+! Italian
+! Spanish
+|- style="background: #fff"
+| アルミアのおしろ<br>''Almia no Oshiro''
+| [[Almia Castle]]
+| Château d'Almia
+| Schloss Almia
+| Castello di Almia
+| Castillo de Almia
+|- style="background: #fff"
+| アンヘルビル<br>''Ángel Biru''
+| [[Altru Building]]
+| Bâtiment Loyau
+| Altru-Gebäude
+| Palazzo Altru
+| Edificio Altru
+|- style="background: #fff"
+| アンヘルパーク<br>''Ángel Park''
+| [[Altru Park]]
+| Parc Loyau
+| Altru-Park
+| Giardini Altru
+| Parque Altru
+|- style="background: #fff"
+| アンヘルタワー<br>''Ángel Tower''
+| [[Altru Tower]]
+| Tour Loyau
+| Altru-Turm
+| Torre Altru
+| Torre Altru
+|- style="background: #fff"
+| キャプチャ・アリーナ<br>''Capture Arena''
+| [[Capture Arena]]
+| Stade de Capture
+| Fang-Arena
+| Arena dei Ranger
+| Arena de Captura
+|- style="background: #fff"
+| かもつせん<br>''Kamotsusen''
+| [[Cargo Ship]]
+| Cargo
+| Frachtschiff
+| Nave cargo
+| Carguero
+|- style="background: #fff"
+| チコレのこみち<br>''Chikore no Komichi''
+| [[Chicole Path]]
+| Sentier Chicore
+| Schikolingen-Pfad
+| Sentiero Cicole
+| Sendero de Chicole
+|- style="background: #fff"
+| ヌリエこうげん<br>''Nurie Kōgen''
+| [[Chroma Highlands]]
+| Hauteurs de Chroma
+| Chroma-Hochland
+| Altopiano Cromano
+| Sierra Croma
+|- style="background: #fff"
+| ヌリエかいどう<br>''Nurie Kaidō''
+| [[Chroma Road]]
+| Route de Chroma
+| Chroma-Straße
+| Strada Cromana
+| Camino de Croma
+|- style="background: #fff"
+| ヌリエのいせき<br>''Nurie no Iseki''
+| [[Chroma Ruins]]
+| Ruines de Chroma
+| Chroma-Ruinen
+| Rovine Cromane
+| Ruinas Croma
+|- style="background: #fff"
+| クリスタどうくつ<br>''Crysta Dōkutsu''
+| [[Crysta Cave]]
+| Grotte Stalagmite
+| Stalagmitenhöhle
+| Grotta Stalagmite
+| Cueva Estalagmita
+|- style="background: #fff"
+| ハルバさばく<br>''Haruba Sabaku''
+| [[Haruba Desert]]
+| Désert Alorize
+| Haruba-Wüste
+| Deserto Haruba
+| Desierto Haruba
+|- style="background: #fff"
+| ヒアバレー<br>''Hia Valley''
+| [[Hia Valley]]
+| Vallée Sakaï
+| Schlottertal
+| Valle di Crio
+| Valle Frío
+|- style="background: #fff"
+| カバルドンしんでん<br>''Kabaldon Shinden''
+| [[Hippowdon Temple]]
+| Temple Hippodocus
+| Hippoterus-Tempel
+| Tempio di Hippowdon
+| Templo Hippowdon
+|- style="background: #fff"
+| こおりのみずうみ<br>''Koori no Mizuumi''
+| [[Ice Lake]]
+| Lac des Glaces
+| Eissee
+| Lago Ghiacciato
+| Lago Hielo
+|- style="background: #fff"
+| うみのどうくつ<br>''Umi no Dōkutsu''
+| [[Marine Cave]]
+| Grotte Marine
+| Ozeanhöhle
+| Grotta Marina
+| Cueva Marina
+|- style="background: #fff"
+| こうろ<br>''Kōro''
+| [[Water route|Ocean Route]]
+| Voie Maritime
+| Seeroute
+| Rotta oceanica
+| Ruta Oceánica
+|- style="background: #fff"
+| ナビキビーチ<br>''Nabiki Beach''
+| {{DL|Vientown|Nabiki Beach}}
+| Plage du Vent Salé
+| Zephyr-Strand
+| Spiaggia Zefira
+| Playa Céfiro
+|- style="background: #fff"
+| プエルおき<br>''Puer Oki''
+| [[Puel Sea]]
+| Mer de Bonport
+| Have-Meer
+| Mar di Portena
+| Mar de Porto
+|- style="background: #fff"
+| レンジャースクール<br>''Ranger School''
+| [[Ranger School]]
+| École des Rangers
+| Ranger-Schule
+| Accademia dei Ranger
+| Escuela Ranger
+|- style="background: #fff"
+| レンジャーユニオン<br>''Ranger Union''
+| [[Ranger Union]]
+| Fédération Ranger
+| Ranger-Vereinigung
+| Federazione Ranger
+| Unión Ranger
+|- style="background: #fff"
+| スクールのみち<br>''School no Michi''
+| [[School Road]]
+| Chemin de l'École
+| Schulstraße
+| Strada dell'Accademia
+| Camino de la escuela
+|- style="background: #fff"
+| ホエルオーのうみ<br>''Hoeruo no Umi''
+| [[Sea of Wailord]]
+| Mer de Wailord
+| Meer des Wailord
+| Mare di Wailord
+| Mar de Wailord
+|- style="background: #fff"
+| かいていゆでんアジト<br>''Kaitei Yuden Ajito''
+| [[Oil Field Hideout]]
+| Planque du Forage
+| Ölfeldversteck 
+| Piattaforma Segreta
+| Guarida Petrolífera
+|- style="background: #fff"
+| イノチがけ<br>''Inochi Gake''
+| [[Peril Cliffs]]
+| A-pics Casscou
+| Wagnisklippen
+| Alture Vertigine
+| Barranco Peligro
+|- style="background: #fff"
+| ユニオンかいどう<br>''Union Kaidō''
+| [[Union Road]]
+| Voie de la Fédération
+| Vereinigungsweg
+| Strada Federale
+| Camino de la Unión
+|- style="background: #fff"
+| ビエンのもり<br>''Vien no Mori''
+| [[Vien Forest]]
+| Forêt de Véter
+| Briseforst
+| Foresta di Vien
+| Bosque Vento
+|- style="background: #fff"
+| かざんのどうくつ<br>''Kazan no Dōkutsu''
+| [[Volcano Cave]]
+| Grotte Volcanique
+| Vulkanhöhle
+| Grotta Vulcanica
+| Cueva Volcán
+|}
+
+===Oblivia===
+{| class="expandable sortable roundy" style="margin:auto; width:auto; text-align:center; background: #{{GS color light}}; border: 3px solid #{{GS color dark}};"
+|- 
+! Japanese
+! English
+! French
+! German
+! Italian
+! Spanish
+|- style="background: #fff"
+| ドロップじま<br>''Drop Jima''
+| [[Dolce Island]]
+| Île Dolce
+| Isla Dolcevi
+| Dolcegoccia
+| Isla Dolzor
+|- style="background: #fff"
+| レインボじま<br>''Rainbo Jima''
+| [[Renbow Island]]
+| Île Ré-en-ciel
+| Isla Remboga
+| Regiobaleno
+| Isla Reíris
+|- style="background: #fff"
+| ミロンダじま<br>''Mironda Jima''
+| [[Mitonga Island]]
+| Île Mironda
+| Isla Milonda
+| Mironda 
+| Isla Mironda
+|- style="background: #fff"
+| ファルデラじま<br>''Faldera Jima''
+| [[Faldera Island]]
+| Île Faldeira
+| Isla Fayadeira
+| Fabulonia
+| Isla Fascuas
+|- style="background: #fff"
+| ファルデラかざん<br>''Faldera Kazan''
+| [[Faldera Island|Faldera Volcano]]
+| Volcan Faldeira
+| Fayadeira-Vulkan
+| Vulcano Fabulonia
+| Volcán Fascuas
+|- style="background: #fff"
+| ソピアナじま<br>''Sopiana Jima''
+| [[Sophian Island]]
+| Île Solphiana
+| Isla Sophita
+| Solfonia
+| Isla Solfía
+|- style="background: #fff"
+| ライウンじま<br>''Laiun Jima''
+| [[Layuda Island]]
+| Île Latempête
+| Isla Latonera
+| Lampinia 
+| Isla Lámpagos
+|- style="background: #fff"
+| ライウンやま<br>''Laiun Yama''
+| [[Layuda Island|Mt. Layuda]]
+| Mont Latempête
+| Monte Latonera
+| Monte Lampinia 
+| Monte Lámpagos
+|- style="background: #fff"
+| シクレレじま<br>''Shikulele Jima''
+| [[Tilikule Island]]
+| Île Sikulélé
+| Isla Tikulela
+| Sikulele
+| Isla Sikulele
+|- style="background: #fff"
+| シクレレのせきひ<br>''Shikulele no Sekihi''
+| [[Tilikule Island|Tilikule Monument]]
+| Stèle de Sikulélé
+| Tikulela-Tafel
+| Stele di Sikulele
+| Monolito Sikulele
+|- style="background: #fff"
+| じょうくう<br>''Jōkū''
+| In the {{ra|Sky}}
+| Dans les airs
+| Luftraum
+| Spazio aereo
+| Espacio aéreo
+|- style="background: #fff"
+| チークのもり<br>''Chīku no Mori''
+| [[Teakwood Forest]]
+| Forêt de tecks
+| Teakholzbusch
+| Bosco di tek
+| Boque de Teca
+|- style="background: #fff"
+| ヤスリどうくつ<br>''Yasuri Dōkutsu''
+| [[Rasp Cavern]]
+| Grotte Sarape
+| Feilblatthöhle
+| Grotta Lima
+| Cueva Rasposa
+|- style="background: #fff"
+| ラプラスビーチ<br>''Laplace Beach''
+| [[Lapras Beach]]
+| Plage Lokhlass
+| Lapras-Strand
+| Spiaggia Lapras
+| Playa de Lapras
+|- style="background: #fff"
+| サンゴのうみ<br>''Sango no Umi''
+| [[Coral Sea]]
+| Mer de corail
+| Korallenmeer
+| Mare Corallo
+| Mar de Coral
+|- style="background: #fff"
+| クルリのいりえ<br>''Kururi no Irie''
+| [[Curl Bay]]
+| Baie en arc
+| Krümmbucht
+| Baia Arco
+| Bahía Rizada
+|- style="background: #fff"
+| タルガのいえ<br>''Talga no Ie''
+| [[Rand's House]]
+| Maison de Targos
+| Talugas Haus
+| Casa de Raimondo
+| Casa de Rodel
+|- style="background: #fff"
+| ラトラトやま<br>''Latolato Yama''
+| [[Mt. Latolato]]
+| Mont Ratorato
+| Monte Latolato
+| Monte Latra
+| Monte Latolato
+|- style="background: #fff"
+| ラトラトさんどう<br>''Latolato Sandō''
+| [[Latolato Trail]]
+| Chemin Ratorato
+| Latalato-Pfad
+| Passo Latra
+| Camino Latolato
+|- style="background: #fff"
+| むせんきち<br>''Musenkichi''
+| [[Wireless Tower]]
+| Station radio
+| Funkturm
+| Base radio
+| Estación de radio
+|- style="background: #fff"
+| ドンツキみさき<br>''Dontsuki Misaki''
+| [[Hinder Cape]]
+| Cap de l'Aiguille
+| Kap Dorn
+| Capo Tam Tam
+| Cabo Afilado
+|- style="background: #fff"
+| ブッカーおおはし<br>''Booker Ōhashi''
+| {{DL|Renbow Island|Big Booker Bridge}}
+| Pont Booker
+| Bukka-Brücke
+| Ponte Otello
+| Puente de Buck
+|- style="background: #fff"
+| ミロンダかいどう<br>''Milonda Kaidō''
+| [[Mitonga Road]]
+| Route Mironda
+| Milonda-Landweg
+| Via di Mironda
+| Vía Mironda
+|- style="background: #fff"
+| サマヨイのもり<br>''Samayoi no Mori''
+| [[Noir Forest]]
+| Forêt Téranox
+| Zwirrwälder
+| Bosco Ramingo
+| Bosque Oscunoir
+|- style="background: #fff"
+| ふるいやしき<br>''Furui Yashiki''
+| [[Old Mansion]]
+| Vieux manoir
+| Altes Anwesen
+| Antico maniero
+| Vieja mansión
+|- style="background: #fff"
+| アサヒのいせき<br>''Asahi no Iseki''
+| [[Daybreak Ruins]]
+| Ruines de l'aube
+| Dämmerruine
+| Rovine d'alba
+| Ruinas del Albas
+|- style="background: #fff"
+| キケンながけ<br>''Kikenna Gake''
+| [[Dangerous Cliff]]
+| Falaise Danger
+| Riskantes Kliff
+| Rupe pericolosa
+| Acantilado Temor
+|- style="background: #fff"
+| せんすいかん<br>''Sensuikan''
+| {{ra|Submarine}}
+| Submersible
+| Unterseeboot
+| Sottomarino
+| Submarino
+|- style="background: #fff"
+| ソピアナかいどう<br>''Sopiana Kaidō''
+| [[Sophian Road]]
+| Route Solphiana
+| Sophita-Landweg
+| Sentiero Solfonia
+| Vía Solfía
+|- style="background: #fff"
+| 力ナルのいせき<br>''Canal no Iseki''
+| [[Canal Ruins]]
+| Ruines du canal
+| Altes Aquädukt
+| Rovine del canale
+| Ruinas del Canal
+|- style="background: #fff"
+| シルバーフォール<br>''Silver Falls''
+| [[Silver Falls]]
+| Chutes Argencienne
+| Silberfälle
+| Cascate Argento
+| Cascada de Plata
+|- style="background: #fff"
+| ソルベラスやま<br>''Solbelas Yama''
+| [[Mt. Sorbet]]
+| Mont Sorberus
+| Monte Sorbeto
+| Monte Sorbetto
+| Monte Sorbete
+|- style="background: #fff"
+| オブリビアいせき<br>''Oblivia Iseki''
+| [[Oblivia Ruins]]
+| Vestiges d'Oblivia
+| Oblivia-Ruinen
+| Rovine di Oblivia
+| Ruinas de Oblivia
+|- style="background: #fff"
+| ひがしのうみ<br>''Higashi no Umi''
+| [[Eastern Sea]]
+| Mer orientale
+| Östliche See
+| Mare Orientale
+| Mar del Este
+|- style="background: #fff"
+| かいていどうくつ<br>''Kaitei Dōkutsu''
+| {{DL|Eastern Sea|Undersea Cavern}}
+| Grotte submergée
+| Unterseehöhle
+| Grotta marina
+| Gruta submarina
+|- style="background: #fff"
+| にしのうみ<br>''Nishi no Umi''
+| [[Western Sea]]
+| Mer occidentale
+| Westliche See
+| Mare Occidentale
+| Mar del Oeste
+|- style="background: #fff"
+| にじのさいだん<br>''Niji no Saidan''
+| [[Rainbow Dais]]
+| Autel arc-en-ciel
+| Regenbogenaltar
+| Ara arcobaleno
+| Estrado arcoíris
+|- style="background: #fff"
+| くうちゅうようさい<br>''Kūchū Yōsai''
+| [[Sky Fortress]]
+| Forteresse Volante
+| Himmelsfestung
+| Roccaforte
+| Fuerte Flotante
+|}
+
+==See also==
+* [[List of Abilities in other languages]]
+* [[List of characters in other languages]]
+* [[List of items in other languages]]
+* [[List of moves in other languages]]
+* [[Nature#Specific Natures|List of Natures in other languages]]
+* [[List of categories in other languages]]
+
+{{-}}
+{{Project Locations notice}}
+
+[[Category:Lists]]
+[[Category:Pages in other languages]]
+
+[[it:Elenco dei luoghi in altre lingue]]
+[[ja:ダンジョンの外国語名一覧]]

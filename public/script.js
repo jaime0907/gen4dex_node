@@ -1,71 +1,6 @@
 
 var franjahoraria = 0;
 
-function getHora(){
-	var d = new Date();
-	var d2 = new Date();
-	var h = d.getHours();
-	var ht = '';
-	if(h >= 4 && h < 10){
-		ht = 'Morning';
-		franjahoraria = 0;
-		d2.setHours(10);
-		d2.setMinutes(0);
-		d2.setSeconds(0);
-	}else if(h >= 10 && h < 20){
-		ht = 'Day';
-		franjahoraria = 1;
-		d2.setHours(20);
-		d2.setMinutes(0);
-		d2.setSeconds(0);
-	}else{
-		ht = 'Night';
-		franjahoraria = 2;
-		if(h > 5){
-			d2.setDate(d2.getDate() + 1);
-		}
-		d2.setHours(4);
-		d2.setMinutes(0);
-		d2.setSeconds(0);
-	}
-	var hours = (d2-d)/1000/60/60;
-	var min = (hours - Math.floor(hours)) * 60;
-	var hourst = Math.floor(hours);
-	var mint = Math.floor(min);
-
-	var plural = 1;
-	var remain = '';
-	if(hourst == 1)
-	{
-		remain += hourst + ' hour';
-		plural = 0;
-	}else if(hourst != 0)
-	{
-		remain += hourst + ' hours';
-		plural = 1;
-	}
-
-	if(hourst != 0) remain += ' and ';
-	if(mint == 1)
-	{
-		remain += mint + ' minute';
-		plural = 0;
-	}else if(mint != 0)
-	{
-		remain += mint + ' minutes';
-		plural = 1;
-	}
-	remain += ' until ';
-	if(ht == "Morning"){
-		remain += 'Day';
-	}else if(ht == "Day"){
-		remain += 'Night';
-	}else{
-		remain += 'Morning';
-	}
-	remain += ')';
-	document.getElementById("timediv").innerHTML = 'Current time: ' + FormatNumberLength(d.getHours(), 2) + ':' + FormatNumberLength(d.getMinutes(), 2) + ' ('+ ht + ', ' + remain;
-}
 
 function catchPoke(dex){
 	var xhr = new XMLHttpRequest();
@@ -127,7 +62,13 @@ function addRowPoke(poke, lastpoke){
 	name.onclick = function(){catchPoke(poke.dex)};
 
 	var place = row.insertCell(2);
-	place.innerHTML = poke.place;
+	var lang = document.getElementById("hiddenlang").innerHTML;
+	if(lang == "es"){
+		place.innerHTML = poke.place_esp;
+	}else{
+		place.innerHTML = poke.place;
+	}
+	
 	
 
 	var game = row.insertCell(3);
@@ -349,6 +290,21 @@ function getPoke(){
 
 
 function startScripts(){
+	var selector = document.getElementById("groupselector").value;
+	if(selector == 1){
+		mostProbable();
+	}else{
+		allLocations();
+	}
+	var limit = document.getElementById("limit").value;
+	if(limit == 10){
+		limit10();
+	}else if(limit == 100){
+		limit100();
+	}else{
+		limit50();
+	}
+
 	var xhr = new XMLHttpRequest();
 	xhr.onload = function(){
 		var data = JSON.parse(xhr.responseText); // Returned data, e.g., an HTML document.

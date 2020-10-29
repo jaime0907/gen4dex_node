@@ -5,8 +5,8 @@
 			<button class="dropbtn menubar_bot" id="locationbot" onclick="dropdownSelector()">Show Location
 			</button>
 			<div class="dropdown-content" id="myDropdown">
-				<a href="#" onclick="allLocations()">Show all locations</a>
-				<a href="#" onclick="mostProbable()">Show only most probable</a>
+				<a href="#" onclick="allLocations()">{{ l.all_locations }}</a>
+				<a href="#" onclick="mostProbable()">{{ l.most_probable }}</a>
 			</div>
 		</div>
 
@@ -14,14 +14,14 @@
 			<button class="dropbtn menubar_bot" id="numbot" onclick="dropdownNum()">Nº Results
 			</button>
 			<div class="dropdown-content" id="myDropdownNum">
-				<a href="#" onclick="limit10()">Show 10 results</a>
-				<a href="#" onclick="limit50()">Show 50 results</a>
-				<a href="#" onclick="limit100()">Show 100 results</a>
+				<a href="#" onclick="limit10()">{{ l.results10 }}</a>
+				<a href="#" onclick="limit50()">{{ l.results50 }}</a>
+				<a href="#" onclick="limit100()">{{ l.results100 }}</a>
 			</div>
 		</div>
 
 		<div class="dropdown">
-			<button class="dropbtn menubar_bot" id="methods_bot" onclick="showMethods()">Show methods</button>
+			<button class="dropbtn menubar_bot" id="methods_bot" onclick="showMethods()">{{ l.show_methods }}</button>
 		</div>
 
 		<div id="hg">
@@ -50,24 +50,32 @@
 		</div>
 		<div id="egg">
 			<input type="checkbox" id="gameegg" onchange="getPoke()" checked="true" class="chk-btn">
-			<label for="gameegg" class="menubaritem">Egg</label>
+			<label for="gameegg" class="menubaritem">{{ l.egg }}</label>
 		</div>
 		<div id="event">
 			<input type="checkbox" id="gameevent" onchange="getPoke()" checked="true" class="chk-btn">
-			<label for="gameevent" class="menubaritem">Event</label>
+			<label for="gameevent" class="menubaritem">{{ l.event }}</label>
 		</div>
 		{% if islogged %}
 			<a href="/profile" class="menubaritem">{{username}}</a>
-			<a href="/logout" class="menubaritem">Logout</a>
+			<a href="/logout" class="menubaritem">{{ l.logout }}</a>
 		{% else %}
-			<a href="/login" class="menubaritem">Login</a>
-			<a href="/register" class="menubaritem">Register</a>
+			<a href="/login" class="menubaritem">{{ l.login }}</a>
+			<a href="/register" class="menubaritem">{{ l.register }}</a>
 		{% endif %}
-		<a href="/help" class="menubaritem">Help</a>
+		<div class="dropdown">
+			<button class="dropbtn menubar_bot" id="langbot" onclick="dropdownLang()">{{ l.langlargo }}
+			</button>
+			<div class="dropdown-content" id="myDropdownLang">
+				<a href="/?lang=en">English</a>
+				<a href="/?lang=es">Español</a>
+			</div>
+		</div>
+		<a href="/help" class="menubaritem">{{ l.help }}</a>
 
 
 
-		<a id="demo" style="display:none;">In Game Hour:</a>
+		<a id="hiddenlang" style="display:none;">{{l.lang}}</a>
 	</div>
 
 	<div id="menubar_methods" class="menubar_methods">
@@ -125,7 +133,7 @@
 		<div id="timediv"></div>
 
 		<div id="searchbox">
-			<input id="pokename" name="pokename" type="text" placeholder="Filter by name or dex number..." autofocus onkeyup="getPoke()" autocomplete="off">
+			<input id="pokename" name="pokename" type="text" placeholder="{{ l.filterbox }}" autofocus onkeyup="getPoke()" autocomplete="off">
 		</div>
 
 		<div id="main">
@@ -133,13 +141,13 @@
 				<tr>
 					<th>Dex</th>
 					<th>Pokémon</th>
-					<th>Location</th>
-					<th>Game</th>
-					<th>Method</th>
-					<th>Level</th>
-					<th>Mor</th>
-					<th>Day</th>
-					<th>Nig</th>
+					<th>{{ l.location }}</th>
+					<th>{{ l.game }}</th>
+					<th>{{ l.method }}</th>
+					<th>{{ l.level }}</th>
+					<th>{{ l.mor }}</th>
+					<th>{{ l.day }}</th>
+					<th>{{ l.nig }}</th>
 				</tr>
 			</table>
 		</div>
@@ -148,15 +156,15 @@
 
 {% block scripts %}
 <script src="https://code.jquery.com/jquery-3.1.0.min.js"></script>
-<script src="script.js"></script>
+
 <script>
 
 	function showMethods(){
 		document.getElementById("menubar_methods").classList.toggle("show");
 		if(document.getElementById("menubar_methods").classList.contains("show")){
-			document.getElementById("methods_bot").innerHTML = "Hide methods";
+			document.getElementById("methods_bot").innerHTML = "{{l.hide_methods}}";
 		}else{
-			document.getElementById("methods_bot").innerHTML = "Show methods";
+			document.getElementById("methods_bot").innerHTML = "{{l.show_methods}}";
 		}
 	}
 
@@ -167,6 +175,11 @@
 	function dropdownNum() {
 		document.getElementById("myDropdownNum").classList.toggle("show");
 	}
+
+	function dropdownLang() {
+		document.getElementById("myDropdownLang").classList.toggle("show");
+	}
+
 
 	// Close the dropdown if the user clicks outside of it
 	window.onclick = function(e) {
@@ -184,45 +197,91 @@
 
 	function allLocations() {
 		document.getElementById("groupselector").value = 0;
-		document.getElementById("locationbot").innerHTML = "All locations";
+		document.getElementById("locationbot").innerHTML = "{{l.all_locations_short}}";
 		getPoke();
 	}
 	function mostProbable() {
 		document.getElementById("groupselector").value = 1;
-		document.getElementById("locationbot").innerHTML = "Most probable";
+		document.getElementById("locationbot").innerHTML = "{{l.most_probable_short}}";
 		getPoke();
 	}
 
 	function limit10(){
 		document.getElementById("limit").value = 10;
-		document.getElementById("numbot").innerHTML = "10 results";
+		document.getElementById("numbot").innerHTML = "{{l.results10_short}}";
 		getPoke();
 	}
 	function limit50(){
 		document.getElementById("limit").value = 50;
-		document.getElementById("numbot").innerHTML = "50 results";
+		document.getElementById("numbot").innerHTML = "{{l.results50_short}}";
 		getPoke();
 	}
 	function limit100(){
 		document.getElementById("limit").value = 100;
-		document.getElementById("numbot").innerHTML = "100 results";
+		document.getElementById("numbot").innerHTML = "{{l.results100_short}}";
 		getPoke();
 	}
-	window.onload = function() {
-		var selector = document.getElementById("groupselector").value;
-		if(selector == 1){
-			mostProbable();
+
+	
+	function getHora(){
+		var d = new Date();
+		var t2 = 0;
+		var h = d.getHours();
+		var ht = '';
+		if(h >= 4 && h < 10){
+			ht = '{{l.morning_largo}}';
+			franjahoraria = 0;
+			t2 = 10*60;
+		}else if(h >= 10 && h < 20){
+			ht = '{{l.day_largo}}';
+			franjahoraria = 1;
+			t2 = 20*60;
 		}else{
-			allLocations();
+			ht = '{{l.night_largo}}';
+			franjahoraria = 2;
+			if(h >= 0){
+				t2 = 4*60;
+			}else{
+				t2 = 4*60 + 24*60; 
+			}
 		}
-		var limit = document.getElementById("limit").value;
-		if(limit == 10){
-			limit10();
-		}else if(limit == 100){
-			limit100();
+		var t = h*60 + d.getMinutes()
+		var dif = t2-t;
+		var hours = dif/60;
+		var min = (hours - Math.floor(hours)) * 60;
+		var hourst = Math.floor(hours);
+		var mint = Math.floor(min);
+
+		var remain = '';
+		if(hourst != 0)
+		{
+			remain += hourst + ' {{l.hour}}';
+		}
+		if(hourst != 1)
+		{
+			remain += 's';
+		}
+
+		if(hourst != 0) remain += ' {{l.and}} ';
+		if(mint != 0)
+		{
+			remain += mint + ' {{l.minute}}';
+		}
+		if(mint != 1)
+		{
+			remain += 's';
+		}
+		remain += ' {{l.until}} ';
+		if(franjahoraria == 0){
+			remain += '{{l.day_largo}}';
+		}else if(franjahoraria == 1){
+			remain += '{{l.night_largo}}';
 		}else{
-			limit50();
+			remain += '{{l.morning_largo}}';
 		}
+		remain += ')';
+		document.getElementById("timediv").innerHTML = '{{l.current_time}}: ' + FormatNumberLength(d.getHours(), 2) + ':' + FormatNumberLength(d.getMinutes(), 2) + ' ('+ ht + ', ' + remain;
 	}
 </script>
+<script src="script.js"></script>
 {%endblock%}
