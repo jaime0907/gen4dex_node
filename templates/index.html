@@ -24,6 +24,29 @@
 			<button class="dropbtn menubar_bot" id="methods_bot" onclick="showMethods()">{{ l.show_methods }}</button>
 		</div>
 
+		{% if islogged %}
+			<a href="/profile" class="menubaritem">{{username}}</a>
+			<a href="/logout" class="menubaritem">{{ l.logout }}</a>
+		{% else %}
+			<a href="/login" class="menubaritem">{{ l.login }}</a>
+			<a href="/register" class="menubaritem">{{ l.register }}</a>
+		{% endif %}
+		<div class="dropdown">
+			<button class="dropbtn menubar_bot" id="langbot" onclick="dropdownLang()">{{ l.langlargo }}
+			</button>
+			<div class="dropdown-content" id="myDropdownLang">
+				<a href="/?lang=en">English</a>
+				<a href="/?lang=es">Español</a>
+			</div>
+		</div>
+		<a href="/help" class="menubaritem">{{ l.help }}</a>
+
+
+
+		<a id="hiddenlang" style="display:none;">{{l.lang}}</a>
+	</div>
+
+	<div id="menubar_games" class="menubar_games">
 		<div id="hg">
 			<input type="checkbox" id="gamehg" onchange="getPoke()" checked="true" class="chk-btn">
 			<label for="gamehg" class="menubaritem">HG</label>
@@ -56,27 +79,8 @@
 			<input type="checkbox" id="gameevent" onchange="getPoke()" checked="true" class="chk-btn">
 			<label for="gameevent" id="gameeventlabel" class="menubaritem">{{ l.event }}</label>
 		</div>
-		{% if islogged %}
-			<a href="/profile" class="menubaritem">{{username}}</a>
-			<a href="/logout" class="menubaritem">{{ l.logout }}</a>
-		{% else %}
-			<a href="/login" class="menubaritem">{{ l.login }}</a>
-			<a href="/register" class="menubaritem">{{ l.register }}</a>
-		{% endif %}
-		<div class="dropdown">
-			<button class="dropbtn menubar_bot" id="langbot" onclick="dropdownLang()">{{ l.langlargo }}
-			</button>
-			<div class="dropdown-content" id="myDropdownLang">
-				<a href="/?lang=en">English</a>
-				<a href="/?lang=es">Español</a>
-			</div>
-		</div>
-		<a href="/help" class="menubaritem">{{ l.help }}</a>
-
-
-
-		<a id="hiddenlang" style="display:none;">{{l.lang}}</a>
 	</div>
+
 
 	<div id="menubar_methods" class="menubar_methods">
 		<div id="wild">

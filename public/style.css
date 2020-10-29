@@ -398,6 +398,12 @@ input.chk-btn + label {
     font-size: 0;
 }
 
+.menubar_games {
+    grid-area: menubar;
+    color: #FFF;
+    font-size: 0;
+}
+
 .show {
   display: block;
 }
