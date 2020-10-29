@@ -35,8 +35,14 @@ app.use(bodyParser.urlencoded({ extended: false }));
 const db = new Database('gen4dex_db.sqlite3');
 //const db_users = new Database('users_db.sqlite3');
 
-const pool = new Pool()
-console.log(pool)
+let pool;
+if(process.env.DATABSE_URL){
+	pool = new Pool({
+		connectionString: process.env.DATABSE_URL,
+	})
+}else{
+	pool = new Pool()
+}
 
 app.use(express.static('public'));
 
