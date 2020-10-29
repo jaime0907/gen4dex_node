@@ -247,14 +247,14 @@
 		}else{
 			ht = '{{l.night_largo}}';
 			franjahoraria = 2;
-			if(h >= 0){
+			if(h < 20){
 				t2 = 4*60;
 			}else{
 				t2 = 4*60 + 24*60; 
 			}
 		}
 		var t = h*60 + d.getMinutes()
-		var dif = Math.abs(t2-t);
+		var dif = t2-t;
 		var hours = dif/60;
 		var min = (hours - Math.floor(hours)) * 60;
 		var hourst = Math.floor(hours);
