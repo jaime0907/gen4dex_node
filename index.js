@@ -182,14 +182,41 @@ app.post('/post', (req, res) => {
 			datadb = result.rows[0]
 			var catched = ""
 			var pokedex = datadb.pokedex
+			var numeric_pokedex_faltan = []
 			for(let i = 0; i < 493; i++){
+				var dex = i + 1;
 				if(pokedex && i < pokedex.length && pokedex[i] == "1"){
-					var dex = i + 1;
 					catched += " and dex != " + dex;
+				}else if(pokedex[i] == "0"){
+					numeric_pokedex_faltan.push(dex)
 				}
 			}
 			let sql = 'select * from (select *, max(coalesce(probdawn,0), coalesce(probday,0), coalesce(probnight,0)) as maxprob from alldata inner join esp on alldata.id = esp.id where 1 = 1' + filtro + catched + games + method + ' order by dex, maxprob desc) ' + groupby + " limit " + limit;
 			let rows = db.prepare(sql).all({games:games});
+			pokes_lista = []
+			for(let i = 0; i < rows.length; i++){
+				pokes_lista.push(rows[i].dex)
+			}
+			var index_last = numeric_pokedex_faltan.findIndex(x => x == pokes_lista[pokes_lista.length - 1]);
+			if(index_last >= 0){
+				numeric_pokedex_faltan.splice(index_last)
+			}
+			for(let i = 0; i < pokes_lista.length; i++){
+				if(numeric_pokedex_faltan.includes(pokes_lista[i])){
+					let index_item = numeric_pokedex_faltan.findIndex(x => x == pokes_lista[i]);
+					numeric_pokedex_faltan.splice(index_item, 1)
+				}
+			}
+			let sqlpokelist = 'select name from alldata group by dex order by dex';
+			let poke_name_list = db.prepare(sqlpokelist).all();
+			for(let i = 0; i < rows.length; i++){
+				if(numeric_pokedex_faltan.length > 0 && rows[i].dex > numeric_pokedex_faltan[0]){
+					greyed_poke = {"dex":numeric_pokedex_faltan[0],"name":poke_name_list[numeric_pokedex_faltan[0] - 1].name,"id":690,"place":"","hg":0,"ss":0,"d":0,"pe":0,"pt":0,"evo":0,"egg":0,"event":0,"method":"","levelmin":-1,"levelmax":-1,"probdawn":101,"probday":101,"probnight":101,"specialprob":"","subloc":"greyed","place_esp":"","method_esp":"","subloc_esp":"greyed","maxprob":101}
+					rows.splice(i, 0, greyed_poke)
+					numeric_pokedex_faltan.splice(0, 1)
+				}
+			}
+
 
 			if(data.hg == datadb.hg  && data.ss == datadb.ss  && data.d == datadb.d  && data.pe == datadb.pe  && data.pt == datadb.pt  && data.evo == datadb.evo  && data.egg == datadb.egg  && data.event == datadb.event  && data.wild == datadb.wild  && data.headbutt == datadb.headbutt  && data.hoenn == datadb.hoenn  && data.sinnoh == datadb.sinnoh  && data.radar == datadb.radar  && data.swarm == datadb.swarm  && data.slot == datadb.slot && data.other == datadb.other){
 				res.json(rows);

@@ -60,6 +60,9 @@ function addRowPoke(poke, lastpoke){
 		this.style.background = '';
 	}
 	name.onclick = function(){catchPoke(poke.dex)};
+	if(poke.subloc == "greyed"){
+		name.classList.add('greyed');
+	}
 
 	var place = row.insertCell(2);
 	var lang = document.getElementById("hiddenlang").innerHTML;
@@ -234,6 +237,10 @@ function addRowPoke(poke, lastpoke){
 
 	if(poke.dex != lastpoke && document.getElementById("groupselector").value == 0){
 		row.style.backgroundColor = "#ffeec4"
+	}
+
+	if(poke.subloc == "greyed"){
+		row.style.backgroundColor = "#a0a0a0"
 	}
 
 }

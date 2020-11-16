@@ -404,6 +404,11 @@ input.chk-btn + label {
     font-size: 0;
 }
 
+.greyed {
+    filter: grayscale(100%) brightness(50%);
+}
+
 .show {
   display: block;
 }
+
