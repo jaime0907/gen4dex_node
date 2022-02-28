@@ -10,17 +10,17 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "bcrypt": "^5.0.0",
-    "better-sqlite3": "^7.1.1",
-    "body-parser": "^1.19.0",
-    "connect-sqlite3": "^0.9.11",
-    "express": "^4.17.1",
-    "express-session": "^1.17.1",
+    "bcrypt": "^5.0.1",
+    "better-sqlite3": "^7.5.0",
+    "body-parser": "^1.19.2",
+    "connect-sqlite3": "^0.9.13",
+    "express": "^4.17.3",
+    "express-session": "^1.17.2",
     "mysql": "^2.18.1",
-    "nunjucks": "^3.2.2",
-    "pg": "^8.4.2"
+    "nunjucks": "^3.2.3",
+    "pg": "^8.7.3"
   },
   "engines": {
-    "node": "12.18.3"
+    "node": ">=12.18.3"
   }
 }
