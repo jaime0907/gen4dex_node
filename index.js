@@ -6,7 +6,8 @@ var SQLiteStore = require('connect-sqlite3')(session);
 const bcrypt = require('bcrypt');
 const saltRounds = 10;
 const nunjucks = require('nunjucks');
-const { Pool, Client } = require('pg');
+const mysql = require('mysql');
+const secrets = require('./secret.json')
 
 const app = express()
 const port = process.env.PORT || 3000;
@@ -35,17 +36,14 @@ app.use(bodyParser.urlencoded({ extended: false }));
 const db = new Database('gen4dex_db.sqlite3');
 //const db_users = new Database('users_db.sqlite3');
 
-let pool;
-console.log(process.env.DATABASE_URL)
-if(process.env.DATABASE_URL){
-	console.log("Creating new PostgreSQL Pool with DATABASE_URL")
-	pool = new Pool({
-		connectionString: process.env.DATABASE_URL
-	})
-}else{
-	console.log("Creating new PostgreSQL Pool on localhost")
-	pool = new Pool()
-}
+var pool = mysql.createPool({
+	connectionLimit : 10,
+	host            : secrets.ENDPOINT,
+	port            : secrets.PORT,
+	user            : secrets.USER,
+	password        : secrets.PASSWORD,
+	database        : secrets.DBNAME
+})
 
 app.use(express.static('public'));
 
@@ -84,9 +82,9 @@ app.get('/', (req, res) => {
 app.post('/selectorinfo', (req,res) => {
 	var username = req.session.username;
 	if(username){
-		pool.query('select hg, ss, d, pe, pt, evo, egg, event, wild, headbutt, hoenn, sinnoh, radar, swarm, slot, other from users where username = $1', [username], (err, result) => {
+		pool.query('select hg, ss, d, pe, pt, evo, egg, event, wild, headbutt, hoenn, sinnoh, radar, swarm, slot, other from users where username = ?', [username], (err, result) => {
 			if(err) throw err;
-			res.json({islogged: true, data: result.rows[0]})
+			res.json({islogged: true, data: result[0]})
 		})
 		//var row = db_users.prepare('select hg, ss, d, pe, pt, evo, egg, event, wild, headbutt, hoenn, sinnoh, radar, swarm, slot, other from users where username = ?').get(username)
 		//res.json({islogged: true, data: row})
@@ -177,9 +175,9 @@ app.post('/post', (req, res) => {
 	
 	
 	if(username){
-		pool.query('select * from users where username = $1', [username], (err, result) => {
+		pool.query('select * from users where username = ?', [username], (err, result) => {
 			if(err) throw err;
-			datadb = result.rows[0]
+			datadb = result[0]
 			var catched = ""
 			var pokedex = datadb.pokedex
 			var numeric_pokedex_faltan = []
@@ -222,7 +220,7 @@ app.post('/post', (req, res) => {
 				res.json(rows);
 			}else{
 				datos = [data.hg, data.ss, data.d, data.pe, data.pt, data.evo,data.egg,data.event,data.wild,data.headbutt,data.hoenn,data.sinnoh,data.radar,data.swarm,data.slot,data.other,username]
-				pool.query('update users set hg = ($1), ss = ($2), d = ($3), pe = ($4), pt = ($5), evo = ($6), egg = ($7), event = ($8), wild = ($9), headbutt = ($10), hoenn = ($11), sinnoh = ($12), radar = ($13), swarm = ($14), slot = ($15), other = ($16) where username = $17', datos, (err, result) => {
+				pool.query('update users set hg = (?), ss = (?), d = (?), pe = (?), pt = (?), evo = (?), egg = (?), event = (?), wild = (?), headbutt = (?), hoenn = (?), sinnoh = (?), radar = (?), swarm = (?), slot = (?), other = (?) where username = ?', datos, (err, result) => {
 					if(err) throw err;
 					res.json(rows);
 				})
@@ -253,12 +251,12 @@ app.post('/login', (req, res) => {
 	var username = req.body.username;
 	var password = req.body.password;
 	if(username && password){
-		pool.query('select * from users where username = $1', [username], (err, result) => {
+		pool.query('select * from users where username = ?', [username], (err, result) => {
 			if(err) throw err;
-			if(result.rows.length === 0){
+			if(result.length === 0){
 				res.render('login', {error: true, l: lang_dict[lang]});
 			}else{
-				var db_password = result.rows[0].password
+				var db_password = result[0].password
 				bcrypt.compare(password, db_password, (err, result) => {
 					if(result){
 						if(req.session){
@@ -297,15 +295,15 @@ app.post('/register', (req, res) => {
 	var password2 = req.body.password2;
 	if(username && password && password2){
 		if(password == password2){
-			pool.query('select * from users where username = $1',[username],(err, result) => {
+			pool.query('select * from users where username = ?',[username],(err, result) => {
 				if(err) throw err;
-				if(result.rows.length === 0){
+				if(result.length === 0){
 					bcrypt.hash(password, saltRounds, (err, hash) => {
 						var emptydex = ""
 						for(let i = 0; i < 493; i++){
 							emptydex += "0"
 						}
-						pool.query('insert into users (username, password, pokedex) values ($1,$2,$3)',[username, hash, emptydex], (err, result) => {
+						pool.query('insert into users (username, password, pokedex) values (?,?,?)',[username, hash, emptydex], (err, result) => {
 							if(err) throw err;
 							req.session.regenerate(function(err){
 								req.session.username = username;
@@ -332,9 +330,9 @@ app.get('/logout', (req,res) => {
 
 function getPokesProfile(db, username){
 	var pokes = []
-	pool.query('select * from users where username = $1', [username], (err, result) => {
+	pool.query('select * from users where username = ?', [username], (err, result) => {
 		if(err) throw err;
-		var row = result.rows[0]
+		var row = result[0]
 		for(let i = 0; i < 493; i++){
 			if(i % 5 == 0){
 				pokes.push([])
@@ -358,9 +356,9 @@ app.get('/profile', (req, res) => {
 	}
 	var username = req.session.username
 
-	pool.query('select * from users where username = $1', [username], (err, result) => {
+	pool.query('select * from users where username = ?', [username], (err, result) => {
 		if(err) throw err;
-		var row = result.rows[0]
+		var row = result[0]
 		var pokes = []
 		for(let i = 0; i < 493; i++){
 			if(i % 5 == 0){
@@ -387,9 +385,9 @@ app.post('/profile', (req, res) => {
 	}
 	var username = req.session.username
 	var text = req.body.poketext;
-	pool.query('select * from users where username = $1', [username], (err, result) => {
+	pool.query('select * from users where username = ?', [username], (err, result) => {
 		if(err) throw err;
-		var row = result.rows[0]
+		var row = result[0]
 		var pokes = []
 		for(let i = 0; i < 493; i++){
 			if(i % 5 == 0){
@@ -418,11 +416,11 @@ app.post('/profile', (req, res) => {
 					pokedex += '0';
 				}
 			}
-			pool.query('update users set pokedex = $1 where username = $2', [pokedex, req.session.username], (err, result) => {
+			pool.query('update users set pokedex = ? where username = ?', [pokedex, req.session.username], (err, result) => {
 				if(err) throw err;
-				pool.query('select * from users where username = $1', [username], (err, result) => {
+				pool.query('select * from users where username = ?', [username], (err, result) => {
 					if(err) throw err;
-					var row = result.rows[0]
+					var row = result[0]
 					var pokes = []
 					for(let i = 0; i < 493; i++){
 						if(i % 5 == 0){
@@ -453,12 +451,12 @@ app.post('/catchpoke', (req,res) => {
 	var dex = req.body.dex;
 	var username = req.session.username;
 	if(username){
-		pool.query('select * from users where username = $1', [username], (err, result) => {
+		pool.query('select * from users where username = ?', [username], (err, result) => {
 			if(err) throw err;
-			var row = result.rows[0]
+			var row = result[0]
 			var pokedex = row.pokedex;
 			var newdex = pokedex.substr(0, dex-1) + "1" + pokedex.substr(dex);
-			pool.query('update users set pokedex = $1 where username = $2', [newdex, username], (err, result) => {
+			pool.query('update users set pokedex = ? where username = ?', [newdex, username], (err, result) => {
 				if(err) throw err;
 				res.sendStatus(200);
 			});
@@ -470,12 +468,12 @@ app.post('/uncatchpoke', (req,res) => {
 	var dex = req.body.dex;
 	var username = req.session.username;
 	if(username){
-		pool.query('select * from users where username = $1', [username], (err, result) => {
+		pool.query('select * from users where username = ?', [username], (err, result) => {
 			if(err) throw err;
-			var row = result.rows[0]
+			var row = result[0]
 			var pokedex = row.pokedex;
 			var newdex = pokedex.substr(0, dex-1) + "0" + pokedex.substr(dex);
-			pool.query('update users set pokedex = $1 where username = $2', [newdex, username], (err, result) => {
+			pool.query('update users set pokedex = ? where username = ?', [newdex, username], (err, result) => {
 				if(err) throw err;
 				res.sendStatus(200);
 			});
